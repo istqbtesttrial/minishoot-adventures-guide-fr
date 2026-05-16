@@ -1,39 +1,104 @@
 # Secrets et objets faciles à rater
 
-## Les plus importants
+> Si tu veux éviter la douleur du “99% + 1 objet introuvable”, ce document est l’un des plus importants du repo.
+
+---
+
+## Les grands pièges du jeu
+
+### 1. La zone de départ n’est jamais vraiment “terminée” trop tôt
+
+Beaucoup d’objets et interactions utiles demandent de **revenir plus tard**.
+
+Donc si tu te dis :
+> “j’ai déjà tout fait ici”
+
+…c’est souvent faux.
+
+---
+
+### 2. Les récompenses différées
+
+Certains contenus ne tombent pas simplement parce que tu as fini l’objectif. Il faut encore :
+- reparler au PNJ
+- revenir à une maison
+- récupérer la récompense dans un lieu précis
+
+C’est particulièrement vrai pour :
+- la **famille**
+- les **scarabées dorés**
+- les **courses**
+
+---
+
+### 3. Les passages cachés “propres”
+
+Le jeu adore les murs, autels, tables, bâtiments et coins qui ont l’air ordinaires mais qui cachent :
+- un passage
+- une interaction
+- un objet de fin de collection
+
+---
+
+## Secrets les plus souvent cités
 
 ### Family Home
-Très souvent le **dernier module manquant**.
+Un grand classique.
 
-### Passage caché de Wounded Heart
-Temple au sud-ouest, derrière / à droite de l’autel.
+- reviens après progression
+- vérifie la maison dans la ville principale
+- regarde bien les interactions possibles liées à la famille
+
+### Wounded Heart / Coeur Blessé
+Autre classique.
+
+- temple au sud-ouest
+- passage caché derrière / à droite de l’autel
 
 ### Bâtiment caché de la zone ouest
-Un des lieux les plus faciles à ignorer si tu suis seulement la progression principale.
+- lié à la zone du Donjon 4
+- contient des éléments importants
+- se rate facilement si tu ne fouilles pas méthodiquement
 
 ### Donjon optionnel du désert
-Beaucoup de joueurs le repoussent puis l’oublient.
+- très rentable
+- souvent oublié si on suit juste l’histoire principale
 
-### Récompenses tardives
-- courses
-- scarabées dorés
-- contenu post-game
+---
 
-## Succès liés à des secrets
+## Succès secrets / semi-secrets à surveiller
 
-### Finding your place
-- lié à la maison / au siège après certains sauvetages
+### Trouver sa place
+Lié à la **famille / maison / siège** selon la progression.
 
-### Thanks for listening
-- lié au barde près de la sortie nord de la ville après l’avoir sauvé
+### Merci de m’avoir écouté
+Lié au **barde** une fois sauvé.
 
-### Overstuffed
-- trouver tous les modules
+### Suréquipément
+Demande tous les modules, donc dépend énormément des retours cachés.
 
-## Conseil simple
+### Sans regarder en arrière
+Plutôt post-game / fin complète du jeu.
 
-Si tu bloques sur un seul objet manquant, le meilleur trio est :
+---
 
-1. la carte interactive
-2. les discussions Steam
-3. une vidéo full collect
+## Conseils anti-frustration
+
+Quand il te manque un seul objet :
+
+1. ouvre la carte interactive
+2. vérifie les récompenses différées
+3. lis les discussions Steam/Reddit sur l’objet manquant
+4. regarde une vidéo full collect sur la zone concernée
+
+---
+
+## Résumé pratique
+
+Les plus gros oublis du jeu sont rarement dans les gros donjons principaux.
+Ils sont souvent dans :
+- la **ville principale**
+- les **retours de quête**
+- les **courses**
+- les **récompenses PNJ**
+- les **passages cachés post-progression**
