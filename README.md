@@ -1,155 +1,109 @@
 # 🎮 Minishoot' Adventures — Guide FR complet
 
-> Guide francophone clair et structuré pour terminer **Minishoot' Adventures** à 100% : progression, modules, secrets, courses, succès, carte interactive et données extraites.
-
-[![Repo public](https://img.shields.io/badge/GitHub-public-brightgreen)](https://github.com/istqbtesttrial/minishoot-adventures-guide-fr)
-[![Jeu](https://img.shields.io/badge/Game-Minishoot%27%20Adventures-6c5ce7)](https://store.steampowered.com/app/1634860/Minishoot_Adventures/)
+Guide francophone organisé pour terminer **Minishoot' Adventures** à 100% : progression, modules, cœurs, énergie, courses, scarabées, cartes, lore, clés, succès et données extraites.
 
 ---
 
 ## 🚀 Commencer ici
 
-| Je veux… | Lire | Pourquoi |
-| --- | --- | --- |
-| 🧭 suivre un ordre simple | [Parcours 100%](docs/parcours-100.md) | route claire étape par étape |
-| 🧭 avancer dans l’histoire | [Soluce FR](docs/soluce.md) | progression conseillée sans trop spoiler |
-| ✅ tout cocher | [Checklist interactive](docs/checklist-interactive.html) | suivi local dans le navigateur |
-| 🛠️ résoudre un blocage | [Dépannage](docs/depannage.md) | diagnostic module/scarabée/succès |
-| 🗺️ chercher un emplacement | [Carte interactive + ressources](docs/cartes.md) | liens et méthode de recherche |
-| 📚 comprendre les CSV | [Données claires](docs/donnees-claires.md) | cœurs, courses, modules, scarabées, clés |
-
-➡ **[Guide visuel rapide](docs/guide-visuel.md)**  
-➡ Hub complet : **[Navigation rapide](docs/README.md)**  
-➡ Légende : **[Pictogrammes du guide](docs/pictogrammes.md)**
-
----
-
-## 🧭 Structure du guide
-
-### 1. Jouer / progresser
-
-- 🎮 [Guide visuel rapide](docs/guide-visuel.md)
-- 🧭 [Parcours 100% étape par étape](docs/parcours-100.md)
-- 🧭 [Soluce FR — progression conseillée](docs/soluce.md)
-- 🧱 [Secrets et objets faciles à rater](docs/secrets.md)
-
-### 2. Collecter / terminer
-
-- ✅ [Objectif 100% et succès](docs/100-percent.md)
-- 🧩 [Guide des modules](docs/modules.md)
-- 🏁 [Les 8 courses](docs/courses.md)
-- ✅ [Checklist interactive](docs/checklist-interactive.html)
-
-### 3. Diagnostiquer / retrouver
-
-- 🛠️ [Dépannage — dernier objet/module manquant](docs/depannage.md)
-- 🗺️ [Cartes, vidéos et ressources](docs/cartes.md)
-- 📚 [Données claires depuis les CSV](docs/donnees-claires.md)
-- 📊 [Extraction de la carte interactive](docs/map-data.md)
-- 📸 [Captures et repères visuels](docs/captures.md)
-
-### 4. Vérifier / maintenir
-
-- 🔎 [Notes de sources](docs/sources.md)
-- 🔎 [Journal de recherche deep](docs/recherche-deep.md)
-- 📊 [Données extraites](data/README.md)
-- 🎯 [Pictogrammes](docs/pictogrammes.md)
+| Je veux… | Page claire |
+| --- | --- |
+| Voir tout le guide | [📚 Sommaire complet](docs/README.md) |
+| Suivre une route 100% | [🧭 Parcours 100%](docs/parcours-100.md) |
+| Avancer dans l’histoire | [🧭 Soluce progression](docs/soluce.md) |
+| Tout cocher | [✅ Checklist 100%](docs/checklist-100-pourcent.md) |
+| Trouver les modules / skills | [🧩 Modules et skills](docs/modules-et-skills.md) |
+| Trouver les cœurs / énergie | [❤️ Cœurs et énergie](docs/coeurs-et-energie.md) |
+| Faire les courses | [🏁 Courses et race spirits](docs/courses-et-race-spirits.md) |
+| Trouver les scarabées | [🪲 Scarabées dorés](docs/scarabees-dores.md) |
+| Voir cartes / lore / clés | [🗺️ Cartes, lore et clés](docs/cartes-lore-et-cles.md) |
+| Résoudre un blocage | [🛠️ Dépannage](docs/depannage-problemes-frequents.md) |
+| Comprendre les CSV | [📊 Données techniques](docs/donnees-techniques.md) |
 
 ---
 
-## 🧩 Pictogrammes rapides
+## 📚 Organisation claire des pages
 
-| Picto | Catégorie | Page principale |
-| --- | --- | --- |
-| 🧭 | progression | [Soluce](docs/soluce.md) |
-| 🧩 | modules | [Modules](docs/modules.md) |
-| ✨ | skills | [Parcours 100%](docs/parcours-100.md) |
-| 🪲 | scarabées dorés | [Dépannage](docs/depannage.md#scarabee-dore-manquant) |
-| 👻 | race spirits | [Courses](docs/courses.md) |
-| 🏁 | courses | [Courses](docs/courses.md) |
-| ❤️ | coeurs | [100%](docs/100-percent.md) |
-| ⚡ | énergie | [Extraction map](docs/map-data.md) |
-| 🗺️ | carte | [Cartes](docs/cartes.md) |
-| 📊 | données brutes | [Données](data/README.md) |
+### 1. Jouer et progresser
+
+- [🧭 Parcours 100%](docs/parcours-100.md)
+- [🧭 Soluce progression](docs/soluce.md)
+- [🧱 Secrets faciles à rater](docs/secrets.md)
+- [🎮 Guide visuel rapide](docs/guide-visuel.md)
+
+### 2. Collectibles et objets
+
+- [🧩 Modules et skills](docs/modules-et-skills.md)
+- [❤️ Cœurs et énergie](docs/coeurs-et-energie.md)
+- [🏁 Courses et race spirits](docs/courses-et-race-spirits.md)
+- [🪲 Scarabées dorés](docs/scarabees-dores.md)
+- [🗺️ Cartes, lore et clés](docs/cartes-lore-et-cles.md)
+
+### 3. Finir à 100%
+
+- [✅ Checklist 100%](docs/checklist-100-pourcent.md)
+- [✅ Checklist interactive](docs/checklist-interactive.html)
+- [🛠️ Dépannage problèmes fréquents](docs/depannage-problemes-frequents.md)
+
+### 4. Données et vérification
+
+- [📊 Données techniques et CSV](docs/donnees-techniques.md)
+- [📊 Extraction map complète](docs/map-data.md)
+- [🔎 Sources et vérification](docs/sources-et-verification.md)
+- [🎯 Pictogrammes](docs/pictogrammes.md)
 
 ---
 
-## 🗺️ Icônes extraites de la map
+## 🗺️ Carte interactive
 
-| 🧩 Module | ✨ Skill | ❤️ Coeur | ⚡ Énergie | 🪲 Scarabée | 👻 Course | 🗺️ Carte | 📜 Lore |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| <img src="docs/assets/map-icons/module.png" width="30" alt="Module"> | <img src="docs/assets/map-icons/skill.png" width="30" alt="Skill"> | <img src="docs/assets/map-icons/heart-crystal.png" width="30" alt="Heart"> | <img src="docs/assets/map-icons/energy-upgrade.png" width="30" alt="Energy"> | <img src="docs/assets/map-icons/golden-scarab.png" width="30" alt="Scarab"> | <img src="docs/assets/map-icons/race-spirit.png" width="30" alt="Race spirit"> | <img src="docs/assets/map-icons/map-piece.png" width="30" alt="Map"> | <img src="docs/assets/map-icons/lore-tablet.png" width="30" alt="Lore"> |
-
-Index complet : [docs/assets/map-icons/README.md](docs/assets/map-icons/README.md)
-
----
-
-## 🗺️ Ressource n°1 : carte interactive
-
-➡ **https://minishoot-map.github.io/**
+Ressource principale : <https://minishoot-map.github.io/>
 
 Méthode recommandée :
 
-1. ouvrir **Filters**
-2. activer **un seul filtre à la fois**
-3. nettoyer zone par zone
-4. noter ce qui reste dans la [checklist interactive](docs/checklist-interactive.html)
+1. ouvrir la carte
+2. activer un seul filtre à la fois
+3. comparer avec les pages claires du guide
+4. nettoyer zone par zone
+5. cocher dans la checklist
 
-Filtres prioritaires :
+Filtres les plus utiles :
 
-- 🧩 **Modules & Skills**
-- 🪲 **Scarabs**
-- 👻 **Race spirits**
-- ❤️ **Heart crystals**
-- ⚡ **Energy upgrades**
-- 🗺️📜 **Map & Lore fragments**
-
-La carte indique que ses données/images viennent de la **version v1.05** du jeu.
-
----
-
-## 🛠️ Les 5 vérifications prioritaires si un module manque
-
-1. 🏠 **Family Home** — maison familiale, bas-gauche du respawn central
-2. 🏠 **Pedestal / scène familiale** — se placer au bon endroit
-3. 🪲 **Scarab vendor** — récupérer/acheter la récompense des scarabées
-4. 🏁 **Récompense des 8 courses** — ne pas oublier le retour récompense
-5. ❤️ **Wounded Heart** — temple sud-ouest, passage secret près de l’autel
-
-Voir : [Dépannage](docs/depannage.md)
+- **Modules & Skills** → [Modules et skills](docs/modules-et-skills.md)
+- **Heart crystals / Energy upgrades** → [Cœurs et énergie](docs/coeurs-et-energie.md)
+- **Race spirits** → [Courses](docs/courses-et-race-spirits.md)
+- **Scarabs** → [Scarabées dorés](docs/scarabees-dores.md)
+- **Map & Lore** → [Cartes, lore et clés](docs/cartes-lore-et-cles.md)
 
 ---
 
 ## 📁 Structure du repo
 
 ```text
-README.md                    # accueil visuel
-docs/README.md               # hub principal
-docs/pictogrammes.md         # légende des pictos
-docs/parcours-100.md         # ordre de lecture/action
-docs/soluce.md               # progression histoire
-docs/secrets.md              # secrets faciles à rater
-docs/modules.md              # modules et cas manquants
-docs/courses.md              # 8 courses
-docs/100-percent.md          # checklist 100% / succès
-docs/depannage.md            # diagnostic des blocages
-docs/cartes.md               # cartes, vidéos, ressources
-docs/donnees-claires.md      # version lisible des CSV : cœurs, courses, modules, etc.
-docs/map-data.md             # résumé de l’extraction map
-data/map-extract/            # exports JSON/CSV bruts
-scripts/extract-map-data.mjs # régénération des exports
+README.md                         # accueil du repo
+docs/README.md                    # sommaire complet
+
+docs/parcours-100.md              # route 100%
+docs/soluce.md                    # progression histoire
+docs/secrets.md                   # secrets faciles à rater
+
+docs/modules-et-skills.md         # modules, skills, upgrades
+docs/coeurs-et-energie.md         # cœurs / HP et énergie
+docs/courses-et-race-spirits.md   # courses et race spirits
+docs/scarabees-dores.md           # scarabées dorés
+docs/cartes-lore-et-cles.md       # fragments de carte, lore, clés
+
+docs/checklist-100-pourcent.md    # checklist 100% lisible
+docs/checklist-interactive.html   # checklist interactive navigateur
+docs/depannage-problemes-frequents.md # solutions aux blocages
+
+docs/donnees-techniques.md        # explication des CSV
+docs/map-data.md                  # extraction map complète
+data/map-extract/                 # exports CSV/JSON bruts
+scripts/                          # scripts d’extraction
 ```
 
 ---
 
-## 📌 Statut du guide
+## 📌 Statut
 
-Le guide est organisé autour de 4 usages : **progresser**, **collecter**, **diagnostiquer**, **vérifier les sources**.
-
-À compléter ensuite :
-
-- 📸 captures annotées maison
-- 🏁 positions ultra-précises des 8 courses
-- 📜 liste exhaustive des tablettes d’histoire
-- 🧩 liste des modules dans l’ordre exact de l’inventaire
-- 🔎 confirmation des noms FR/EN de chaque module
+Le guide est maintenant organisé pour pouvoir **tout voir rapidement** : chaque grande catégorie a sa page claire, avec liens vers les CSV bruts quand il faut vérifier une coordonnée exacte.
