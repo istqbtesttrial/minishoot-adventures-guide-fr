@@ -1,0 +1,5 @@
+category,name,object,scene,x,y,schema,objectIndex,skillId,spriteI
+skills,Boost,SkillBoost,Overworld,118,80,SkillPickup,56688,3,23
+skills,Dash,SkillDash,Dungeon1,517,237,SkillPickup,108927,1,23
+skills,Supershot,SkillSupershot,Dungeon2,952,340,SkillPickup,112723,0,23
+skills,Hover,SkillHover,Dungeon3,867,-14,SkillPickup,125398,2,23

@@ -1,0 +1,11 @@
+category,name,object,scene,x,y,schema,objectIndex,npcId,spriteI
+crystal_npcs,Blacksmith,Blacksmith,Overworld,-0.91,28.99,CrystalNpc,52625,3,8
+crystal_npcs,MercantHub,MercantHub,Overworld,-59,37,CrystalNpc,52635,6,9
+crystal_npcs,Bard,Bard,Overworld,80,-263.47,CrystalNpc,52645,19,10
+crystal_npcs,Familly1,Familly1,Cave,-842,26,CrystalNpc,82239,0,39
+crystal_npcs,Healer,Healer,Cave,-632,28,CrystalNpc,82249,14,37
+crystal_npcs,Academician,Academician,Cave,-552,120,CrystalNpc,82259,4,42
+crystal_npcs,Explorer,Explorer,Cave,-642,-46,CrystalNpc,82269,5,36
+crystal_npcs,Familly3,Familly3,Tower,162.03,-334.46,CrystalNpc,154132,2,41
+crystal_npcs,ScarabCollector,ScarabCollector,Tower,84,-334.94,CrystalNpc,154142,18,38
+crystal_npcs,Familly2,Familly2,Tower,6,-334.94,CrystalNpc,154152,1,40

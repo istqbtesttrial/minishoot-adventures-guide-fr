@@ -1,0 +1,9 @@
+category,name,object,scene,x,y,schema,objectIndex,statsId,level,spriteI
+stats,Energy,OverworldEnergy0,Overworld,-41.96,16,StatsPickup,56259,8,0,17
+stats,Energy,OverworldEnergy1,Overworld,-50.5,-34,StatsPickup,56278,8,0,17
+stats,Energy,OverworldEnergy2,Overworld,18,-22,StatsPickup,56297,8,0,17
+stats,Energy,OverworldEnergy3,Overworld,-108,108,StatsPickup,56316,8,0,17
+stats,Energy,OverworldEnergy4,Overworld,65,114,StatsPickup,56335,8,0,17
+stats,Energy,CaveEnergy0,Cave,-654,-111,StatsPickup,84182,8,0,17
+stats,Energy,Dungeon1Energy0,Dungeon1,500,219,StatsPickup,108890,8,0,17
+stats,Energy,Dungeon3Energy0,Dungeon3,829,-15,StatsPickup,125377,8,0,17

@@ -1,0 +1,2 @@
+category,name,object,scene,x,y,schema,objectIndex,pickup,npcToFreeCount
+npc_family_checks,Npc family check,FamillyReunitedCheck,Cave,-668,7,MovePickupWhenFreed,86086,84564,3

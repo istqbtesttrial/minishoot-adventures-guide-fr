@@ -1,0 +1,200 @@
+[
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup0",
+    "scene": "Overworld",
+    "x": 6.25,
+    "y": -42.85,
+    "schema": "ScarabPickup",
+    "objectIndex": 56998,
+    "container": 12215
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup1",
+    "scene": "Overworld",
+    "x": 78,
+    "y": -132,
+    "schema": "ScarabPickup",
+    "objectIndex": 57023,
+    "container": 53431
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup2",
+    "scene": "Overworld",
+    "x": 169.08,
+    "y": 92.73,
+    "schema": "ScarabPickup",
+    "objectIndex": 57048,
+    "container": 15199
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup3",
+    "scene": "Overworld",
+    "x": -171.87,
+    "y": 180.2,
+    "schema": "ScarabPickup",
+    "objectIndex": 57073,
+    "container": 53437
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup4",
+    "scene": "Overworld",
+    "x": -283,
+    "y": 267,
+    "schema": "ScarabPickup",
+    "objectIndex": 57098,
+    "container": 53452
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup5",
+    "scene": "Overworld",
+    "x": 125.89,
+    "y": -49.08,
+    "schema": "ScarabPickup",
+    "objectIndex": 57123,
+    "container": 41061
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup6",
+    "scene": "Overworld",
+    "x": 231.73,
+    "y": 36.33,
+    "schema": "ScarabPickup",
+    "objectIndex": 57148,
+    "container": 38792
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "OverworldScarabPickup7",
+    "scene": "Overworld",
+    "x": -68,
+    "y": 90,
+    "schema": "ScarabPickup",
+    "objectIndex": 57173,
+    "container": 53518
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "CaveScarabPickup0",
+    "scene": "Cave",
+    "x": -822,
+    "y": 130.6,
+    "schema": "ScarabPickup",
+    "objectIndex": 84670,
+    "container": 82899
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "CaveScarabPickup1",
+    "scene": "Cave",
+    "x": -822,
+    "y": 146,
+    "schema": "ScarabPickup",
+    "objectIndex": 84695,
+    "container": 82902
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "CaveScarabPickup2",
+    "scene": "Cave",
+    "x": -774.03,
+    "y": -53.42,
+    "schema": "ScarabPickup",
+    "objectIndex": 84720,
+    "container": 79593
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "CaveScarabPickup3",
+    "scene": "Cave",
+    "x": -838.48,
+    "y": -130,
+    "schema": "ScarabPickup",
+    "objectIndex": 84745,
+    "container": 83058
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "Dungeon2ScarabPickup0",
+    "scene": "Dungeon2",
+    "x": 1046,
+    "y": 340,
+    "schema": "ScarabPickup",
+    "objectIndex": 112836,
+    "container": 112188
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "Dungeon3ScarabPickup0",
+    "scene": "Dungeon3",
+    "x": 911,
+    "y": 66,
+    "schema": "ScarabPickup",
+    "objectIndex": 125520,
+    "container": 124484
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "Dungeon3ScarabPickup1",
+    "scene": "Dungeon3",
+    "x": 829,
+    "y": -60,
+    "schema": "ScarabPickup",
+    "objectIndex": 125545,
+    "container": 124713
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "Temple1ScarabPickup0",
+    "scene": "Temple1",
+    "x": -851,
+    "y": -361,
+    "schema": "ScarabPickup",
+    "objectIndex": 137663,
+    "container": 137279
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "Temple2ScarabPickup0",
+    "scene": "Temple2",
+    "x": -524,
+    "y": -406,
+    "schema": "ScarabPickup",
+    "objectIndex": 141422,
+    "container": 140794
+  },
+  {
+    "category": "scarabs",
+    "name": "Golden Scarab",
+    "object": "Temple3ScarabPickup0",
+    "scene": "Temple3",
+    "x": -824,
+    "y": -619,
+    "schema": "ScarabPickup",
+    "objectIndex": 150023,
+    "container": 145144
+  }
+]

@@ -37,6 +37,7 @@ Pour savoir d’où vient chaque info :
 
 - [Notes de sources](sources.md)
 - [Journal de recherche deep](recherche-deep.md)
+- [Extraction de la carte interactive](map-data.md)
 
 ---
 

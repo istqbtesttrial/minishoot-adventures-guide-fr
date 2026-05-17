@@ -1,0 +1,5 @@
+category,name,object,scene,x,y,schema,objectIndex,spriteI
+boss_drop_keys,Boss drop key,Dungeon1CrystalBoss,Dungeon1,517,296.43,CrystalBoss,109017,138
+boss_drop_keys,Boss drop key,Dungeon2CrystalBoss,Dungeon2,952,215,CrystalBoss,112813,138
+boss_drop_keys,Boss drop key,Dungeon3CrystalBoss,Dungeon3,867,-107,CrystalBoss,125484,138
+boss_drop_keys,Boss drop key,Dungeon4CrystalBoss,Dungeon4,514,-15.31,CrystalBoss,128922,138

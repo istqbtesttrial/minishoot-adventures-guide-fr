@@ -1,0 +1,35 @@
+[
+  {
+    "category": "boss_keys",
+    "name": "Boss key",
+    "object": "Dungeon1BossKey",
+    "scene": "Dungeon1",
+    "x": 547,
+    "y": 193.23,
+    "schema": "BossKey",
+    "objectIndex": 109004,
+    "spriteI": 137
+  },
+  {
+    "category": "boss_keys",
+    "name": "Boss key",
+    "object": "Dungeon2BossKey",
+    "scene": "Dungeon2",
+    "x": 952,
+    "y": 288,
+    "schema": "BossKey",
+    "objectIndex": 112800,
+    "spriteI": 137
+  },
+  {
+    "category": "boss_keys",
+    "name": "Boss key",
+    "object": "Dungeon3BossKey",
+    "scene": "Dungeon3",
+    "x": 811,
+    "y": -100,
+    "schema": "BossKey",
+    "objectIndex": 125506,
+    "spriteI": 137
+  }
+]

@@ -1,0 +1,4 @@
+category,name,object,scene,x,y,schema,objectIndex,keyId,spriteI
+unique_keys,FinalBoss,PickupKeyFinalBoss,Cave,-832,-170,KeyUnique,84644,5,122
+unique_keys,Scarab,PickupKeyScarab,Cave,-552,75,KeyUnique,84656,3,123
+unique_keys,Darker,PickupKeyDarker,Dungeon5,1408,-212.94,KeyUnique,133809,4,158

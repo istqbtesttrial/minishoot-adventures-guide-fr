@@ -1,0 +1,96 @@
+category,name,object,scene,x,y,schema,objectIndex,isStartCheckpoint,torchesCount
+race_checkpoints,Race checkpoint start,RaceCheckpoint (7),Dungeon3,792,81,RaceCheckpoint,125636,true,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (1),Dungeon3,825,60,RaceCheckpoint,125675,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (2),Dungeon3,819,72,RaceCheckpoint,125709,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (8),Dungeon3,756,47,RaceCheckpoint,125743,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (6),Dungeon3,768,75,RaceCheckpoint,125777,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (13),Dungeon3,829,24,RaceCheckpoint,125811,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (14),Dungeon3,840,13.62,RaceCheckpoint,125845,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (15),Dungeon3,837,4,RaceCheckpoint,125879,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (4),Dungeon3,788,16,RaceCheckpoint,125913,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (5),Dungeon3,796,16,RaceCheckpoint,125947,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (10),Dungeon3,825,48,RaceCheckpoint,125981,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (11),Dungeon3,759,63,RaceCheckpoint,126015,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (18),Dungeon3,804,80,RaceCheckpoint,126049,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (20),Dungeon3,818,4,RaceCheckpoint,126083,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (19),Dungeon3,827,1,RaceCheckpoint,126117,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (16),Dungeon3,781.42,12.55,RaceCheckpoint,126151,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (21),Dungeon3,767,-8,RaceCheckpoint,126185,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (22),Dungeon3,755,21.7,RaceCheckpoint,126219,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (24),Dungeon3,777,4,RaceCheckpoint,126253,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (27),Dungeon3,756,-5,RaceCheckpoint,126287,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (28),Dungeon3,755,6,RaceCheckpoint,126321,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (23),Dungeon3,755,13.94,RaceCheckpoint,126355,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (9),Dungeon3,779,80,RaceCheckpoint,126389,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (12),Dungeon3,827,38,RaceCheckpoint,126423,false,2
+race_checkpoints,Race checkpoint,RaceCheckpoint (25),Dungeon3,805,11,RaceCheckpoint,126457,false,2
+race_checkpoints,Race checkpoint start,RaceCheckpointTight,Dungeon3,771,34,RaceCheckpoint,126492,true,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,771,44,RaceCheckpoint,126531,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,771,59,RaceCheckpoint,126565,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,779,70,RaceCheckpoint,126599,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,787,63,RaceCheckpoint,126633,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,805,70,RaceCheckpoint,126667,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,813,43,RaceCheckpoint,126701,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,811,34,RaceCheckpoint,126735,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,813,59,RaceCheckpoint,126769,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,804.23,31.75,RaceCheckpoint,126803,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,783,51,RaceCheckpoint,126837,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight,Dungeon3,801,51,RaceCheckpoint,126871,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight (3),Dungeon3,797,63,RaceCheckpoint,126905,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointTight (1),Dungeon3,792,35,RaceCheckpoint,126939,false,2
+race_checkpoints,Race checkpoint start,RaceCheckpointLite,Temple3,-735,-650,RaceCheckpoint,150123,true,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite,Temple3,-723,-657,RaceCheckpoint,150162,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite,Temple3,-747,-657,RaceCheckpoint,150196,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite,Temple3,-723,-643,RaceCheckpoint,150230,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite,Temple3,-747,-643,RaceCheckpoint,150264,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite,Temple3,-735,-643,RaceCheckpoint,150298,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite,Temple3,-735,-657,RaceCheckpoint,150332,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (1),Temple3,-742,-653,RaceCheckpoint,150366,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (2),Temple3,-742,-647,RaceCheckpoint,150400,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (3),Temple3,-728,-647,RaceCheckpoint,150434,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (4),Temple3,-728,-653,RaceCheckpoint,150468,false,2
+race_checkpoints,Race checkpoint start,RaceCheckpointLite (5),Temple3,-897,-598,RaceCheckpoint,150503,true,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite,Temple3,-910,-590,RaceCheckpoint,150542,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (1),Temple3,-910,-594,RaceCheckpoint,150576,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (2),Temple3,-910,-598,RaceCheckpoint,150610,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (3),Temple3,-897,-590,RaceCheckpoint,150644,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (4),Temple3,-897,-594,RaceCheckpoint,150678,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (6),Temple3,-884,-590,RaceCheckpoint,150712,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (7),Temple3,-884,-594,RaceCheckpoint,150746,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (8),Temple3,-884,-598,RaceCheckpoint,150780,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (9),Temple3,-903,-588,RaceCheckpoint,150814,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (10),Temple3,-903,-600,RaceCheckpoint,150848,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (11),Temple3,-891,-588,RaceCheckpoint,150882,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (12),Temple3,-891,-600,RaceCheckpoint,150916,false,2
+race_checkpoints,Race checkpoint start,RaceCheckpointLite (2),CaveArena,363,548,RaceCheckpoint,162625,true,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (6),CaveArena,373,563,RaceCheckpoint,162664,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (1),CaveArena,378.04,581.35,RaceCheckpoint,162698,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (7),CaveArena,497,582,RaceCheckpoint,162732,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (8),CaveArena,504,612,RaceCheckpoint,162766,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (9),CaveArena,505,603,RaceCheckpoint,162800,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (10),CaveArena,505,593,RaceCheckpoint,162834,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (12),CaveArena,511,644,RaceCheckpoint,162868,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (31),CaveArena,503.8,624.47,RaceCheckpoint,162902,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (16),CaveArena,527,644,RaceCheckpoint,162936,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (17),CaveArena,539,626,RaceCheckpoint,162970,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (18),CaveArena,545,614,RaceCheckpoint,163004,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (19),CaveArena,575,614,RaceCheckpoint,163038,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (20),CaveArena,587,614,RaceCheckpoint,163072,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (21),CaveArena,596,614,RaceCheckpoint,163106,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (22),CaveArena,626,623,RaceCheckpoint,163140,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (24),CaveArena,627,613,RaceCheckpoint,163174,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (26),CaveArena,642,660,RaceCheckpoint,163208,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (3),CaveArena,610,611,RaceCheckpoint,163242,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (27),CaveArena,644,668,RaceCheckpoint,163276,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (28),CaveArena,644,674,RaceCheckpoint,163310,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (29),CaveArena,644,683,RaceCheckpoint,163344,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (30),CaveArena,625,648,RaceCheckpoint,163378,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (32),CaveArena,357,581,RaceCheckpoint,163412,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (33),CaveArena,357,572,RaceCheckpoint,163446,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (4),CaveArena,402,578.86,RaceCheckpoint,163480,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (5),CaveArena,422.81,578.52,RaceCheckpoint,163514,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (34),CaveArena,489,580,RaceCheckpoint,163548,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (35),CaveArena,652,631,RaceCheckpoint,163582,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (36),CaveArena,649,623,RaceCheckpoint,163616,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (23),CaveArena,645,643,RaceCheckpoint,163650,false,2
+race_checkpoints,Race checkpoint,RaceCheckpointLite (25),CaveArena,508.38,635.03,RaceCheckpoint,163684,false,2

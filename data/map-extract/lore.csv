@@ -1,0 +1,6 @@
+category,name,object,scene,x,y,schema,objectIndex,spriteI
+lore,Lore tablet,LorePickup2,Overworld,-98.63,-256.95,LorePickup,56779,25
+lore,Lore tablet,LorePickup1,Cave,-650,-111,LorePickup,84356,25
+lore,Lore tablet,LorePickup3,Cave,-477,146,LorePickup,84376,25
+lore,Lore tablet,LorePickup4,Cave,-800,188,LorePickup,84396,25
+lore,Lore tablet,LorePickup5,Tower,-72,-333,LorePickup,154827,25

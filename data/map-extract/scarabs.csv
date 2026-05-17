@@ -1,0 +1,19 @@
+category,name,object,scene,x,y,schema,objectIndex,container
+scarabs,Golden Scarab,OverworldScarabPickup0,Overworld,6.25,-42.85,ScarabPickup,56998,12215
+scarabs,Golden Scarab,OverworldScarabPickup1,Overworld,78,-132,ScarabPickup,57023,53431
+scarabs,Golden Scarab,OverworldScarabPickup2,Overworld,169.08,92.73,ScarabPickup,57048,15199
+scarabs,Golden Scarab,OverworldScarabPickup3,Overworld,-171.87,180.2,ScarabPickup,57073,53437
+scarabs,Golden Scarab,OverworldScarabPickup4,Overworld,-283,267,ScarabPickup,57098,53452
+scarabs,Golden Scarab,OverworldScarabPickup5,Overworld,125.89,-49.08,ScarabPickup,57123,41061
+scarabs,Golden Scarab,OverworldScarabPickup6,Overworld,231.73,36.33,ScarabPickup,57148,38792
+scarabs,Golden Scarab,OverworldScarabPickup7,Overworld,-68,90,ScarabPickup,57173,53518
+scarabs,Golden Scarab,CaveScarabPickup0,Cave,-822,130.6,ScarabPickup,84670,82899
+scarabs,Golden Scarab,CaveScarabPickup1,Cave,-822,146,ScarabPickup,84695,82902
+scarabs,Golden Scarab,CaveScarabPickup2,Cave,-774.03,-53.42,ScarabPickup,84720,79593
+scarabs,Golden Scarab,CaveScarabPickup3,Cave,-838.48,-130,ScarabPickup,84745,83058
+scarabs,Golden Scarab,Dungeon2ScarabPickup0,Dungeon2,1046,340,ScarabPickup,112836,112188
+scarabs,Golden Scarab,Dungeon3ScarabPickup0,Dungeon3,911,66,ScarabPickup,125520,124484
+scarabs,Golden Scarab,Dungeon3ScarabPickup1,Dungeon3,829,-60,ScarabPickup,125545,124713
+scarabs,Golden Scarab,Temple1ScarabPickup0,Temple1,-851,-361,ScarabPickup,137663,137279
+scarabs,Golden Scarab,Temple2ScarabPickup0,Temple2,-524,-406,ScarabPickup,141422,140794
+scarabs,Golden Scarab,Temple3ScarabPickup0,Temple3,-824,-619,ScarabPickup,150023,145144

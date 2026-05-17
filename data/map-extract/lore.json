@@ -1,0 +1,57 @@
+[
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup2",
+    "scene": "Overworld",
+    "x": -98.63,
+    "y": -256.95,
+    "schema": "LorePickup",
+    "objectIndex": 56779,
+    "spriteI": 25
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup1",
+    "scene": "Cave",
+    "x": -650,
+    "y": -111,
+    "schema": "LorePickup",
+    "objectIndex": 84356,
+    "spriteI": 25
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup3",
+    "scene": "Cave",
+    "x": -477,
+    "y": 146,
+    "schema": "LorePickup",
+    "objectIndex": 84376,
+    "spriteI": 25
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup4",
+    "scene": "Cave",
+    "x": -800,
+    "y": 188,
+    "schema": "LorePickup",
+    "objectIndex": 84396,
+    "spriteI": 25
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup5",
+    "scene": "Tower",
+    "x": -72,
+    "y": -333,
+    "schema": "LorePickup",
+    "objectIndex": 154827,
+    "spriteI": 25
+  }
+]

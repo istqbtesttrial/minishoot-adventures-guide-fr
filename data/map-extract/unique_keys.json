@@ -1,0 +1,38 @@
+[
+  {
+    "category": "unique_keys",
+    "name": "FinalBoss",
+    "object": "PickupKeyFinalBoss",
+    "scene": "Cave",
+    "x": -832,
+    "y": -170,
+    "schema": "KeyUnique",
+    "objectIndex": 84644,
+    "keyId": 5,
+    "spriteI": 122
+  },
+  {
+    "category": "unique_keys",
+    "name": "Scarab",
+    "object": "PickupKeyScarab",
+    "scene": "Cave",
+    "x": -552,
+    "y": 75,
+    "schema": "KeyUnique",
+    "objectIndex": 84656,
+    "keyId": 3,
+    "spriteI": 123
+  },
+  {
+    "category": "unique_keys",
+    "name": "Darker",
+    "object": "PickupKeyDarker",
+    "scene": "Dungeon5",
+    "x": 1408,
+    "y": -212.94,
+    "schema": "KeyUnique",
+    "objectIndex": 133809,
+    "keyId": 4,
+    "spriteI": 158
+  }
+]

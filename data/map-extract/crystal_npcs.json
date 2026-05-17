@@ -1,0 +1,122 @@
+[
+  {
+    "category": "crystal_npcs",
+    "name": "Blacksmith",
+    "object": "Blacksmith",
+    "scene": "Overworld",
+    "x": -0.91,
+    "y": 28.99,
+    "schema": "CrystalNpc",
+    "objectIndex": 52625,
+    "npcId": 3,
+    "spriteI": 8
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "MercantHub",
+    "object": "MercantHub",
+    "scene": "Overworld",
+    "x": -59,
+    "y": 37,
+    "schema": "CrystalNpc",
+    "objectIndex": 52635,
+    "npcId": 6,
+    "spriteI": 9
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "Bard",
+    "object": "Bard",
+    "scene": "Overworld",
+    "x": 80,
+    "y": -263.47,
+    "schema": "CrystalNpc",
+    "objectIndex": 52645,
+    "npcId": 19,
+    "spriteI": 10
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "Familly1",
+    "object": "Familly1",
+    "scene": "Cave",
+    "x": -842,
+    "y": 26,
+    "schema": "CrystalNpc",
+    "objectIndex": 82239,
+    "npcId": 0,
+    "spriteI": 39
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "Healer",
+    "object": "Healer",
+    "scene": "Cave",
+    "x": -632,
+    "y": 28,
+    "schema": "CrystalNpc",
+    "objectIndex": 82249,
+    "npcId": 14,
+    "spriteI": 37
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "Academician",
+    "object": "Academician",
+    "scene": "Cave",
+    "x": -552,
+    "y": 120,
+    "schema": "CrystalNpc",
+    "objectIndex": 82259,
+    "npcId": 4,
+    "spriteI": 42
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "Explorer",
+    "object": "Explorer",
+    "scene": "Cave",
+    "x": -642,
+    "y": -46,
+    "schema": "CrystalNpc",
+    "objectIndex": 82269,
+    "npcId": 5,
+    "spriteI": 36
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "Familly3",
+    "object": "Familly3",
+    "scene": "Tower",
+    "x": 162.03,
+    "y": -334.46,
+    "schema": "CrystalNpc",
+    "objectIndex": 154132,
+    "npcId": 2,
+    "spriteI": 41
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "ScarabCollector",
+    "object": "ScarabCollector",
+    "scene": "Tower",
+    "x": 84,
+    "y": -334.94,
+    "schema": "CrystalNpc",
+    "objectIndex": 154142,
+    "npcId": 18,
+    "spriteI": 38
+  },
+  {
+    "category": "crystal_npcs",
+    "name": "Familly2",
+    "object": "Familly2",
+    "scene": "Tower",
+    "x": 6,
+    "y": -334.94,
+    "schema": "CrystalNpc",
+    "objectIndex": 154152,
+    "npcId": 1,
+    "spriteI": 40
+  }
+]

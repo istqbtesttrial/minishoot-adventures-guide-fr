@@ -1,0 +1,50 @@
+[
+  {
+    "category": "skills",
+    "name": "Boost",
+    "object": "SkillBoost",
+    "scene": "Overworld",
+    "x": 118,
+    "y": 80,
+    "schema": "SkillPickup",
+    "objectIndex": 56688,
+    "skillId": 3,
+    "spriteI": 23
+  },
+  {
+    "category": "skills",
+    "name": "Dash",
+    "object": "SkillDash",
+    "scene": "Dungeon1",
+    "x": 517,
+    "y": 237,
+    "schema": "SkillPickup",
+    "objectIndex": 108927,
+    "skillId": 1,
+    "spriteI": 23
+  },
+  {
+    "category": "skills",
+    "name": "Supershot",
+    "object": "SkillSupershot",
+    "scene": "Dungeon2",
+    "x": 952,
+    "y": 340,
+    "schema": "SkillPickup",
+    "objectIndex": 112723,
+    "skillId": 0,
+    "spriteI": 23
+  },
+  {
+    "category": "skills",
+    "name": "Hover",
+    "object": "SkillHover",
+    "scene": "Dungeon3",
+    "x": 867,
+    "y": -14,
+    "schema": "SkillPickup",
+    "objectIndex": 125398,
+    "skillId": 2,
+    "spriteI": 23
+  }
+]

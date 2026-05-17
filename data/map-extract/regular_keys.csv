@@ -1,0 +1,14 @@
+category,name,object,scene,x,y,schema,objectIndex,spriteI
+regular_keys,Regular key,Dungeon1CrystalKey0,Dungeon1,474,271,CrystalKey,108951,136
+regular_keys,Regular key,Dungeon1CrystalKey1,Dungeon1,423,225,CrystalKey,108964,136
+regular_keys,Regular key,Dungeon1CrystalKey2,Dungeon1,490,205,CrystalKey,108977,136
+regular_keys,Regular key,Dungeon1CrystalKey3,Dungeon1,603.84,245.25,CrystalKey,108990,136
+regular_keys,Regular key,Dungeon2CrystalKey0,Dungeon2,888,340,CrystalKey,112747,136
+regular_keys,Regular key,Dungeon2CrystalKey1,Dungeon2,919,261,CrystalKey,112760,136
+regular_keys,Regular key,Dungeon2CrystalKey2,Dungeon2,972,314,CrystalKey,112773,136
+regular_keys,Regular key,Dungeon2CrystalKey3,Dungeon2,818,288,CrystalKey,112786,136
+regular_keys,Regular key,Dungeon3CrystalKey0,Dungeon3,949,4,CrystalKey,125422,136
+regular_keys,Regular key,Dungeon3CrystalKey1,Dungeon3,792,-65,CrystalKey,125435,136
+regular_keys,Regular key,Dungeon3CrystalKey2,Dungeon3,921,-20,CrystalKey,125448,136
+regular_keys,Regular key,Dungeon3CrystalKey3,Dungeon3,792,51,CrystalKey,125461,136
+regular_keys,Regular key,Dungeon3CrystalKey4,Dungeon3,824.98,-10.34,CrystalKey,125474,136

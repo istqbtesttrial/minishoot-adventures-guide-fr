@@ -1,0 +1,14 @@
+category,name,object,scene,x,y,schema,objectIndex,spriteI
+map_pieces,Map piece,MapPickupDesert,Overworld,-149.08,66.44,MapPickup,56713,24
+map_pieces,Map piece,MapPickupGreen,Overworld,89,37,MapPickup,56735,24
+map_pieces,Map piece,MapPickupSunkenCity,Overworld,-172,170,MapPickup,56757,24
+lore,Lore tablet,LorePickup2,Overworld,-98.63,-256.95,LorePickup,56779,25
+map_pieces,Map piece,MapPickupBeach,Overworld,180,-24,MapPickup,56799,24
+lore,Lore tablet,LorePickup1,Cave,-650,-111,LorePickup,84356,25
+lore,Lore tablet,LorePickup3,Cave,-477,146,LorePickup,84376,25
+lore,Lore tablet,LorePickup4,Cave,-800,188,LorePickup,84396,25
+map_pieces,Map piece,MapPickupForest,Cave,-714,23,MapPickup,84416,24
+map_pieces,Map piece,MapPickupSwamp,Cave,-481,146,MapPickup,84438,24
+map_pieces,Map piece,MapPickupAbyss,Cave,-797.94,-114.41,MapPickup,84460,24
+map_pieces,Map piece,MapPickupJunkyard,Cave,-590,188,MapPickup,84542,24
+lore,Lore tablet,LorePickup5,Tower,-72,-333,LorePickup,154827,25

@@ -1,0 +1,90 @@
+[
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny0",
+    "scene": "Cave",
+    "x": -480,
+    "y": -1,
+    "schema": "NpcTiny",
+    "objectIndex": 85692,
+    "spriteI": 124
+  },
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny1",
+    "scene": "Cave",
+    "x": -503,
+    "y": 93,
+    "schema": "NpcTiny",
+    "objectIndex": 85724,
+    "spriteI": 124
+  },
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny2",
+    "scene": "CaveExtra",
+    "x": -1311,
+    "y": 161,
+    "schema": "NpcTiny",
+    "objectIndex": 106671,
+    "spriteI": 124
+  },
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny3",
+    "scene": "CaveExtra",
+    "x": -1293,
+    "y": 42,
+    "schema": "NpcTiny",
+    "objectIndex": 106703,
+    "spriteI": 124
+  },
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny4",
+    "scene": "CaveExtra",
+    "x": -1201,
+    "y": 120,
+    "schema": "NpcTiny",
+    "objectIndex": 106735,
+    "spriteI": 124
+  },
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny5",
+    "scene": "CaveExtra",
+    "x": -1507,
+    "y": -1,
+    "schema": "NpcTiny",
+    "objectIndex": 106767,
+    "spriteI": 124
+  },
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny6",
+    "scene": "CaveExtra",
+    "x": -1503,
+    "y": 122,
+    "schema": "NpcTiny",
+    "objectIndex": 106799,
+    "spriteI": 124
+  },
+  {
+    "category": "race_spirits",
+    "name": "Race spirit",
+    "object": "NpcTiny7",
+    "scene": "CaveExtra",
+    "x": -1199,
+    "y": -80,
+    "schema": "NpcTiny",
+    "objectIndex": 106831,
+    "spriteI": 124
+  }
+]

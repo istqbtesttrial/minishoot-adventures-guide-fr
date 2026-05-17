@@ -1,0 +1,262 @@
+[
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "OverworldCheckpoint0",
+    "scene": "Overworld",
+    "x": -1,
+    "y": 34.44,
+    "schema": "Checkpoint",
+    "objectIndex": 55713
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "CaveCheckpoint0",
+    "scene": "Cave",
+    "x": -974,
+    "y": -129,
+    "schema": "Checkpoint",
+    "objectIndex": 86054
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon1Checkpoint0",
+    "scene": "Dungeon1",
+    "x": 517.17,
+    "y": 206,
+    "schema": "Checkpoint",
+    "objectIndex": 109111
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon2Checkpoint0",
+    "scene": "Dungeon2",
+    "x": 986,
+    "y": 288,
+    "schema": "Checkpoint",
+    "objectIndex": 112984
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon3Checkpoint0",
+    "scene": "Dungeon3",
+    "x": 867,
+    "y": -46,
+    "schema": "Checkpoint",
+    "objectIndex": 126974
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon4Checkpoint0",
+    "scene": "Dungeon4",
+    "x": 514,
+    "y": -103,
+    "schema": "Checkpoint",
+    "objectIndex": 128957
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon5Checkpoint0",
+    "scene": "Dungeon5",
+    "x": 1256,
+    "y": -502,
+    "schema": "Checkpoint",
+    "objectIndex": 133906
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon5Checkpoint1",
+    "scene": "Dungeon5",
+    "x": 1255,
+    "y": -258,
+    "schema": "Checkpoint",
+    "objectIndex": 133918
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon5Checkpoint2",
+    "scene": "Dungeon5",
+    "x": 1255,
+    "y": 280,
+    "schema": "Checkpoint",
+    "objectIndex": 133930
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon5Checkpoint3",
+    "scene": "Dungeon5",
+    "x": 1429,
+    "y": -213,
+    "schema": "Checkpoint",
+    "objectIndex": 133942
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon5Checkpoint4",
+    "scene": "Dungeon5",
+    "x": 1387,
+    "y": -213,
+    "schema": "Checkpoint",
+    "objectIndex": 133954
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon5Checkpoint5",
+    "scene": "Dungeon5",
+    "x": 1255,
+    "y": -51,
+    "schema": "Checkpoint",
+    "objectIndex": 133966
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Dungeon5Checkpoint6",
+    "scene": "Dungeon5",
+    "x": 1255,
+    "y": 105,
+    "schema": "Checkpoint",
+    "objectIndex": 133978
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Temple1Checkpoint0",
+    "scene": "Temple1",
+    "x": -771,
+    "y": -407,
+    "schema": "Checkpoint",
+    "objectIndex": 137757
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Temple1Checkpoint1",
+    "scene": "Temple1",
+    "x": -771,
+    "y": -323,
+    "schema": "Checkpoint",
+    "objectIndex": 137769
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Temple2Checkpoint0",
+    "scene": "Temple2",
+    "x": -568,
+    "y": -491,
+    "schema": "Checkpoint",
+    "objectIndex": 141504
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Temple2Checkpoint1",
+    "scene": "Temple2",
+    "x": -568,
+    "y": -346,
+    "schema": "Checkpoint",
+    "objectIndex": 141516
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Temple3Checkpoint0",
+    "scene": "Temple3",
+    "x": -816,
+    "y": -650,
+    "schema": "Checkpoint",
+    "objectIndex": 150975
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "Temple3Checkpoint1",
+    "scene": "Temple3",
+    "x": -816,
+    "y": -494,
+    "schema": "Checkpoint",
+    "objectIndex": 150987
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "TowerCheckpoint0",
+    "scene": "Tower",
+    "x": 162,
+    "y": -495.51,
+    "schema": "Checkpoint",
+    "objectIndex": 154737
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "TowerCheckpoint1",
+    "scene": "Tower",
+    "x": 84,
+    "y": -495.51,
+    "schema": "Checkpoint",
+    "objectIndex": 154749
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "TowerCheckpoint2",
+    "scene": "Tower",
+    "x": 6,
+    "y": -495.51,
+    "schema": "Checkpoint",
+    "objectIndex": 154761
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "CaveArenaCheckpoint0",
+    "scene": "CaveArena",
+    "x": 35,
+    "y": 387,
+    "schema": "Checkpoint",
+    "objectIndex": 164533
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "SnowCheckpoint0",
+    "scene": "Snow",
+    "x": 417,
+    "y": -1027,
+    "schema": "Checkpoint",
+    "objectIndex": 176138
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "SnowCheckpoint1",
+    "scene": "Snow",
+    "x": 414,
+    "y": -595,
+    "schema": "Checkpoint",
+    "objectIndex": 176150
+  },
+  {
+    "category": "checkpoints",
+    "name": "Checkpoint",
+    "object": "SnowCheckpoint2",
+    "scene": "Snow",
+    "x": 419,
+    "y": -393,
+    "schema": "Checkpoint",
+    "objectIndex": 176162
+  }
+]

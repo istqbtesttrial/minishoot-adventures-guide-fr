@@ -1,0 +1,46 @@
+[
+  {
+    "category": "boss_drop_keys",
+    "name": "Boss drop key",
+    "object": "Dungeon1CrystalBoss",
+    "scene": "Dungeon1",
+    "x": 517,
+    "y": 296.43,
+    "schema": "CrystalBoss",
+    "objectIndex": 109017,
+    "spriteI": 138
+  },
+  {
+    "category": "boss_drop_keys",
+    "name": "Boss drop key",
+    "object": "Dungeon2CrystalBoss",
+    "scene": "Dungeon2",
+    "x": 952,
+    "y": 215,
+    "schema": "CrystalBoss",
+    "objectIndex": 112813,
+    "spriteI": 138
+  },
+  {
+    "category": "boss_drop_keys",
+    "name": "Boss drop key",
+    "object": "Dungeon3CrystalBoss",
+    "scene": "Dungeon3",
+    "x": 867,
+    "y": -107,
+    "schema": "CrystalBoss",
+    "objectIndex": 125484,
+    "spriteI": 138
+  },
+  {
+    "category": "boss_drop_keys",
+    "name": "Boss drop key",
+    "object": "Dungeon4CrystalBoss",
+    "scene": "Dungeon4",
+    "x": 514,
+    "y": -15.31,
+    "schema": "CrystalBoss",
+    "objectIndex": 128922,
+    "spriteI": 138
+  }
+]

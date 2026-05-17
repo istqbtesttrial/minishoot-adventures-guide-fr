@@ -1,0 +1,145 @@
+[
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon1CrystalKey0",
+    "scene": "Dungeon1",
+    "x": 474,
+    "y": 271,
+    "schema": "CrystalKey",
+    "objectIndex": 108951,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon1CrystalKey1",
+    "scene": "Dungeon1",
+    "x": 423,
+    "y": 225,
+    "schema": "CrystalKey",
+    "objectIndex": 108964,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon1CrystalKey2",
+    "scene": "Dungeon1",
+    "x": 490,
+    "y": 205,
+    "schema": "CrystalKey",
+    "objectIndex": 108977,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon1CrystalKey3",
+    "scene": "Dungeon1",
+    "x": 603.84,
+    "y": 245.25,
+    "schema": "CrystalKey",
+    "objectIndex": 108990,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon2CrystalKey0",
+    "scene": "Dungeon2",
+    "x": 888,
+    "y": 340,
+    "schema": "CrystalKey",
+    "objectIndex": 112747,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon2CrystalKey1",
+    "scene": "Dungeon2",
+    "x": 919,
+    "y": 261,
+    "schema": "CrystalKey",
+    "objectIndex": 112760,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon2CrystalKey2",
+    "scene": "Dungeon2",
+    "x": 972,
+    "y": 314,
+    "schema": "CrystalKey",
+    "objectIndex": 112773,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon2CrystalKey3",
+    "scene": "Dungeon2",
+    "x": 818,
+    "y": 288,
+    "schema": "CrystalKey",
+    "objectIndex": 112786,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon3CrystalKey0",
+    "scene": "Dungeon3",
+    "x": 949,
+    "y": 4,
+    "schema": "CrystalKey",
+    "objectIndex": 125422,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon3CrystalKey1",
+    "scene": "Dungeon3",
+    "x": 792,
+    "y": -65,
+    "schema": "CrystalKey",
+    "objectIndex": 125435,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon3CrystalKey2",
+    "scene": "Dungeon3",
+    "x": 921,
+    "y": -20,
+    "schema": "CrystalKey",
+    "objectIndex": 125448,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon3CrystalKey3",
+    "scene": "Dungeon3",
+    "x": 792,
+    "y": 51,
+    "schema": "CrystalKey",
+    "objectIndex": 125461,
+    "spriteI": 136
+  },
+  {
+    "category": "regular_keys",
+    "name": "Regular key",
+    "object": "Dungeon3CrystalKey4",
+    "scene": "Dungeon3",
+    "x": 824.98,
+    "y": -10.34,
+    "schema": "CrystalKey",
+    "objectIndex": 125474,
+    "spriteI": 136
+  }
+]

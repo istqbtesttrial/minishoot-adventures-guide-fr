@@ -117,6 +117,12 @@ Source : <https://truesteamachievements.com/game/Minishoot-Adventures/achievemen
 
 ---
 
+## Extraction technique ajoutée
+
+Une extraction locale du repo `minishoot-map.github.io` a été générée dans [`data/map-extract/`](../data/map-extract/). Elle parse `objects.bp` avec le schéma de la carte et exporte les catégories principales en JSON/CSV. Voir [map-data.md](map-data.md).
+
+---
+
 ## Gaps encore ouverts
 
 À creuser dans une prochaine passe ou avec screenshots in-game :

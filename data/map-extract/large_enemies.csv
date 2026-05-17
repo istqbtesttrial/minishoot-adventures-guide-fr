@@ -1,0 +1,105 @@
+category,name,object,scene,x,y,schema,objectIndex,size,tier,spriteI
+large_enemies,Large enemy,Overworld 031 CreeperT2 S3 Crazy,Overworld,-179.1,4.18,Enemy,58200,3,2,48
+large_enemies,Large enemy,Overworld 034 SneakerT2 S3,Overworld,-192.88,41.12,Enemy,58228,3,2,50
+large_enemies,Large enemy,Overworld 067 CrosserT2 S3 Gamma,Overworld,-143,-74,Enemy,58513,3,2,57
+large_enemies,Large enemy,Overworld 075 TimberT2 S3,Overworld,-90,56,Enemy,58695,3,2,61
+large_enemies,Large enemy,Overworld 076 ShooterT2 S3,Overworld,-116,36,Enemy,58719,3,2,62
+large_enemies,Large enemy,Overworld 093 ShooterT1 S3,Overworld,178,3,Enemy,58883,3,1,68
+large_enemies,Large enemy,Overworld 143 CreeperT2 S3 Giant,Overworld,118,149,Enemy,59563,3,2,48
+large_enemies,Large enemy,Overworld 170 JarrerT2 S3,Overworld,-42,92,Enemy,60062,3,2,13
+large_enemies,Large enemy,Overworld 176 BusherT1 S3,Overworld,-35,-101,Enemy,60191,3,1,61
+large_enemies,Large enemy,Overworld 177 BusherT1 S3,Overworld,-21,-92,Enemy,60227,3,1,61
+large_enemies,Large enemy,Overworld 178 BusherT1 S3,Overworld,-38,-87,Enemy,60263,3,1,61
+large_enemies,Large enemy,Overworld 200 ShooterT2 S3,Overworld,172,258.45,Enemy,60826,3,2,62
+large_enemies,Large enemy,Overworld 209 ShooterT2 S3,Overworld,155,220,Enemy,60865,3,2,62
+large_enemies,Large enemy,Overworld 210 ShooterT2 S3,Overworld,152,217,Enemy,60871,3,2,62
+large_enemies,Large enemy,Overworld 221 ShooterT3 S3,Overworld,99.95,-82.1,Enemy,60919,3,3,78
+large_enemies,Large enemy,Overworld 222 TimberT2 S3,Overworld,72,-103.66,Enemy,60926,3,2,61
+large_enemies,Large enemy,Overworld 223 TimberT2 S3,Overworld,-24,-198,Enemy,60950,3,2,61
+large_enemies,Large enemy,Overworld 224 TimberT2 S3,Overworld,-58,-198,Enemy,60973,3,2,61
+large_enemies,Large enemy,Overworld 242 SpitterT3 S3,Overworld,-109,101,Enemy,61387,3,3,79
+large_enemies,Large enemy,Overworld 243 SneakerT2 S3,Overworld,-125,79,Enemy,61406,3,2,50
+large_enemies,Large enemy,Overworld 251 JunkerT3 S3,Overworld,-1,218.84,Enemy,61560,3,3,80
+large_enemies,Large enemy,Overworld 256 JunkerT3 S3,Overworld,45,216,Enemy,61817,3,3,80
+large_enemies,Large enemy,Overworld 257 CreeperT3 S3 Giant,Overworld,-59.02,123.01,Enemy,61869,3,3,81
+large_enemies,Large enemy,Overworld 268 SneakerT1 S3,Overworld,-196,84,Enemy,61961,3,1,83
+large_enemies,Large enemy,Overworld 281 StrollerT1 S3,Overworld,89,37,Enemy,62070,3,1,87
+large_enemies,Large enemy,Overworld 290 StrollerT2 S3,Overworld,169,37,Enemy,62201,3,2,88
+large_enemies,Large enemy,Overworld 312 CreeperT1 S3,Overworld,-59,-70,Enemy,62436,3,1,90
+large_enemies,Large enemy,Overworld 313 CreeperT1 S3,Overworld,-73,-70,Enemy,62446,3,1,90
+large_enemies,Large enemy,Overworld 361 DodgerT2 S3,Overworld,-220.48,-103.29,Enemy,62849,3,2,94
+large_enemies,Large enemy,Overworld 378 PiercerT2 S3,Overworld,248,184,Enemy,63051,3,2,98
+large_enemies,Large enemy,Overworld 389 Frogger T3 S3,Overworld,196,177,Enemy,63422,3,3,99
+large_enemies,Large enemy,Overworld 393 BusherT2 S3,Overworld,67,-167,Enemy,63577,3,2,61
+large_enemies,Large enemy,Overworld 415 SpitterT3 S3,Overworld,-143,250,Enemy,64155,3,3,79
+large_enemies,Large enemy,Overworld 425 CreeperT1 S3,Overworld,111,49,Enemy,64254,3,1,90
+large_enemies,Large enemy,Overworld 426 CreeperT1 S3,Overworld,125,49,Enemy,64264,3,1,90
+large_enemies,Large enemy,Overworld 427 CreeperT1 S3,Overworld,118,46,Enemy,64274,3,1,90
+large_enemies,Large enemy,Overworld 446 CreeperT2 S3,Overworld,-41,6,Enemy,64472,3,2,48
+large_enemies,Large enemy,Overworld 550 BusherT2 S3,Overworld,35,-197,Enemy,65462,3,2,61
+large_enemies,Large enemy,Overworld 637 DodgerT1 S3,Overworld,-77,-41,Enemy,66208,3,1,111
+large_enemies,Large enemy,Overworld 669 ShooterT3 S3,Overworld,-153,60,Enemy,66527,3,3,78
+large_enemies,Large enemy,Overworld 684 CreeperT3 S3,Overworld,-55,-1,Enemy,66747,3,3,113
+large_enemies,Large enemy,Cave 017 StrollerT1 S3,Cave,-512,3,Enemy,86223,3,1,87
+large_enemies,Large enemy,Cave 052 CreeperT2 S3,Cave,-716,98,Enemy,86499,3,2,48
+large_enemies,Large enemy,Cave 167 CreeperT1 S3 Armored,Cave,-532,-52,Enemy,87934,3,1,90
+large_enemies,Large enemy,Cave 199 FighterT1 S3,Cave,-552,46,Enemy,88259,3,1,129
+large_enemies,Large enemy,Cave 222 PiercerT2 S3,Cave,-571,19,Enemy,88374,3,2,98
+large_enemies,Large enemy,Cave 304 FighterT3 S3,Cave,-844,242,Enemy,89108,3,3,132
+large_enemies,Large enemy,Cave 309 SpitterT3 S3,Cave,-822,161,Enemy,89173,3,3,79
+large_enemies,Large enemy,Cave 484 Frogger T3 S3,Cave,-754,186,Enemy,92258,3,3,99
+large_enemies,Large enemy,Dungeon1 055 PiercerT1 S3,Dungeon1,414,225,Enemy,109448,3,1,139
+large_enemies,Large enemy,Dungeon1 072 FighterT1 S3,Dungeon1,605,206,Enemy,109631,3,1,129
+large_enemies,Large enemy,Dungeon1 083 CreeperT1 S3,Dungeon1,472,225,Enemy,109727,3,1,90
+large_enemies,Large enemy,Dungeon2 126 BouncerT2 S3,Dungeon2,887.99,350,Enemy,113922,3,2,145
+large_enemies,Large enemy,Dungeon2 175 CrosserT2 S3 Gamma,Dungeon2,919,261,Enemy,114374,3,2,57
+large_enemies,Large enemy,Dungeon3 005 FisherT3 S3,Dungeon3,945,61,Enemy,127108,3,3,149
+large_enemies,Large enemy,Dungeon3 014 SpitterT3 S3,Dungeon3,926,23,Enemy,127319,3,3,79
+large_enemies,Large enemy,Dungeon3 086 ShooterT2 S3,Dungeon3,800,-80,Enemy,128185,3,2,62
+large_enemies,Large enemy,Dungeon3 087 ShooterT2 S3,Dungeon3,811,-89,Enemy,128191,3,2,62
+large_enemies,Large enemy,Dungeon3 088 ShooterT2 S3,Dungeon3,811,-71,Enemy,128197,3,2,62
+large_enemies,Large enemy,Dungeon3 089 ShooterT2 S3,Dungeon3,822,-80,Enemy,128203,3,2,62
+large_enemies,Large enemy,Dungeon3 098 ShooterT2 S3,Dungeon3,929,-42,Enemy,128283,3,2,62
+large_enemies,Large enemy,Dungeon3 099 ShooterT2 S3,Dungeon3,913,-56,Enemy,128289,3,2,62
+large_enemies,Large enemy,Dungeon3 107 FisherT2 S3,Dungeon3,880,-46,Enemy,128360,3,2,156
+large_enemies,Large enemy,Dungeon5 068 ShooterT3 S3 Giant,Dungeon5,1255,-286.8,Enemy,134529,3,3,161
+large_enemies,Large enemy,Dungeon5 131 FighterT3 S3,Dungeon5,1255,-7,Enemy,135080,3,3,132
+large_enemies,Large enemy,Temple1 063 DodgerT2 S3,Temple1,-839,-367,Enemy,138499,3,2,94
+large_enemies,Large enemy,Temple1 070 BusherT1 S3,Temple1,-737,-367,Enemy,138580,3,1,61
+large_enemies,Large enemy,Temple2 021 ShooterT2 S3,Temple2,-527,-448,Enemy,141695,3,2,62
+large_enemies,Large enemy,Temple2 022 ShooterT2 S3,Temple2,-527,-452,Enemy,141701,3,2,62
+large_enemies,Large enemy,Temple2 078 ShooterT2 S3,Temple2,-608,-490,Enemy,142006,3,2,62
+large_enemies,Large enemy,Temple3 037 CreeperT3 S3 Giant,Temple3,-791.37,-594,Enemy,151265,3,3,81
+large_enemies,Large enemy,Tower 078 BouncerT2 S3,Tower,67,-487,Enemy,156662,3,2,145
+large_enemies,Large enemy,Tower 079 BouncerT2 S3,Tower,101,-487,Enemy,156670,3,2,145
+large_enemies,Large enemy,Tower 112 Frogger T1 S3,Tower,84,-446,Enemy,157000,3,1,171
+large_enemies,Large enemy,Tower 113 PiercerT1 S3,Tower,96,-446,Enemy,157036,3,1,139
+large_enemies,Large enemy,Tower 114 PiercerT1 S3,Tower,72,-446,Enemy,157045,3,1,139
+large_enemies,Large enemy,Tower 137 JarrerT2 S3,Tower,1,-481,Enemy,157560,3,2,13
+large_enemies,Large enemy,Tower 194 StrollerT3 S3,Tower,-161,-389,Enemy,158598,3,3,172
+large_enemies,Large enemy,Tower 221 StrollerT3 S3,Tower,-223,-435,Enemy,158792,3,3,172
+large_enemies,Large enemy,CaveArena 000 TimberT2 S3,CaveArena,-175,584,Enemy,164567,3,2,61
+large_enemies,Large enemy,CaveArena 044 PiercerT3 S3,CaveArena,-156,583,Enemy,165159,3,3,173
+large_enemies,Large enemy,CaveArena 057 FighterT2 S3,CaveArena,-175,587,Enemy,165257,3,2,174
+large_enemies,Large enemy,CaveArena 058 FighterT2 S3,CaveArena,-175,579,Enemy,165264,3,2,174
+large_enemies,Large enemy,CaveArena 060 ShooterT3 S3,CaveArena,-190,583,Enemy,165307,3,3,78
+large_enemies,Large enemy,CaveArena 073 BusherT2 S3,CaveArena,-171,579,Enemy,165747,3,2,61
+large_enemies,Large enemy,CaveArena 074 BusherT2 S3,CaveArena,-175,586,Enemy,165783,3,2,61
+large_enemies,Large enemy,CaveArena 075 BusherT2 S3,CaveArena,-179,579,Enemy,165819,3,2,61
+large_enemies,Large enemy,CaveArena 195 SpitterT3 S3,CaveArena,286,580,Enemy,168096,3,3,79
+large_enemies,Large enemy,CaveArena 234 PiercerT2 S3,CaveArena,-60,584,Enemy,168770,3,2,98
+large_enemies,Large enemy,CaveArena 235 PiercerT2 S3,CaveArena,-106,584,Enemy,168782,3,2,98
+large_enemies,Large enemy,CaveArena 283 SpitterT3 S3,CaveArena,-83,584,Enemy,169079,3,3,79
+large_enemies,Large enemy,CaveArena 300 Frogger T3 S3,CaveArena,-83,584,Enemy,169128,3,3,99
+large_enemies,Large enemy,CaveArena 339 FisherT2 S3,CaveArena,84,571,Enemy,170106,3,2,156
+large_enemies,Large enemy,CaveArena 340 FisherT2 S3,CaveArena,52,571,Enemy,170131,3,2,156
+large_enemies,Large enemy,CaveArena 349 SquiderT2 S3,CaveArena,68,571,Enemy,170245,3,2,175
+large_enemies,Large enemy,CaveArena 358 StrollerT2 S3,CaveArena,52,571,Enemy,170358,3,2,88
+large_enemies,Large enemy,CaveArena 359 StrollerT2 S3,CaveArena,84,571,Enemy,170370,3,2,88
+large_enemies,Large enemy,CaveArena 388 StrollerT3 S3,CaveArena,68,571,Enemy,170865,3,3,172
+large_enemies,Large enemy,CaveArena 393 JarrerT2 S3,CaveArena,68,559,Enemy,170910,3,2,13
+large_enemies,Large enemy,CaveArena 394 JarrerT2 S3,CaveArena,68,583,Enemy,170951,3,2,13
+large_enemies,Large enemy,CaveArena 395 JarrerT2 S3,CaveArena,80,571,Enemy,170992,3,2,13
+large_enemies,Large enemy,CaveArena 396 JarrerT2 S3,CaveArena,56,571,Enemy,171033,3,2,13
+large_enemies,Large enemy,CaveArena 424 PiercerT3 S3,CaveArena,-7,575,Enemy,171464,3,3,173
+large_enemies,Large enemy,CaveArena 445 FisherT3 S3,CaveArena,8,586,Enemy,171597,3,3,149

@@ -39,6 +39,7 @@ C’est le hub principal : il indique quoi lire selon ton besoin.
 
 - [Notes de sources](docs/sources.md)
 - [Journal de recherche deep](docs/recherche-deep.md)
+- [Extraction de la carte interactive](docs/map-data.md)
 
 ---
 

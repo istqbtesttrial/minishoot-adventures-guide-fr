@@ -1,0 +1,145 @@
+[
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupDesert",
+    "scene": "Overworld",
+    "x": -149.08,
+    "y": 66.44,
+    "schema": "MapPickup",
+    "objectIndex": 56713,
+    "spriteI": 24
+  },
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupGreen",
+    "scene": "Overworld",
+    "x": 89,
+    "y": 37,
+    "schema": "MapPickup",
+    "objectIndex": 56735,
+    "spriteI": 24
+  },
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupSunkenCity",
+    "scene": "Overworld",
+    "x": -172,
+    "y": 170,
+    "schema": "MapPickup",
+    "objectIndex": 56757,
+    "spriteI": 24
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup2",
+    "scene": "Overworld",
+    "x": -98.63,
+    "y": -256.95,
+    "schema": "LorePickup",
+    "objectIndex": 56779,
+    "spriteI": 25
+  },
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupBeach",
+    "scene": "Overworld",
+    "x": 180,
+    "y": -24,
+    "schema": "MapPickup",
+    "objectIndex": 56799,
+    "spriteI": 24
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup1",
+    "scene": "Cave",
+    "x": -650,
+    "y": -111,
+    "schema": "LorePickup",
+    "objectIndex": 84356,
+    "spriteI": 25
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup3",
+    "scene": "Cave",
+    "x": -477,
+    "y": 146,
+    "schema": "LorePickup",
+    "objectIndex": 84376,
+    "spriteI": 25
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup4",
+    "scene": "Cave",
+    "x": -800,
+    "y": 188,
+    "schema": "LorePickup",
+    "objectIndex": 84396,
+    "spriteI": 25
+  },
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupForest",
+    "scene": "Cave",
+    "x": -714,
+    "y": 23,
+    "schema": "MapPickup",
+    "objectIndex": 84416,
+    "spriteI": 24
+  },
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupSwamp",
+    "scene": "Cave",
+    "x": -481,
+    "y": 146,
+    "schema": "MapPickup",
+    "objectIndex": 84438,
+    "spriteI": 24
+  },
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupAbyss",
+    "scene": "Cave",
+    "x": -797.94,
+    "y": -114.41,
+    "schema": "MapPickup",
+    "objectIndex": 84460,
+    "spriteI": 24
+  },
+  {
+    "category": "map_pieces",
+    "name": "Map piece",
+    "object": "MapPickupJunkyard",
+    "scene": "Cave",
+    "x": -590,
+    "y": 188,
+    "schema": "MapPickup",
+    "objectIndex": 84542,
+    "spriteI": 24
+  },
+  {
+    "category": "lore",
+    "name": "Lore tablet",
+    "object": "LorePickup5",
+    "scene": "Tower",
+    "x": -72,
+    "y": -333,
+    "schema": "LorePickup",
+    "objectIndex": 154827,
+    "spriteI": 25
+  }
+]

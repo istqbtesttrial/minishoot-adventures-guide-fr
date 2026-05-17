@@ -1,0 +1,14 @@
+[
+  {
+    "category": "npc_family_checks",
+    "name": "Npc family check",
+    "object": "FamillyReunitedCheck",
+    "scene": "Cave",
+    "x": -668,
+    "y": 7,
+    "schema": "MovePickupWhenFreed",
+    "objectIndex": 86086,
+    "pickup": 84564,
+    "npcToFreeCount": 3
+  }
+]

@@ -1,0 +1,4 @@
+category,name,object,scene,x,y,schema,objectIndex,spriteI
+boss_keys,Boss key,Dungeon1BossKey,Dungeon1,547,193.23,BossKey,109004,137
+boss_keys,Boss key,Dungeon2BossKey,Dungeon2,952,288,BossKey,112800,137
+boss_keys,Boss key,Dungeon3BossKey,Dungeon3,811,-100,BossKey,125506,137

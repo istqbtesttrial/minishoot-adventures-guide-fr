@@ -1,0 +1,370 @@
+category,name,object,scene,x,y,schema,objectIndex,dropType,size,spriteI
+jars,nothing,Shell1,Overworld,125.91,-48.89,Jar,41061,0,1,0
+jars,nothing,Shell3 (10),Overworld,233.75,-20.18,Jar,41079,0,0,1
+jars,nothing,Shell2 (10),Overworld,98.45,-79.74,Jar,41172,0,1,2
+jars,nothing,Shell3 (14),Overworld,103.61,-61.47,Jar,41175,0,0,1
+jars,nothing,Shell4 (16),Overworld,104.52,-61.61,Jar,41178,0,0,3
+jars,nothing,Shell4 (17),Overworld,96.36,-68.16,Jar,41181,0,0,3
+jars,nothing,Shell4 (18),Overworld,89.46,-65.14,Jar,41184,0,0,3
+jars,nothing,Shell1 (1),Overworld,226.32,-33.74,Jar,41187,0,1,0
+jars,nothing,Shell2 (1),Overworld,224.5,-33.02,Jar,41190,0,1,2
+jars,nothing,Shell3 (2),Overworld,226.1,-32.52,Jar,41193,0,0,1
+jars,nothing,Shell4 (7),Overworld,225.54,-34.87,Jar,41196,0,0,3
+jars,nothing,Shell1 (2),Overworld,227.09,-35.35,Jar,41199,0,1,0
+jars,nothing,Shell2 (2),Overworld,229.33,-34.16,Jar,41202,0,1,2
+jars,nothing,Shell3 (3),Overworld,227.6,-36.73,Jar,41205,0,0,1
+jars,nothing,Shell1 (3),Overworld,234.63,-38.9,Jar,41208,0,1,0
+jars,nothing,Shell2 (3),Overworld,232.81,-38.18,Jar,41211,0,1,2
+jars,nothing,Shell3 (4),Overworld,236.28,-38.45,Jar,41214,0,0,1
+jars,nothing,Shell4 (8),Overworld,233.85,-40.03,Jar,41217,0,0,3
+jars,nothing,Shell1 (4),Overworld,232.11,-39.45,Jar,41220,0,1,0
+jars,nothing,Shell2 (4),Overworld,235.47,-39.47,Jar,41223,0,1,2
+jars,nothing,Shell3 (5),Overworld,233.28,-39.44,Jar,41226,0,0,1
+jars,nothing,Shell1 (5),Overworld,243.36,-24.47,Jar,41229,0,1,0
+jars,nothing,Shell2 (5),Overworld,241.54,-23.75,Jar,41232,0,1,2
+jars,nothing,Shell3 (6),Overworld,243.14,-23.25,Jar,41235,0,0,1
+jars,nothing,Shell4 (9),Overworld,242.58,-25.6,Jar,41238,0,0,3
+jars,nothing,Shell1 (6),Overworld,244.13,-26.08,Jar,41241,0,1,0
+jars,nothing,Shell2 (6),Overworld,244.46,-24.89,Jar,41244,0,1,2
+jars,nothing,Shell3 (7),Overworld,244.64,-27.46,Jar,41247,0,0,1
+jars,nothing,Shell1 (7),Overworld,227,-22.26,Jar,41250,0,1,0
+jars,nothing,Shell2 (7),Overworld,245.25,-31.1,Jar,41253,0,1,2
+jars,nothing,Shell3 (8),Overworld,245.89,-30.18,Jar,41256,0,0,1
+jars,nothing,Shell4 (10),Overworld,244.34,-30.39,Jar,41259,0,0,3
+jars,nothing,Shell1 (8),Overworld,241.55,-36.26,Jar,41262,0,1,0
+jars,nothing,Shell2 (8),Overworld,227.62,-20.89,Jar,41265,0,1,2
+jars,nothing,Shell3 (9),Overworld,246.6,-29.23,Jar,41268,0,0,1
+jars,nothing,Shell4 (11),Overworld,233.33,-19.1,Jar,41271,0,0,3
+jars,nothing,Shell4 (12),Overworld,225.32,-27.14,Jar,41274,0,0,3
+jars,nothing,Shell4 (13),Overworld,231.49,-32.1,Jar,41277,0,0,3
+jars,nothing,Shell1 (9),Overworld,213.8,-23.02,Jar,41280,0,1,0
+jars,nothing,Shell1 (10),Overworld,213.74,-35.04,Jar,41283,0,1,0
+jars,nothing,Shell3 (11),Overworld,211.6,-40.44,Jar,41286,0,0,1
+jars,nothing,Shell3 (12),Overworld,217.43,-17.53,Jar,41289,0,0,1
+jars,nothing,Shell4 (14),Overworld,213.23,-24.15,Jar,41292,0,0,3
+jars,nothing,Shell4 (15),Overworld,211.29,-36.87,Jar,41295,0,0,3
+jars,nothing,Shell4 (4),Overworld,148.88,-60.39,Jar,41298,0,0,3
+jars,nothing,Shell4 (5),Overworld,193.47,-62.79,Jar,41301,0,0,3
+jars,nothing,Shell4 (6),Overworld,197.14,-81.3,Jar,41304,0,0,3
+jars,nothing,Shell2,Overworld,154.19,-68.07,Jar,41307,0,1,2
+jars,nothing,Shell3,Overworld,127.12,-50.06,Jar,41310,0,0,1
+jars,nothing,Shell4,Overworld,127.33,-49.26,Jar,41313,0,0,3
+jars,nothing,Shell3 (1),Overworld,127.7,-63.2,Jar,41334,0,0,1
+jars,nothing,Shell4 (1),Overworld,165,-45,Jar,41343,0,0,3
+jars,nothing,Shell4 (2),Overworld,149.24,-40.01,Jar,41346,0,0,3
+jars,nothing,Shell4 (3),Overworld,136.11,-33.53,Jar,41349,0,0,3
+jars,nothing,Shell1 (11),Overworld,169.98,-45.84,Jar,41361,0,1,0
+jars,nothing,Shell4 (19),Overworld,181,-22,Jar,41370,0,0,3
+jars,nothing,Shell1 (12),Overworld,182.43,-25.87,Jar,41373,0,1,0
+jars,nothing,Shell1 (13),Overworld,176.4,-22.21,Jar,41379,0,1,0
+jars,nothing,Shell3 (13),Overworld,178.21,-25.17,Jar,41382,0,0,1
+jars,nothing,Shell4 (20),Overworld,178.42,-24.37,Jar,41385,0,0,3
+jars,hp,OverworldDestroyable392,Overworld,-140.47,23.45,Jar,53425,1,1,11
+jars,hp,OverworldDestroyable393,Overworld,-144.47,23.45,Jar,53428,1,1,11
+jars,nothing,OverworldDestroyable394,Overworld,78,-132,Jar,53431,0,2,12
+jars,random,OverworldDestroyable395,Overworld,-172.87,178.82,Jar,53434,2,1,11
+jars,nothing,OverworldDestroyable396,Overworld,-171.87,180.2,Jar,53437,0,2,12
+jars,big crystal,OverworldDestroyable397,Overworld,-108,69,Jar,53440,3,2,12
+jars,nothing,OverworldDestroyable398,Overworld,-109,67.77,Jar,53443,0,1,11
+jars,nothing,OverworldDestroyable399,Overworld,-107,67.77,Jar,53446,0,1,11
+jars,nothing,OverworldDestroyable400,Overworld,42.02,30,Jar,53449,0,2,12
+jars,nothing,OverworldDestroyable401,Overworld,-283,267,Jar,53452,0,3,13
+jars,nothing,OverworldDestroyable402,Overworld,-144.11,172,Jar,53455,0,1,11
+jars,big crystal,OverworldDestroyable403,Overworld,-58,54,Jar,53458,3,2,12
+jars,nothing,OverworldDestroyable404,Overworld,-59,52.77,Jar,53461,0,1,11
+jars,nothing,OverworldDestroyable405,Overworld,-59,55,Jar,53464,0,1,11
+jars,nothing,OverworldDestroyable406,Overworld,178.1,12.13,Jar,53467,0,1,0
+jars,nothing,OverworldDestroyable407,Overworld,179.26,10.81,Jar,53470,0,0,1
+jars,nothing,OverworldDestroyable408,Overworld,176.93,10.22,Jar,53473,0,0,3
+jars,nothing,OverworldDestroyable409,Overworld,178.85,13.01,Jar,53476,0,0,3
+jars,big crystal,OverworldDestroyable410,Overworld,94,-68,Jar,53479,3,1,0
+jars,big crystal,OverworldDestroyable411,Overworld,90.67,-65.81,Jar,53482,3,1,2
+jars,random,OverworldDestroyable412,Overworld,-70,98,Jar,53485,2,2,12
+jars,nothing,OverworldDestroyable413,Overworld,-70,100.56,Jar,53488,0,1,11
+jars,random,OverworldDestroyable414,Overworld,-71,95,Jar,53491,2,2,12
+jars,nothing,OverworldDestroyable415,Overworld,-60,106,Jar,53494,0,1,11
+jars,nothing,OverworldDestroyable416,Overworld,-62,87.56,Jar,53497,0,1,11
+jars,nothing,OverworldDestroyable417,Overworld,-46,100,Jar,53500,0,1,11
+jars,big crystal,OverworldDestroyable418,Overworld,-30,-116,Jar,53503,3,2,12
+jars,hp,OverworldDestroyable419,Overworld,-34,-116,Jar,53506,1,1,11
+jars,hp,OverworldDestroyable420,Overworld,-26,-116,Jar,53509,1,1,11
+jars,random,OverworldDestroyable421,Overworld,-170.87,178.82,Jar,53512,2,1,11
+jars,big crystal,OverworldDestroyable422,Overworld,104.03,-62.29,Jar,53515,3,1,2
+jars,nothing,OverworldDestroyable423,Overworld,-68,90,Jar,53518,0,1,11
+jars,nothing,OverworldDestroyable424,Overworld,-32,90,Jar,53521,0,1,11
+jars,nothing,OverworldDestroyable425,Overworld,-32,84,Jar,53524,0,1,11
+jars,nothing,OverworldDestroyable426,Overworld,-60,83,Jar,53527,0,1,11
+jars,nothing,OverworldDestroyable427,Overworld,-40,76,Jar,53530,0,1,11
+jars,nothing,OverworldDestroyable428,Overworld,-58,96,Jar,53533,0,1,11
+jars,hp,OverworldDestroyable429,Overworld,-58,82,Jar,53536,1,1,11
+jars,nothing,CaveDestroyable194,Cave,-818,-34,Jar,82722,0,1,11
+jars,nothing,CaveDestroyable195,Cave,-820,-30,Jar,82725,0,1,11
+jars,nothing,CaveDestroyable196,Cave,-820,-40,Jar,82728,0,1,11
+jars,nothing,CaveDestroyable197,Cave,-816,-36,Jar,82731,0,1,11
+jars,nothing,CaveDestroyable198,Cave,-802,-34,Jar,82734,0,1,11
+jars,nothing,CaveDestroyable199,Cave,-800,-42,Jar,82737,0,1,11
+jars,nothing,CaveDestroyable200,Cave,-800,-40,Jar,82740,0,1,11
+jars,nothing,CaveDestroyable201,Cave,-802,-38,Jar,82743,0,1,11
+jars,nothing,CaveDestroyable202,Cave,-804,-36,Jar,82746,0,1,11
+jars,nothing,CaveDestroyable203,Cave,-806,-34,Jar,82749,0,1,11
+jars,nothing,CaveDestroyable204,Cave,-814,-38,Jar,82752,0,1,11
+jars,nothing,CaveDestroyable205,Cave,-812,-32,Jar,82755,0,1,11
+jars,nothing,CaveDestroyable206,Cave,-808,-32,Jar,82758,0,1,11
+jars,nothing,CaveDestroyable207,Cave,-808,-40,Jar,82761,0,1,11
+jars,nothing,CaveDestroyable208,Cave,-812,-40,Jar,82764,0,1,11
+jars,nothing,CaveDestroyable209,Cave,-800,-30,Jar,82767,0,1,11
+jars,nothing,CaveDestroyable210,Cave,-718.51,27,Jar,82770,0,1,11
+jars,nothing,CaveDestroyable211,Cave,-713.51,27,Jar,82773,0,1,11
+jars,big crystal,CaveDestroyable212,Cave,-715,27.04,Jar,82776,3,1,11
+jars,big crystal,CaveDestroyable213,Cave,-716.89,27.08,Jar,82779,3,1,11
+jars,nothing,CaveDestroyable214,Cave,-711.3,25.02,Jar,82782,0,1,11
+jars,nothing,CaveDestroyable215,Cave,-712.85,26.06,Jar,82785,0,1,11
+jars,nothing,CaveDestroyable216,Cave,-712.46,25.04,Jar,82788,0,1,11
+jars,nothing,CaveDestroyable217,Cave,-711.28,24.02,Jar,82791,0,1,11
+jars,nothing,CaveDestroyable218,Cave,-711.36,23.09,Jar,82794,0,1,11
+jars,nothing,CaveDestroyable219,Cave,-711.24,22.08,Jar,82797,0,1,11
+jars,nothing,CaveDestroyable220,Cave,-717.65,26.16,Jar,82800,0,1,11
+jars,nothing,CaveDestroyable221,Cave,-715.84,26.19,Jar,82803,0,1,11
+jars,nothing,CaveDestroyable222,Cave,-714.27,26.14,Jar,82806,0,1,11
+jars,nothing,CaveDestroyable223,Cave,-719.13,25.86,Jar,82809,0,1,11
+jars,nothing,CaveDestroyable224,Cave,-719.91,25.28,Jar,82812,0,1,11
+jars,nothing,CaveDestroyable225,Cave,-720.72,24.8,Jar,82815,0,1,11
+jars,nothing,CaveDestroyable226,Cave,-720.55,23.96,Jar,82818,0,1,11
+jars,nothing,CaveDestroyable227,Cave,-720.68,22.11,Jar,82821,0,1,11
+jars,nothing,CaveDestroyable228,Cave,-720.62,20.99,Jar,82824,0,1,11
+jars,nothing,CaveDestroyable229,Cave,-719.64,20.31,Jar,82827,0,1,11
+jars,nothing,CaveDestroyable230,Cave,-719,19.32,Jar,82830,0,1,11
+jars,nothing,CaveDestroyable231,Cave,-717.98,18.62,Jar,82833,0,1,11
+jars,nothing,CaveDestroyable232,Cave,-714.23,18.54,Jar,82836,0,1,11
+jars,nothing,CaveDestroyable233,Cave,-713.14,19.22,Jar,82839,0,1,11
+jars,nothing,CaveDestroyable234,Cave,-712.55,20.23,Jar,82842,0,1,11
+jars,nothing,CaveDestroyable235,Cave,-711.42,20.99,Jar,82845,0,1,11
+jars,nothing,CaveDestroyable236,Cave,-720.81,23.16,Jar,82848,0,1,11
+jars,nothing,CaveDestroyable237,Cave,-712.42,21.66,Jar,82851,0,1,11
+jars,nothing,CaveDestroyable238,Cave,-712.22,22.64,Jar,82854,0,1,11
+jars,nothing,CaveDestroyable239,Cave,-712.65,23.28,Jar,82857,0,1,11
+jars,nothing,CaveDestroyable240,Cave,-712.45,24.16,Jar,82860,0,1,11
+jars,nothing,CaveDestroyable241,Cave,-713.61,25.14,Jar,82863,0,1,11
+jars,nothing,CaveDestroyable242,Cave,-718.1,25.11,Jar,82866,0,1,11
+jars,nothing,CaveDestroyable243,Cave,-719.11,24.7,Jar,82869,0,1,11
+jars,nothing,CaveDestroyable244,Cave,-719.59,23.84,Jar,82872,0,1,11
+jars,nothing,CaveDestroyable245,Cave,-719.6,22.84,Jar,82875,0,1,11
+jars,nothing,CaveDestroyable246,Cave,-714.8,25.31,Jar,82878,0,1,11
+jars,nothing,CaveDestroyable247,Cave,-716.73,25.66,Jar,82881,0,1,11
+jars,nothing,CaveDestroyable248,Cave,-719.22,22,Jar,82884,0,1,11
+jars,nothing,CaveDestroyable249,Cave,-814,-34,Jar,82887,0,1,11
+jars,nothing,CaveDestroyable250,Cave,-820,-28,Jar,82890,0,1,11
+jars,nothing,CaveDestroyable251,Cave,-820,-44,Jar,82893,0,1,11
+jars,nothing,CaveDestroyable252,Cave,-800,-28,Jar,82896,0,1,11
+jars,nothing,CaveDestroyable253,Cave,-822,130.6,Jar,82899,0,1,11
+jars,nothing,CaveDestroyable254,Cave,-822,146,Jar,82902,0,1,11
+jars,nothing,CaveDestroyable255,Cave,-824,146,Jar,82905,0,1,11
+jars,nothing,CaveDestroyable256,Cave,-822,148,Jar,82908,0,1,11
+jars,nothing,CaveDestroyable257,Cave,-820,146,Jar,82911,0,1,11
+jars,nothing,CaveDestroyable258,Cave,-822,144,Jar,82914,0,1,11
+jars,nothing,CaveDestroyable259,Cave,-821,145,Jar,82917,0,1,11
+jars,nothing,CaveDestroyable260,Cave,-821,147,Jar,82920,0,1,11
+jars,nothing,CaveDestroyable261,Cave,-823,147,Jar,82923,0,1,11
+jars,nothing,CaveDestroyable262,Cave,-823,145,Jar,82926,0,1,11
+jars,nothing,CaveDestroyable263,Cave,-824,130.6,Jar,82929,0,1,11
+jars,nothing,CaveDestroyable264,Cave,-834.79,126,Jar,82932,0,1,11
+jars,nothing,CaveDestroyable265,Cave,-810,127,Jar,82935,0,1,11
+jars,nothing,CaveDestroyable266,Cave,-809.22,126,Jar,82938,0,1,11
+jars,nothing,CaveDestroyable267,Cave,-834,127,Jar,82941,0,1,11
+jars,big crystal,CaveDestroyable268,Cave,-818,130.6,Jar,82944,3,2,12
+jars,nothing,CaveDestroyable269,Cave,-810,125,Jar,82947,0,1,11
+jars,big crystal,CaveDestroyable270,Cave,-826,130.6,Jar,82950,3,2,12
+jars,nothing,CaveDestroyable271,Cave,-834,125,Jar,82953,0,1,11
+jars,big crystal,CaveDestroyable272,Cave,-826.13,121.63,Jar,82956,3,2,12
+jars,big crystal,CaveDestroyable273,Cave,-817.81,121.63,Jar,82959,3,2,12
+jars,nothing,CaveDestroyable274,Cave,-820,130.6,Jar,82962,0,1,11
+jars,nothing,CaveDestroyable275,Cave,-824,121.61,Jar,82965,0,1,11
+jars,nothing,CaveDestroyable276,Cave,-822,121.61,Jar,82968,0,1,11
+jars,nothing,CaveDestroyable277,Cave,-820,121.61,Jar,82971,0,1,11
+jars,hp,CaveDestroyable278,Cave,-748,152,Jar,82974,1,1,11
+jars,hp,CaveDestroyable279,Cave,-760,152,Jar,82977,1,1,11
+jars,nothing,CaveDestroyable280,Cave,-804,-115,Jar,82980,0,1,11
+jars,nothing,CaveDestroyable281,Cave,-804.69,-116,Jar,82983,0,1,11
+jars,nothing,CaveDestroyable282,Cave,-804,-117,Jar,82986,0,1,11
+jars,nothing,CaveDestroyable283,Cave,-903.16,-163.69,Jar,82989,0,3,13
+jars,nothing,CaveDestroyable284,Cave,-880.35,144,Jar,82992,0,1,11
+jars,nothing,CaveDestroyable285,Cave,-882,144,Jar,82995,0,1,11
+jars,nothing,CaveDestroyable286,Cave,-873.69,144,Jar,82998,0,1,11
+jars,nothing,CaveDestroyable287,Cave,-875.34,144,Jar,83001,0,1,11
+jars,nothing,CaveDestroyable288,Cave,-836,-125,Jar,83004,0,2,12
+jars,nothing,CaveDestroyable289,Cave,-828,-125,Jar,83007,0,2,12
+jars,nothing,CaveDestroyable290,Cave,-834,-125,Jar,83010,0,1,11
+jars,nothing,CaveDestroyable291,Cave,-830,-125,Jar,83013,0,1,11
+jars,big crystal,CaveDestroyable292,Cave,-832,-125,Jar,83016,3,2,12
+jars,random,CaveDestroyable293,Cave,-826,-127,Jar,83019,2,1,11
+jars,random,CaveDestroyable294,Cave,-825.27,-128,Jar,83022,2,1,11
+jars,random,CaveDestroyable295,Cave,-825.27,-132,Jar,83025,2,1,11
+jars,random,CaveDestroyable296,Cave,-826,-133,Jar,83028,2,1,11
+jars,random,CaveDestroyable297,Cave,-826,-131,Jar,83031,2,1,11
+jars,random,CaveDestroyable298,Cave,-826,-129,Jar,83034,2,1,11
+jars,random,CaveDestroyable299,Cave,-825.27,-130,Jar,83037,2,1,11
+jars,random,CaveDestroyable300,Cave,-838,-127,Jar,83040,2,1,11
+jars,random,CaveDestroyable301,Cave,-838.55,-128,Jar,83043,2,1,11
+jars,random,CaveDestroyable302,Cave,-838.55,-132,Jar,83046,2,1,11
+jars,random,CaveDestroyable303,Cave,-838,-133,Jar,83049,2,1,11
+jars,random,CaveDestroyable304,Cave,-838,-131,Jar,83052,2,1,11
+jars,random,CaveDestroyable305,Cave,-838,-129,Jar,83055,2,1,11
+jars,random,CaveDestroyable306,Cave,-838.55,-130,Jar,83058,2,1,11
+jars,big crystal,CaveDestroyable307,Cave,-486,142,Jar,83061,3,1,11
+jars,big crystal,CaveDestroyable308,Cave,-472,142,Jar,83064,3,1,11
+jars,big crystal,CaveDestroyable309,Cave,-688,-83,Jar,83067,3,1,11
+jars,big crystal,CaveDestroyable310,Cave,-668,-83,Jar,83070,3,1,11
+jars,big crystal,CaveDestroyable311,Cave,-688,-91,Jar,83073,3,1,11
+jars,big crystal,CaveDestroyable312,Cave,-668,-91,Jar,83076,3,1,11
+jars,nothing,CaveDestroyable313,Cave,-674.21,6.67,Jar,83079,0,1,11
+jars,nothing,CaveDestroyable314,Cave,-674.19,3.56,Jar,83082,0,1,11
+jars,nothing,CaveDestroyable315,Cave,-674.26,5.13,Jar,83085,0,2,12
+jars,nothing,CaveDestroyable316,Cave,-662.84,2.71,Jar,83088,0,1,11
+jars,nothing,CaveDestroyable317,Cave,-663.5,1.46,Jar,83091,0,1,11
+jars,nothing,CaveDestroyable318,Cave,-673.47,7.23,Jar,83094,0,1,11
+jars,nothing,CaveDestroyable319,Cave,-673.47,2.8,Jar,83097,0,1,11
+jars,hp,CaveDestroyable320,Cave,-848,-4,Jar,83100,1,1,11
+jars,hp,CaveDestroyable321,Cave,-836,-4,Jar,83103,1,1,11
+jars,big crystals (65),CaveDestroyable323,Cave,-1012.13,-129.69,Jar,83114,6,3,13
+jars,hp,Dungeon1Destroyable62,Dungeon1,520,273.12,Jar,108495,1,1,11
+jars,hp,Dungeon1Destroyable63,Dungeon1,514,273.12,Jar,108498,1,1,11
+jars,hp,Dungeon1Destroyable64,Dungeon1,520,275.12,Jar,108501,1,1,11
+jars,hp,Dungeon1Destroyable65,Dungeon1,514,275.12,Jar,108504,1,1,11
+jars,hp,Dungeon2Destroyable105,Dungeon2,954.5,234.79,Jar,112170,1,1,11
+jars,hp,Dungeon2Destroyable106,Dungeon2,954.5,231.79,Jar,112173,1,1,11
+jars,hp,Dungeon2Destroyable107,Dungeon2,949.5,234.79,Jar,112176,1,1,11
+jars,hp,Dungeon2Destroyable108,Dungeon2,949.5,231.79,Jar,112179,1,1,11
+jars,nothing,Dungeon2Destroyable109,Dungeon2,881.94,350.12,Jar,112182,0,1,11
+jars,nothing,Dungeon2Destroyable110,Dungeon2,893.94,350.12,Jar,112185,0,1,11
+jars,hp,Dungeon2Destroyable111,Dungeon2,1046,340,Jar,112188,1,1,11
+jars,hp,Dungeon2Destroyable112,Dungeon2,896,272,Jar,112191,1,1,11
+jars,nothing,Dungeon2Destroyable113,Dungeon2,880,272,Jar,112194,0,1,11
+jars,nothing,Dungeon2Destroyable114,Dungeon2,1007.44,291,Jar,112197,0,1,11
+jars,nothing,Dungeon2Destroyable115,Dungeon2,1007.44,285,Jar,112200,0,1,11
+jars,hp,Dungeon2Destroyable116,Dungeon2,1014,260,Jar,112203,1,1,11
+jars,big crystal,Dungeon2Destroyable117,Dungeon2,1022,260,Jar,112206,3,1,11
+jars,hp,Dungeon2Destroyable118,Dungeon2,1020,254,Jar,112209,1,1,11
+jars,big crystal,Dungeon2Destroyable119,Dungeon2,1016,254,Jar,112212,3,1,11
+jars,big crystal,Dungeon2Destroyable120,Dungeon2,1022,256,Jar,112215,3,1,11
+jars,big crystal,Dungeon2Destroyable121,Dungeon2,1014,256,Jar,112218,3,1,11
+jars,hp,Dungeon2Destroyable122,Dungeon2,1018,260,Jar,112221,1,1,11
+jars,big crystal,Dungeon2Destroyable123,Dungeon2,1016,258,Jar,112224,3,1,11
+jars,big crystal,Dungeon2Destroyable124,Dungeon2,1020,258,Jar,112227,3,1,11
+jars,hp,Dungeon2Destroyable125,Dungeon2,1018,256,Jar,112230,1,1,11
+jars,hp,Dungeon2Destroyable126,Dungeon2,1020,262,Jar,112233,1,1,11
+jars,big crystal,Dungeon2Destroyable127,Dungeon2,1016,262,Jar,112236,3,1,11
+jars,hp,Dungeon3Destroyable44,Dungeon3,863,-80,Jar,124626,1,1,11
+jars,hp,Dungeon3Destroyable45,Dungeon3,862.5,-81.5,Jar,124629,1,1,11
+jars,hp,Dungeon3Destroyable46,Dungeon3,871.5,-81.5,Jar,124632,1,1,11
+jars,hp,Dungeon3Destroyable47,Dungeon3,871,-80,Jar,124635,1,1,11
+jars,hp,Dungeon3Destroyable48,Dungeon3,863,-83,Jar,124638,1,1,11
+jars,hp,Dungeon3Destroyable49,Dungeon3,871,-83,Jar,124641,1,1,11
+jars,nothing,Dungeon3Destroyable50,Dungeon3,809,-78,Jar,124644,0,1,11
+jars,nothing,Dungeon3Destroyable51,Dungeon3,813,-78,Jar,124647,0,1,11
+jars,nothing,Dungeon3Destroyable52,Dungeon3,813,-82,Jar,124650,0,1,11
+jars,nothing,Dungeon3Destroyable53,Dungeon3,809,-82,Jar,124653,0,1,11
+jars,nothing,Dungeon3Destroyable54,Dungeon3,917,-54,Jar,124656,0,1,11
+jars,nothing,Dungeon3Destroyable55,Dungeon3,925,-54,Jar,124659,0,1,11
+jars,hp,Dungeon3Destroyable56,Dungeon3,793,-84,Jar,124662,1,1,11
+jars,hp,Dungeon3Destroyable57,Dungeon3,791,-84,Jar,124665,1,1,11
+jars,nothing,Dungeon3Destroyable58,Dungeon3,825,-10,Jar,124668,0,1,11
+jars,random,Dungeon3Destroyable59,Dungeon3,825,-18,Jar,124671,2,1,11
+jars,random,Dungeon3Destroyable60,Dungeon3,833,-18,Jar,124674,2,1,11
+jars,random,Dungeon3Destroyable61,Dungeon3,833,-10,Jar,124677,2,1,11
+jars,nothing,Dungeon3Destroyable62,Dungeon3,899,66,Jar,124680,0,1,11
+jars,nothing,Dungeon3Destroyable63,Dungeon3,909,66,Jar,124683,0,1,11
+jars,nothing,Dungeon3Destroyable64,Dungeon3,911,64,Jar,124686,0,1,11
+jars,nothing,Dungeon3Destroyable65,Dungeon3,913,66,Jar,124689,0,1,11
+jars,big crystal,Dungeon3Destroyable66,Dungeon3,834.64,-57.82,Jar,124692,3,1,11
+jars,nothing,Dungeon3Destroyable67,Dungeon3,835.24,-59.18,Jar,124695,0,1,11
+jars,nothing,Dungeon3Destroyable68,Dungeon3,834.83,-60.66,Jar,124698,0,1,11
+jars,nothing,Dungeon3Destroyable69,Dungeon3,921,-54,Jar,124701,0,1,11
+jars,big crystal,Dungeon3Destroyable70,Dungeon3,829,-58,Jar,124704,3,1,11
+jars,big crystal,Dungeon3Destroyable71,Dungeon3,829,-62,Jar,124707,3,1,11
+jars,big crystal,Dungeon3Destroyable72,Dungeon3,831,-60,Jar,124710,3,1,11
+jars,big crystal,Dungeon3Destroyable73,Dungeon3,829,-60,Jar,124713,3,1,11
+jars,big crystal,Dungeon3Destroyable74,Dungeon3,827,-60,Jar,124716,3,1,11
+jars,big crystal,Dungeon3Destroyable75,Dungeon3,897,64,Jar,124719,3,1,11
+jars,nothing,Dungeon3Destroyable76,Dungeon3,901,64,Jar,124722,0,1,11
+jars,nothing,Dungeon3Destroyable77,Dungeon3,899,62,Jar,124725,0,1,11
+jars,big crystal,Dungeon3Destroyable78,Dungeon3,899,55,Jar,124728,3,1,11
+jars,big crystal,Dungeon3Destroyable79,Dungeon3,899,53,Jar,124731,3,1,11
+jars,hp,Temple1Destroyable26,Temple1,-772.92,-378.34,Jar,137273,1,1,11
+jars,hp,Temple1Destroyable27,Temple1,-768.98,-378.42,Jar,137276,1,1,11
+jars,nothing,Temple1Destroyable28,Temple1,-851,-361,Jar,137279,0,1,11
+jars,nothing,Temple1Destroyable29,Temple1,-851,-371,Jar,137282,0,1,11
+jars,hp,Temple1Destroyable30,Temple1,-827,-371,Jar,137285,1,1,11
+jars,hp,Temple1Destroyable31,Temple1,-827,-361,Jar,137288,1,1,11
+jars,nothing,Temple2Destroyable56,Temple2,-572,-391.88,Jar,140746,0,1,11
+jars,nothing,Temple2Destroyable57,Temple2,-572,-393.88,Jar,140749,0,1,11
+jars,nothing,Temple2Destroyable58,Temple2,-572,-395.88,Jar,140752,0,1,11
+jars,nothing,Temple2Destroyable59,Temple2,-574,-393,Jar,140755,0,1,11
+jars,hp,Temple2Destroyable60,Temple2,-574,-395,Jar,140758,1,1,11
+jars,nothing,Temple2Destroyable61,Temple2,-562,-393,Jar,140761,0,1,11
+jars,hp,Temple2Destroyable62,Temple2,-562,-397,Jar,140764,1,1,11
+jars,hp,Temple2Destroyable63,Temple2,-564,-393.88,Jar,140767,1,1,11
+jars,nothing,Temple2Destroyable64,Temple2,-564,-395.88,Jar,140770,0,1,11
+jars,hp,Temple2Destroyable65,Temple2,-572,-397.88,Jar,140773,1,1,11
+jars,hp,Temple2Destroyable66,Temple2,-564,-397.88,Jar,140776,1,1,11
+jars,hp,Temple2Destroyable67,Temple2,-564,-391.88,Jar,140779,1,1,11
+jars,big crystal,Temple2Destroyable68,Temple2,-594,-472,Jar,140782,3,1,11
+jars,nothing,Temple2Destroyable69,Temple2,-610,-467.2,Jar,140785,0,1,11
+jars,nothing,Temple2Destroyable70,Temple2,-610,-468.68,Jar,140788,0,1,11
+jars,random,Temple2Destroyable71,Temple2,-548,-414,Jar,140791,2,1,11
+jars,nothing,Temple2Destroyable72,Temple2,-524,-406,Jar,140794,0,1,11
+jars,random,Temple2Destroyable73,Temple2,-524,-414,Jar,140797,2,1,11
+jars,random,Temple2Destroyable74,Temple2,-548,-406,Jar,140800,2,1,11
+jars,hp,Temple2Destroyable75,Temple2,-562,-395,Jar,140803,1,1,11
+jars,hp,Temple2Destroyable76,Temple2,-574,-397,Jar,140806,1,1,11
+jars,hp,Temple3Destroyable17,Temple3,-818.85,-556.62,Jar,149522,1,1,11
+jars,hp,Temple3Destroyable18,Temple3,-818.58,-557.84,Jar,149525,1,1,11
+jars,hp,Temple3Destroyable19,Temple3,-819.92,-557.38,Jar,149528,1,1,11
+jars,hp,Temple3Destroyable20,Temple3,-813.08,-556.38,Jar,149531,1,1,11
+jars,hp,Temple3Destroyable21,Temple3,-813.38,-557.54,Jar,149534,1,1,11
+jars,hp,Temple3Destroyable22,Temple3,-812.14,-557.31,Jar,149537,1,1,11
+jars,random,TowerDestroyable65,Tower,160,-475,Jar,154522,2,1,11
+jars,random,TowerDestroyable66,Tower,164,-475,Jar,154525,2,1,11
+jars,random,TowerDestroyable67,Tower,152.69,-366.54,Jar,154528,2,1,11
+jars,random,TowerDestroyable68,Tower,171.46,-366.51,Jar,154531,2,1,11
+jars,random,TowerDestroyable69,Tower,152.57,-375.39,Jar,154534,2,1,11
+jars,random,TowerDestroyable70,Tower,171.46,-375.48,Jar,154537,2,1,11
+jars,nothing,TowerDestroyable71,Tower,73,-405,Jar,154540,0,2,12
+jars,nothing,TowerDestroyable72,Tower,75,-403,Jar,154543,0,2,12
+jars,nothing,TowerDestroyable73,Tower,73,-411,Jar,154546,0,2,12
+jars,nothing,TowerDestroyable74,Tower,75,-413,Jar,154549,0,2,12
+jars,nothing,TowerDestroyable75,Tower,78,-413,Jar,154552,0,2,12
+jars,nothing,TowerDestroyable76,Tower,90,-413,Jar,154555,0,2,12
+jars,nothing,TowerDestroyable77,Tower,90,-403,Jar,154558,0,2,12
+jars,nothing,TowerDestroyable78,Tower,93,-403,Jar,154561,0,2,12
+jars,nothing,TowerDestroyable79,Tower,95,-405,Jar,154564,0,2,12
+jars,nothing,TowerDestroyable80,Tower,84,-401,Jar,154567,0,3,13
+jars,nothing,TowerDestroyable81,Tower,95,-411,Jar,154570,0,2,12
+jars,nothing,TowerDestroyable82,Tower,73.18,-408,Jar,154573,0,3,13
+jars,nothing,TowerDestroyable83,Tower,93,-413,Jar,154576,0,2,12
+jars,nothing,TowerDestroyable84,Tower,94.76,-408,Jar,154579,0,3,13
+jars,nothing,TowerDestroyable85,Tower,-75.5,-334.46,Jar,154582,0,1,11
+jars,nothing,TowerDestroyable86,Tower,-72,-336,Jar,154585,0,2,12
+jars,nothing,TowerDestroyable87,Tower,-75.5,-337.54,Jar,154588,0,1,11
+jars,hp,TowerDestroyable88,Tower,-223,-422,Jar,154591,1,2,12
+jars,hp,TowerDestroyable89,Tower,-225,-422,Jar,154594,1,1,11
+jars,hp,TowerDestroyable90,Tower,-221,-422,Jar,154597,1,1,11
+jars,hp,TowerDestroyable91,Tower,-203,-407,Jar,154600,1,1,11
+jars,hp,TowerDestroyable92,Tower,-199,-411,Jar,154603,1,1,11
+jars,random,TowerDestroyable93,Tower,-255,-406,Jar,154606,2,1,11
+jars,random,TowerDestroyable94,Tower,-255,-414.42,Jar,154609,2,1,11
+jars,random,TowerDestroyable95,Tower,-243,-414.42,Jar,154612,2,1,11
+jars,random,TowerDestroyable96,Tower,-243,-406,Jar,154615,2,1,11
+jars,hp,TowerDestroyable97,Tower,-203,-425,Jar,154618,1,1,11
+jars,hp,TowerDestroyable98,Tower,-199,-429,Jar,154621,1,1,11
+jars,nothing,TowerDestroyable99,Tower,-68.53,-334.46,Jar,154624,0,1,11
+jars,nothing,TowerDestroyable100,Tower,-68.53,-337.54,Jar,154627,0,1,11
+jars,hp,SnowDestroyable0,Snow,414,-376,Jar,175919,1,1,11
+jars,hp,SnowDestroyable1,Snow,424,-376,Jar,175922,1,1,11
+jars,hp,SnowDestroyable2,Snow,413,-377,Jar,175925,1,1,11
+jars,hp,SnowDestroyable3,Snow,423,-377,Jar,175928,1,1,11
+jars,hp,SnowDestroyable4,Snow,414,-378,Jar,175931,1,1,11
+jars,hp,SnowDestroyable5,Snow,424,-378,Jar,175934,1,1,11
+jars,hp,SnowDestroyable6,Snow,414,-377,Jar,175937,1,1,11
+jars,hp,SnowDestroyable7,Snow,425,-377,Jar,175940,1,1,11
+jars,hp,SnowDestroyable8,Snow,415,-377,Jar,175943,1,1,11
+jars,hp,SnowDestroyable9,Snow,424,-377,Jar,175946,1,1,11

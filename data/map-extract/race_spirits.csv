@@ -1,0 +1,9 @@
+category,name,object,scene,x,y,schema,objectIndex,spriteI
+race_spirits,Race spirit,NpcTiny0,Cave,-480,-1,NpcTiny,85692,124
+race_spirits,Race spirit,NpcTiny1,Cave,-503,93,NpcTiny,85724,124
+race_spirits,Race spirit,NpcTiny2,CaveExtra,-1311,161,NpcTiny,106671,124
+race_spirits,Race spirit,NpcTiny3,CaveExtra,-1293,42,NpcTiny,106703,124
+race_spirits,Race spirit,NpcTiny4,CaveExtra,-1201,120,NpcTiny,106735,124
+race_spirits,Race spirit,NpcTiny5,CaveExtra,-1507,-1,NpcTiny,106767,124
+race_spirits,Race spirit,NpcTiny6,CaveExtra,-1503,122,NpcTiny,106799,124
+race_spirits,Race spirit,NpcTiny7,CaveExtra,-1199,-80,NpcTiny,106831,124

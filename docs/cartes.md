@@ -97,6 +97,13 @@ Le web chinois est l’un des rares endroits où l’on trouve encore de vraies 
 
 ## 7. Ressources locales ajoutées
 
+### Extraction locale de la carte interactive
+[map-data.md](map-data.md)
+
+Données brutes extraites du repo de la carte interactive : modules, skills, scarabées, courses, coeurs, énergie, entrées, tunnels, etc. Les exports complets sont dans `data/map-extract/`.
+
+
+
 ### Hub local du guide
 [README du dossier docs](README.md)
 

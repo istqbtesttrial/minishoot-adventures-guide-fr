@@ -1,0 +1,72 @@
+[
+  {
+    "category": "timer_races",
+    "name": "Timer race",
+    "object": "Dungeon3RaceManager0",
+    "scene": "Dungeon3",
+    "x": 876,
+    "y": -57,
+    "schema": "RaceManager",
+    "objectIndex": 125635,
+    "duration": 24,
+    "torchGroupCount": 25,
+    "target": 124838,
+    "targetBis": -1
+  },
+  {
+    "category": "timer_races",
+    "name": "Timer race",
+    "object": "Dungeon3RaceManager1",
+    "scene": "Dungeon3",
+    "x": 876,
+    "y": -57,
+    "schema": "RaceManager",
+    "objectIndex": 126491,
+    "duration": 15,
+    "torchGroupCount": 14,
+    "target": 124841,
+    "targetBis": -1
+  },
+  {
+    "category": "timer_races",
+    "name": "Timer race",
+    "object": "Temple3RaceManager0",
+    "scene": "Temple3",
+    "x": -735,
+    "y": -650,
+    "schema": "RaceManager",
+    "objectIndex": 150122,
+    "duration": 13,
+    "torchGroupCount": 11,
+    "target": 149569,
+    "targetBis": -1
+  },
+  {
+    "category": "timer_races",
+    "name": "Timer race",
+    "object": "Temple3RaceManager1",
+    "scene": "Temple3",
+    "x": -897,
+    "y": -594,
+    "schema": "RaceManager",
+    "objectIndex": 150502,
+    "duration": 10,
+    "torchGroupCount": 13,
+    "target": 149611,
+    "targetBis": -1
+  },
+  {
+    "category": "timer_races",
+    "name": "Timer race",
+    "object": "CaveArenaRaceManager0",
+    "scene": "CaveArena",
+    "x": 467,
+    "y": 553,
+    "schema": "RaceManager",
+    "objectIndex": 162624,
+    "duration": 46,
+    "torchGroupCount": 32,
+    "target": 161575,
+    "targetBis": -1
+  }
+]

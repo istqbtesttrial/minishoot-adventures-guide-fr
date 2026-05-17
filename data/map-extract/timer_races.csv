@@ -1,0 +1,6 @@
+category,name,object,scene,x,y,schema,objectIndex,duration,torchGroupCount,target,targetBis
+timer_races,Timer race,Dungeon3RaceManager0,Dungeon3,876,-57,RaceManager,125635,24,25,124838,-1
+timer_races,Timer race,Dungeon3RaceManager1,Dungeon3,876,-57,RaceManager,126491,15,14,124841,-1
+timer_races,Timer race,Temple3RaceManager0,Temple3,-735,-650,RaceManager,150122,13,11,149569,-1
+timer_races,Timer race,Temple3RaceManager1,Temple3,-897,-594,RaceManager,150502,10,13,149611,-1
+timer_races,Timer race,CaveArenaRaceManager0,CaveArena,467,553,RaceManager,162624,46,32,161575,-1

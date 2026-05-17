@@ -1,0 +1,12 @@
+category,name,object,scene,x,y,schema,objectIndex,objectiveCleared,target,targetBis
+unlocker_triggers,None,OverworldUnlockerTrigger0,Overworld,28,235,UnlockerTrigger,55711,0,54878,-1
+unlocker_triggers,Dungeon5,CaveUnlockerTrigger0,Cave,-838,-170,UnlockerTrigger,83868,5,83538,-1
+unlocker_triggers,None,Dungeon5UnlockerTrigger0,Dungeon5,1228,113,UnlockerTrigger,133762,0,132574,-1
+unlocker_triggers,None,Dungeon5UnlockerTrigger1,Dungeon5,1206,113,UnlockerTrigger,133763,0,132611,-1
+unlocker_triggers,None,Dungeon5UnlockerTrigger2,Dungeon5,1197,88,UnlockerTrigger,133764,0,132660,-1
+unlocker_triggers,None,Dungeon5UnlockerTrigger3,Dungeon5,1160,79,UnlockerTrigger,133765,0,132730,-1
+unlocker_triggers,None,Dungeon5UnlockerTrigger4,Dungeon5,1193,143,UnlockerTrigger,133766,0,132862,133071
+unlocker_triggers,None,Dungeon5UnlockerTrigger5,Dungeon5,1333,143,UnlockerTrigger,133767,0,132531,133324
+unlocker_triggers,None,Dungeon5UnlockerTrigger6,Dungeon5,1151,151,UnlockerTrigger,133768,0,132984,-1
+unlocker_triggers,None,Dungeon5UnlockerTrigger7,Dungeon5,1254.83,280.94,UnlockerTrigger,133769,0,133662,-1
+unlocker_triggers,None,Temple1UnlockerTrigger0,Temple1,-771,-297,UnlockerTrigger,137326,0,137509,-1
