@@ -161,15 +161,23 @@ Le guide illustré communautaire montre plusieurs entrées et paires de captures
 
 ## 🏁 8. Courses — les garder pour quand tu es mobile
 
-Il y a **8 courses**. Tu peux en faire certaines en cours de route, mais si elles t’énervent, attends d’avoir plus de mobilité.
+Il y a **8 courses / race spirits**. Tu peux en faire certaines en cours de route, mais si elles t’énervent, attends d’avoir plus de mobilité.
+
+Ce que la recherche web confirme :
+
+- les 8 courses donnent accès à des **extras / post-game** après le boss final
+- les faire avant la fin donne aussi un **objet utile**
+- la **course #2** est la plus cachée
+- après les 8 courses, il faut récupérer une **récompense finale**
 
 Conseils :
 
-- réalloue temporairement des points vers le mouvement si besoin
-- fais-les quand tu connais déjà bien la zone
-- après les 8 courses, n’oublie pas la **récompense finale** dans la grande zone/temple au sud
+- réalloue temporairement des points vers **Move Speed**
+- garde le boost pour les lignes droites / sorties de virage
+- fais une reconnaissance du circuit avant de viser le temps parfait
+- si une course manque, vérifie la tour aux **3 slimes** de la course #2
 
-Voir : [Les 8 courses](courses.md)
+Voir : [Courses et race spirits](courses-et-race-spirits.md) et [Recherche deep — les 8 courses](recherche-courses-deep.md)
 
 ---
 

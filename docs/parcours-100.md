@@ -1,27 +1,39 @@
-# 🧭 Parcours 100% — ordre de lecture et d’action
-
-> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
-
-> Voir aussi : [Guide visuel rapide](guide-visuel.md) pour les pictogrammes réels de la map.
+# 🧭 Parcours 100% — ordre conseillé
 
 > Page “chef d’orchestre”. Si tu veux finir le jeu proprement sans te perdre dans toutes les pages, suis cet ordre.
 
 ---
 
-## 🧭 Phase 1 — Avancer l’histoire sans trop nettoyer
+## 🚀 Principe général
 
-Objectif : débloquer les mouvements majeurs et éviter les allers-retours inutiles.
+Minishoot' Adventures récompense beaucoup les retours intelligents. Ne cherche pas le 100% parfait dès le début : avance, récupère les skills, puis nettoie avec la carte interactive.
 
-1. Suivre la [soluce progression](soluce.md)
-2. Lire seulement les alertes “facile à rater” dans [secrets](secrets.md)
-3. Ne pas viser tous les objets dès le début : beaucoup deviennent plus simples avec les skills
+Ressources à garder ouvertes :
 
-À vérifier régulièrement :
+- Carte interactive : <https://minishoot-map.github.io/>
+- Sommaire : [README](README.md)
+- Checklist : [Checklist 100%](checklist-100-pourcent.md)
+- Courses deep : [Recherche deep — les 8 courses](recherche-courses-deep.md)
 
-- PNJ sauvés
-- nouvelles maisons / zones ouvertes
-- zones visibles mais encore inaccessibles
-- récompenses après retour au hub
+---
+
+## 🧭 Phase 1 — Histoire d’abord, sans sur-nettoyer
+
+Objectif : débloquer les mouvements majeurs.
+
+À faire :
+
+1. suivre la [Soluce progression](soluce.md)
+2. noter les murs / trous / portes bloquées
+3. repérer la **Family Home** dans la zone centrale
+4. repérer les vendeurs / PNJ de récompense
+5. ne pas forcer les courses trop tôt
+
+À ne pas oublier :
+
+- la zone de départ n’est pas terminée une fois visitée
+- plusieurs récompenses demandent un retour plus tard
+- les courses deviennent beaucoup plus simples avec plus de mobilité
 
 ---
 
@@ -29,94 +41,93 @@ Objectif : débloquer les mouvements majeurs et éviter les allers-retours inuti
 
 Objectif : commencer le nettoyage intelligent.
 
-Ouvre la carte interactive : <https://minishoot-map.github.io/>
+Ouvre la carte interactive et active **un seul filtre à la fois** :
 
-Filtres recommandés, dans cet ordre :
-
-1. **Modules & Skills**
-2. **Scarabs**
-3. **Race spirits**
-4. **Heart crystals**
-5. **Energy upgrades**
-6. **Map & Lore fragments**
-
-Pages utiles :
-
-- [Guide des modules](modules.md)
-- [Les 8 courses](courses.md)
-- [Extraction de la carte interactive](map-data.md)
+| Ordre | Filtre | Page claire |
+| ---: | --- | --- |
+| 1 | Modules & Skills | [Modules et skills](modules-et-skills.md) |
+| 2 | Heart crystals / Energy upgrades | [Cœurs et énergie](coeurs-et-energie.md) |
+| 3 | Scarabs | [Scarabées dorés](scarabees-dores.md) |
+| 4 | Race spirits | [Courses et race spirits](courses-et-race-spirits.md) |
+| 5 | Map & Lore | [Cartes, lore et clés](cartes-lore-et-cles.md) |
 
 ---
 
-## ⚠️ Phase 3 — Avant boss final
+## 🏁 Phase 3 — Courses : quand les faire ?
 
-Objectif : éviter de finir l’histoire puis devoir tout rediagnostiquer.
+Il y a **8 race spirits / courses**.
 
-Checklist rapide :
+Conseil : fais-les quand tu as assez de mobilité. Si une course t’énerve, laisse-la pour plus tard.
 
-- [ ] les 4 skills principaux sont obtenus
-- [ ] les 8 courses sont repérées ou terminées
-- [ ] le vendeur de scarabées a été revisité
-- [ ] Family Home a été revisitée
-- [ ] Wounded Heart / Coeur Blessé est vérifié
-- [ ] les zones de temples/tours ont été revisitées après nouveaux pouvoirs
-- [ ] la checklist interactive est ouverte : [checklist-interactive.html](checklist-interactive.html)
+Avant de forcer les courses :
+
+- [ ] Move Speed amélioré si possible
+- [ ] Boost confortable
+- [ ] routes explorées une première fois
+- [ ] éventuellement réallocation temporaire des points vers mouvement
+
+À retenir :
+
+- La **course #2** est la plus cachée.
+- Elle dépend d’une **tour avec symbole de 3 slimes**.
+- Il faut déclencher / résoudre les 3 slimes pour ouvrir l’accès.
+- Après les 8 courses, il faut récupérer une **récompense finale**.
+
+Page dédiée : [Courses et race spirits](courses-et-race-spirits.md)
 
 ---
 
-## ✅ Phase 4 — Post-game / vraie route / derniers succès
+## ⚠️ Phase 4 — Avant le boss final
 
-Objectif : finir le 100% réel, pas seulement la carte.
+Checklist de sécurité avant d’aller trop loin :
 
-Lire dans cet ordre :
+- [ ] 4 skills principaux obtenus
+- [ ] Family Home revisitée
+- [ ] famille / PNJ de retour vérifiés
+- [ ] Wounded Heart / Cœur Blessé vérifié
+- [ ] vendeur de scarabées revisité
+- [ ] donjon optionnel du désert fait
+- [ ] zone ouest / égouts / bâtiments cachés fouillés
+- [ ] au moins les accès des 8 courses repérés
+- [ ] tablettes lore surveillées si tu vises tous les succès
 
-1. [Objectif 100%](100-percent.md)
-2. [Dépannage](depannage.md)
-3. [Cartes, vidéos et ressources](cartes.md)
-4. [Sources](sources.md) si une info paraît douteuse
+---
 
-Cas fréquents :
+## ✅ Phase 5 — Post-game / vraie route / derniers succès
 
-| Symptôme | Page directe |
+Ordre recommandé :
+
+1. finir les 8 courses
+2. récupérer la récompense finale des courses
+3. rendre / échanger tous les scarabées dorés
+4. retourner à la Family Home
+5. vérifier Wounded Heart / autel post-game
+6. finir les modules restants
+7. lire les tablettes lore restantes
+8. finir les arènes / défis
+9. faire **Sans regarder en arrière** en tout dernier
+
+---
+
+## 🛠️ Si quelque chose manque
+
+| Symptôme | Première page à ouvrir |
 | --- | --- |
-| Module manquant | [Dépannage — module manquant](depannage.md#module-manquant-malgre-100-carte) |
-| Scarabée manquant | [Dépannage — scarabée](depannage.md#scarabee-dore-manquant) |
-| Course manquante | [Courses](courses.md) |
-| Succès qui ne pop pas | [Objectif 100%](100-percent.md) |
-| Besoin de coordonnées brutes | [Extraction map](map-data.md) |
-
----
-
-## 📚 Ordre conseillé des fichiers du guide
-
-### Lire / jouer
-
-1. [Soluce](soluce.md)
-2. [Secrets](secrets.md)
-3. [Modules](modules.md)
-4. [Courses](courses.md)
-5. [100%](100-percent.md)
-6. [Dépannage](depannage.md)
-
-### Chercher un emplacement
-
-1. [Carte interactive](https://minishoot-map.github.io/)
-2. [Extraction map](map-data.md)
-3. [Cartes et vidéos](cartes.md)
-4. [Captures](captures.md)
-
-### Vérifier la fiabilité
-
-1. [Sources](sources.md)
-2. [Journal de recherche deep](recherche-deep.md)
+| Module manquant | [Dépannage](depannage-problemes-frequents.md#module-manquant-malgre-100-carte) |
+| Course manquante | [Courses et race spirits](courses-et-race-spirits.md#si-une-course-manque) |
+| Scarabée manquant | [Scarabées dorés](scarabees-dores.md) |
+| Cœur / énergie manquant | [Cœurs et énergie](coeurs-et-energie.md) |
+| Lore / carte / clés | [Cartes, lore et clés](cartes-lore-et-cles.md) |
+| Source douteuse | [Sources et vérification](sources-et-verification.md) |
 
 ---
 
 ## 🧠 Règle simple
 
-Si tu ne sais pas quoi faire ensuite :
+Si tu es perdu :
 
-1. regarde ton objectif actuel dans le jeu
-2. ouvre [Soluce](soluce.md) si c’est l’histoire
-3. ouvre [Dépannage](depannage.md) si c’est un objet manquant
-4. ouvre la carte interactive avec **un seul filtre à la fois**
+1. ouvre la carte interactive
+2. active un seul filtre
+3. compare avec la page claire correspondante
+4. coche dans [Checklist 100%](checklist-100-pourcent.md)
+5. si un objet ne colle pas, lis [Dépannage](depannage-problemes-frequents.md)

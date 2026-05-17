@@ -1,6 +1,6 @@
 # 🛠️ Dépannage — problèmes fréquents
 
-> Page anti-frustration : quoi vérifier quand il manque un objet, un module ou un succès.
+> Page anti-frustration : quoi vérifier quand il manque un objet, un module, une course ou un succès.
 
 ---
 
@@ -26,6 +26,54 @@ Vérifie dans cet ordre :
    - ouvrir/fermer l’inventaire
    - combattre ou prendre un coup
    - redémarrer si besoin
+
+---
+
+## 🏁 Dernière course manquante
+
+### Méthode rapide
+
+1. Ouvre la carte interactive : <https://minishoot-map.github.io/>
+2. Active uniquement **Race spirits**.
+3. Vérifie les 8 points listés dans [Courses et race spirits](courses-et-race-spirits.md).
+4. Si une tour reste fermée, suspecte la **course #2**.
+5. Utilise les checkmarks de progression si ton upgrade les affiche.
+
+### Course #2 — le piège principal
+
+Repères :
+
+- tour avec symbole de **3 slimes** devant
+- au nord du spawn principal / légèrement à l’est selon les retours joueurs
+- accès lié à 3 slimes / 3 cercles à déclencher dans la zone
+- mène vers une zone souterraine
+- la piste est à l’est de cette zone souterraine
+
+À vérifier :
+
+- [ ] les deux slimes proches des zones carrées dans l’herbe
+- [ ] le troisième slime plus au sud-ouest
+- [ ] le token / bouton qui déplace un rocher
+- [ ] la salle au-dessus de la clé scarabée dorée
+- [ ] le chemin à droite dans la salle avec plateforme centrale
+- [ ] les piliers ouverts par le bouton de la salle au-dessus
+
+Si un slime semble invincible ou bloqué : sauvegarde / redémarre le jeu, puis réessaie.
+
+Détail complet : [Recherche deep — course #2](recherche-courses-deep.md#course-2--acces-detaille-car-cest-la-plus-problematique)
+
+---
+
+## 🎁 Récompense des 8 courses oubliée
+
+Symptôme : tu as gagné les courses, mais il manque encore un objet / module / extra.
+
+À faire :
+
+1. vérifier que les 8 courses sont bien validées
+2. retourner chercher la récompense finale
+3. comparer avec les captures dans [Recherche deep — récompense](recherche-courses-deep.md#recompense-apres-les-8-courses)
+4. changer de zone si l’objet / succès ne se déclenche pas
 
 ---
 
@@ -56,15 +104,6 @@ Spots souvent cités : Donjon 2 nord-est, Donjon 3 nord-est/ouest, donjon option
 
 ---
 
-## 🏁 Dernière course manquante
-
-1. Active **Race spirits** sur la carte interactive.
-2. Vérifie surtout la course #2 : tour avec symbole de 3 slimes, 3 cercles à toucher, accès souterrain.
-3. Reviens après upgrades de mobilité si la route est trop dure.
-4. Après la dernière course, récupère la récompense finale.
-
----
-
 ## 🏆 Succès qui ne se déclenche pas
 
 Essaie :
@@ -75,6 +114,20 @@ Essaie :
 - prendre un coup volontairement
 - redémarrer le jeu
 - revenir au PNJ / vendeur concerné
+
+Succès concernés souvent : modules, récompenses, courses, achats / échanges.
+
+---
+
+## 🐢 Progression / vraie fin bloquée
+
+Après la première fin, revisite :
+
+- Wounded Heart / autel
+- Family Home
+- barde / arbre / tortue selon progression
+- récompense des courses
+- zones d’arène / extras
 
 ---
 
@@ -87,6 +140,7 @@ Avant :
 - [ ] modules
 - [ ] scarabées
 - [ ] courses
+- [ ] récompense des courses
 - [ ] lore
 - [ ] arènes
 - [ ] succès cachés
@@ -98,4 +152,5 @@ Avant :
 - [Checklist 100%](checklist-100-pourcent.md)
 - [Modules et skills](modules-et-skills.md)
 - [Courses et race spirits](courses-et-race-spirits.md)
+- [Recherche deep — les 8 courses](recherche-courses-deep.md)
 - [Scarabées dorés](scarabees-dores.md)

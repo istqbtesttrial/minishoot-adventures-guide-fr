@@ -1,151 +1,159 @@
 # 🗺️ Cartes, vidéos et ressources utiles
 
-> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
-
-> Voici les meilleures ressources trouvées pour *Minishoot' Adventures*. Le web du jeu reste relativement petit, donc ce sont vraiment celles qui reviennent le plus utilement.
+> Les meilleures ressources trouvées pour *Minishoot' Adventures*, avec quoi utiliser selon ton besoin.
 
 ---
 
-## 🗺️ 1. Carte interactive — ressource n°1
+## 🗺️ Carte interactive — ressource n°1
 
-### Minishoot Map
 <https://minishoot-map.github.io/>
 
-**À quoi elle sert :**
-- modules
-- skills
+Sert surtout à trouver :
+
+- modules / skills
+- cœurs / énergie
 - scarabées dorés
-- énergie
-- cœurs
-- courses
+- race spirits / courses
+- fragments de carte / lore
 - points d’intérêt divers
 
-**Usage recommandé :**
-- active **Modules & Skills** pour la chasse aux modules
-- fais ensuite un second passage avec les courses et scarabées
+Méthode : active **un seul filtre à la fois**.
 
 ---
 
-## 📸 2. Guide illustré avec captures
+## 🏁 Ressources courses
 
-### GitHub community guide
-<https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
+### Guide YAL / YellowAfterlife
 
-C’est la meilleure soluce visuelle existante pour :
-- accès aux donjons
-- routes parfois tordues
-- courses
-- extras / bonus
+- GitHub : <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
+- Section courses brute : <https://raw.githubusercontent.com/YAL-Game-Things/Minishoot-Adventures-Guide/main/050%20Races.md>
+
+Ce guide donne :
+
+- captures des 8 courses
+- captures de la récompense finale
+- indication que les courses donnent accès aux extras après le boss final
+- conseil de réallouer les points vers le mouvement
+
+### Page locale enrichie
+
+- [Courses et race spirits](courses-et-race-spirits.md)
+- [Recherche deep — les 8 courses](recherche-courses-deep.md)
 
 ---
 
-## 🏆 3. Guides trophées / succès
+## 🏁 Course #2 — sources utiles
+
+La course #2 est la plus cachée.
+
+Sources :
+
+- Discussion Steam “Second race location?” : <https://steamcommunity.com/app/1634860/discussions/0/4362373279646124209/>
+- Recherche locale : [Course #2 détaillée](recherche-courses-deep.md#course-2--acces-detaille-car-cest-la-plus-problematique)
+
+À retenir :
+
+- tour avec symbole de 3 slimes
+- 3 slimes / cercles à déclencher
+- accès vers zone souterraine
+- piste à l’est de cette zone
+
+---
+
+## 🏆 Guides trophées / succès
 
 ### NationHive FR
+
 <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees>
 
-### NationHive EN
-<https://www.nationhive.com/en/games/minishoot-adventures/guide/trophies>
+### TrueSteamAchievements EN
+
+<https://truesteamachievements.com/game/Minishoot-Adventures/achievements>
 
 Utile pour :
-- nom FR/EN des succès
+
+- noms FR/EN des succès
 - vue d’ensemble du 100%
+- succès cachés / semi-cachés
 
 ---
 
-## 💬 4. Discussions Steam les plus utiles
+## 💬 Discussions Steam utiles
 
 ### Family Home / module manquant
+
 <https://steamcommunity.com/app/1634860/discussions/0/596262791801817488/>
 
 ### Missing item / Wounded Heart / famille
+
 <https://steamcommunity.com/app/1634860/discussions/0/4358997268252702708/>
 
 ### Carte à 100% mais objet encore manquant
+
 <https://steamcommunity.com/app/1634860/discussions/0/4411921622540751172/>
 
-Ces threads sont précieux parce qu’ils parlent des **vrais blocages** rencontrés par les joueurs.
+### Course #2 / second race
+
+<https://steamcommunity.com/app/1634860/discussions/0/4362373279646124209/>
 
 ---
 
-## 5. Reddit — très utile pour les cas tordus
+## Reddit utile
 
-### Discussions sur Overstuffed / modules
-- r/Trophies
-- r/metroidvania
-- r/ZeldaLikes
+### Dernière course manquante
 
-Ce qu’on y apprend souvent :
-- quel module est généralement le dernier manquant
-- comment forcer le pop d’un succès qui tarde à tomber
-- quelle interaction de retour a été oubliée
+<https://www.reddit.com/r/metroidvania/comments/1t5kx1p/minishoot_adventures_help_finding_last_race/>
+
+À retenir : utiliser les checkmarks / lieux non validés pour retrouver une course manquante.
 
 ---
 
-## 🎬 6. Vidéos utiles
+## Build / mouvement
+
+### GodIsAGeek — Move Speed
+
+<https://godisageek.com/2024/04/minishoot-adventures-how-to-move-faster/>
+
+À retenir : Move Speed peut être monté avec `1 + 3 + 4`, donc **8 cristaux de niveau** au total. Très utile pour les courses.
+
+---
+
+## 🎬 Vidéos utiles
 
 ### YouTube — walkthrough / all secrets
+
 <https://www.youtube.com/watch?v=sx8w5RGAGAI>
 
 ### Bilibili — full collect
+
 <https://www.bilibili.com/video/BV1xM4m1X7oU/>
 
 ### Bilibili — autre ressource full collect
+
 <https://www.bilibili.com/video/BV1GiGJePEWX/>
 
-Le web chinois est l’un des rares endroits où l’on trouve encore de vraies vidéos **全收集 / full collect**.
+Le web chinois est l’un des rares endroits où l’on trouve encore des vidéos **全收集 / full collect**.
 
 ---
 
-## 📚 7. Ressources locales ajoutées
+## 📚 Ressources locales
 
-### Extraction locale de la carte interactive
-[map-data.md](map-data.md)
-
-Données brutes extraites du repo de la carte interactive : modules, skills, scarabées, courses, coeurs, énergie, entrées, tunnels, etc. Les exports complets sont dans `data/map-extract/`.
-
-
-
-### Hub local du guide
-[README du dossier docs](README.md)
-
-Point d’entrée recommandé pour choisir la bonne page selon ton blocage.
-
-
-
-### Checklist interactive
-[checklist-interactive.html](checklist-interactive.html)
-
-Utile pour suivre ton 100% sans refaire mentalement toute la liste à chaque session. Les coches restent sauvegardées dans le navigateur.
-
-### Captures et repères visuels
-[captures.md](captures.md)
-
-Liste les captures prioritaires à produire et les repères visuels à consulter dans le guide communautaire.
-
----
-
-## 🧠 8. Quelle source utiliser selon ton besoin ?
-
-### Il me manque un module
-➡ carte interactive + Steam + Reddit
-
-### Je ne sais plus où aller dans l’histoire
-➡ guide GitHub illustré
-
-### Je vise tous les succès
-➡ NationHive + carte interactive
-
-### Je veux voir le trajet exact en vidéo
-➡ YouTube / Bilibili
+| Page | Utilité |
+| --- | --- |
+| [Sommaire](README.md) | navigation du guide |
+| [Guide visuel rapide](guide-visuel.md) | filtres + repères |
+| [Checklist 100%](checklist-100-pourcent.md) | tout cocher |
+| [Dépannage](depannage-problemes-frequents.md) | objets / succès bloqués |
+| [Données techniques](donnees-techniques.md) | comprendre les CSV |
+| [Recherche deep courses](recherche-courses-deep.md) | infos web sur les 8 courses |
 
 ---
 
 ## Recommandation finale
 
-Si tu ne dois garder que **3 onglets ouverts** :
+Si tu ne dois garder que **4 onglets ouverts** :
 
 1. <https://minishoot-map.github.io/>
-2. [checklist-interactive.html](checklist-interactive.html)
-3. <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
-4. <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees>
+2. [Checklist 100%](checklist-100-pourcent.md)
+3. [Courses et race spirits](courses-et-race-spirits.md)
+4. <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
