@@ -14,6 +14,7 @@
 | Modules et pouvoirs | [🧩 Modules et skills](modules-et-skills.md) |
 | Vie et énergie | [❤️ Cœurs et énergie](coeurs-et-energie.md) |
 | Courses | [🏁 Courses et race spirits](courses-et-race-spirits.md) |
+| Recherche approfondie générale | [🔎 Recherche deep complète](recherche-deep-complete.md) |
 | Recherche approfondie courses | [🔎 Recherche deep — les 8 courses](recherche-courses-deep.md) |
 | Scarabées | [🪲 Scarabées dorés](scarabees-dores.md) |
 | Carte, lore, clés | [🗺️ Cartes, lore et clés](cartes-lore-et-cles.md) |
@@ -64,6 +65,7 @@
 | [📊 Données techniques](donnees-techniques.md) | explication claire des CSV |
 | [📊 Extraction map complète](map-data.md) | gros résumé technique de l’extraction |
 | [📊 Données brutes](../data/README.md) | dossier CSV/JSON |
+| [🔎 Recherche deep complète](recherche-deep-complete.md) | synthèse globale de toutes les sources |
 | [🔎 Sources et vérification](sources-et-verification.md) | liens, confiance, choses à vérifier |
 | [🎯 Pictogrammes](pictogrammes.md) | légende des icônes |
 | [🖼️ Icônes extraites](assets/map-icons/README.md) | index des images de la map |

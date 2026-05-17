@@ -1,33 +1,78 @@
 # ✅ Checklist 100%
 
-> Page claire pour voir tout ce qu’il faut faire avant de considérer la sauvegarde terminée.
+> Tout ce qu’il faut vérifier avant de considérer la sauvegarde terminée.
 
 ---
 
-## 🏆 Succès importants
+## ⚠️ Avant de commencer : succès de difficulté
 
-| Succès | Objectif |
+Les succès de difficulté sont basés sur la **plus basse difficulté utilisée sur la sauvegarde**.
+
+- Si tu veux tous les succès de difficulté, commence directement en difficulté **Avancée**.
+- Ne baisse pas la difficulté avant d’obtenir les succès liés.
+- Le mode de visée / aiming mode n’affecte pas les succès.
+
+---
+
+## 🏆 Liste des succès FR à surveiller
+
+NationHive liste **34 succès**.
+
+| Succès | Objectif / rappel |
 | --- | --- |
-| Suréquipément / Overstuffed | trouver tous les modules |
-| Trouver sa place | réunir la famille |
+| Je vole même pas ?! | tomber dans l’eau |
+| Je ne suis pas seul | progression / rencontre |
+| La Machine | battre le premier boss |
+| Quoique... | démonter une amélioration |
+| Chasseur de Géants | détruire 20 ennemis larges |
+| Plus rapide que toi ! | gagner une course contre un petit esprit |
+| Quelle indignité ! | jarres / maison familiale selon retours |
+| Ça brille | trouver trois scarabées dorés |
+| La Corruption | battre le second boss |
+| Le Gardien du désert | battre le boss du désert |
+| Vieil Ami | réveiller la tortue géante |
+| Pétage de câble | succès secondaire |
+| Pas à moi | secret dans le secret dans la forêt |
 | Cœur Blessé | trouver la source de la corruption |
-| Plus rapide que vous tous ! | gagner toutes les courses |
+| La Bête Abandonnée | battre le troisième boss |
+| Bigorneau Suspect | battre le boss de la plage |
+| Fini de ronfler | réveiller l’arbre grâce au barde |
+| Vous m’avez tous manqué | libérer tous vos amis |
+| Le Scarabée Primordial | rencontrer l’entité quasi-divine |
+| Aïe | survivre à une grosse chute |
+| Trouver sa place | réunir la famille |
+| Un voyage se termine | finir en Exploration ou supérieure |
+| Le Désélu | battre le boss final |
 | Ô Grand Primordial | trouver tous les scarabées dorés |
-| Passion pour l’Histoire | lire toutes les tablettes lore |
+| Plus rapide que vous tous ! | gagner contre tous les esprits |
+| Un dur périple se termine | finir en Originale ou supérieure |
+| Passion pour l’Histoire | lire toutes les anciennes tablettes |
+| Reviens à la maison | retour / progression post-game |
+| Suréquipément | trouver tous les modules |
+| Merci de m’avoir écouté | rester près du barde |
 | Pour la Gloire ? | finir tous les niveaux de l’arène |
+| Sans regarder en arrière | abandonner les pouvoirs et quitter ce monde |
 | C’est fini maintenant | finir chaque niveau d’arène avec au moins 5 cœurs restants |
-| Sans regarder en arrière | abandonner ses pouvoirs et quitter ce monde |
+| Une épopée épique se termine | finir en difficulté Avancée |
 
 ---
 
 ## ✅ Progression principale
 
-- [ ] Tous les donjons principaux terminés
+- [ ] Donjon 1 terminé
+- [ ] Boost obtenu
+- [ ] Donjon 2 terminé
+- [ ] Chapelle / Wounded Heart vérifié
+- [ ] Donjon 3 terminé
+- [ ] Batterie cachée près de la piste de time trial vérifiée
 - [ ] Donjon optionnel du désert terminé
+- [ ] Donjon 4 / région ouest terminé
+- [ ] Bâtiment caché de la région ouest fouillé
+- [ ] Égouts / souterrains fouillés
+- [ ] Deux mini-donjons de finale terminés
 - [ ] Boss final battu
-- [ ] Wounded Heart / Cœur Blessé trouvé
-- [ ] Contenu post-game / vraie fin vérifié
-- [ ] Arènes terminées
+- [ ] Bonus dungeon débloqué / vérifié
+- [ ] Second bonus dungeon / challenges vérifiés
 
 ---
 
@@ -44,7 +89,7 @@
 
 ---
 
-## 🏁 Courses — checklist détaillée
+## 🏁 Courses
 
 - [ ] Course #1 — passage sable / canyon rocheux
 - [ ] Course #2 — tour aux 3 slimes + accès souterrain
@@ -55,71 +100,56 @@
 - [ ] Course #7 — désert / ville dorée
 - [ ] Course #8 — lagon / jungle / eau turquoise
 - [ ] Récompense finale des 8 courses récupérée
+- [ ] Accès au bonus dungeon avec l’objet des courses vérifié
 - [ ] Succès **Plus rapide que vous tous !** validé
-
-Si une course manque : [Dépannage courses](depannage-problemes-frequents.md#derniere-course-manquante)
 
 ---
 
 ## 🏠 Retours PNJ / récompenses
 
 - [ ] Famille libérée
-- [ ] Famille réunie
+- [ ] Trois vaisseaux / proches sauvés
 - [ ] Family Home revisitée
-- [ ] Interaction finale de famille validée
+- [ ] Chaise / siège utilisé pour **Trouver sa place**
+- [ ] Barde sauvé
+- [ ] Barde écouté à la sortie nord de la ville
 - [ ] Vendeur scarabées vidé
-- [ ] Récompense des 8 courses récupérée
+- [ ] Récompense des courses récupérée
 - [ ] Derniers achats faits
-- [ ] Succès / modules forcés à se rafraîchir si besoin
 
 ---
 
 ## 🧱 Secrets faciles à oublier
 
 - [ ] Wounded Heart / Cœur Blessé trouvé
-- [ ] Bâtiment caché zone ouest fouillé
-- [ ] Égouts / souterrains fouillés
-- [ ] Passage / tour aux 3 slimes ouvert
-- [ ] Passages cachés majeurs vérifiés
-- [ ] Zones avec trous/chutes revisitées
-- [ ] Barde écouté pour le succès associé
-- [ ] Jarres de la maison familiale cassées si succès visé
+- [ ] Statue suspecte / chapelle sud-ouest vérifiée
+- [ ] Scarabée nord-est du Donjon 2 derrière mur caché
+- [ ] Fragment de cœur nord-ouest du Donjon 2
+- [ ] Batterie cachée près d’une piste de time trial au Donjon 3
+- [ ] Cœur à l’est du Donjon 3 ouvert via bouton / tunnels
+- [ ] Scarabées nord-est et ouest du Donjon 3
+- [ ] Donjon optionnel désert : pouvoir + scarabée
+- [ ] Bâtiment caché zone ouest : pouvoir + bouton + scarabée
+- [ ] Scarabée underground via bâtiment sud-ouest, possiblement après Surf + PowerShot
+- [ ] Bons trous / chutes vérifiés
+- [ ] Tour aux 3 slimes ouverte
 
 ---
 
-## 🧪 Build / confort conseillé avant nettoyage final
+## ⚠️ À faire en tout dernier
 
-- [ ] Move Speed monté si les courses bloquent
-- [ ] Boost confortable
-- [ ] Réallocation temporaire des points testée si besoin
-- [ ] Options d’accessibilité envisagées seulement si frustration
-
----
-
-## Ordre conseillé sans stress
-
-1. Histoire principale jusqu’à ouverture large de la carte
-2. Nettoyage intermédiaire intelligent
-3. Désert optionnel
-4. Zone ouest / secrets annexes
-5. Boss final
-6. Courses + récompense finale
-7. Scarabées / vendeurs
-8. Modules restants
-9. Tablettes d’histoire
-10. Arènes / défis
-11. Départ final **Sans regarder en arrière**
+- [ ] Arènes terminées
+- [ ] Arènes validées avec au moins 5 cœurs restants si succès visé
+- [ ] Tout le reste coché
+- [ ] Sauvegarde prête à être sacrifiée
+- [ ] **Sans regarder en arrière** déclenché en dernier
 
 ---
 
 ## Pages utiles
 
 - [Parcours 100%](parcours-100.md)
-- [Modules et skills](modules-et-skills.md)
-- [Cœurs et énergie](coeurs-et-energie.md)
-- [Courses et race spirits](courses-et-race-spirits.md)
-- [Recherche deep — les 8 courses](recherche-courses-deep.md)
-- [Scarabées dorés](scarabees-dores.md)
-- [Cartes, lore et clés](cartes-lore-et-cles.md)
+- [Soluce](soluce.md)
+- [Secrets](secrets.md)
 - [Dépannage](depannage-problemes-frequents.md)
-- [Checklist interactive](checklist-interactive.html)
+- [Recherche deep complète](recherche-deep-complete.md)

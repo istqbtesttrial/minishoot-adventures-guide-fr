@@ -1,252 +1,208 @@
 # 🧭 Soluce FR — progression conseillée
 
-> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
-
-> Objectif : te donner un chemin clair pour finir *Minishoot' Adventures* sans rater les retours importants, tout en gardant le plaisir d’explorer. Cette page évite les gros spoilers d’histoire, mais signale les lieux et récompenses qui bloquent souvent le 100%.
+> Chemin clair pour finir *Minishoot' Adventures* sans rater les retours importants. Cette page reste volontairement orientée joueur, avec les infos utiles extraites des sources.
 
 ---
 
-## 🎮 Mode d’emploi du guide
+## 🎮 Mode d’emploi
 
-Pendant la découverte, lis surtout les sections **Réflexes après donjon**. Pendant le nettoyage final, utilise plutôt :
+Pendant l’histoire : lis surtout les sections **réflexe après donjon**.  
+Pendant le nettoyage final : utilise [Checklist 100%](checklist-100-pourcent.md), [Dépannage](depannage-problemes-frequents.md) et la carte interactive.
 
-- [Objectif 100%](100-percent.md)
-- [Modules](modules.md)
-- [Checklist interactive](checklist-interactive.html)
-- Carte interactive : <https://minishoot-map.github.io/>
-
-**Règle d’or :** dans ce jeu, beaucoup d’objets importants ne sont pas “sur la route principale”. Après chaque nouveau pouvoir, revisite mentalement les passages vus plus tôt : trous, murs suspects, rails de course, petits temples, maisons, autels et PNJ de récompense.
+Règle d’or : après chaque nouveau pouvoir, revisite mentalement les passages vus plus tôt : trous, murs suspects, rails de course, petits temples, maisons, autels, PNJ et bâtiments fermés.
 
 ---
 
-## 🧭 1. Début du jeu : sécuriser la zone de départ
-
-Au tout début, ne rush pas uniquement le marqueur principal.
+## 1. Début du jeu — zone centrale
 
 À faire :
 
-- explorer la **zone de départ** à fond
-- acheter les premiers morceaux de carte quand possible
-- noter les passages bloqués par un pouvoir manquant
-- retourner au village après chaque grand progrès
-- repérer la **maison familiale / Family Home** dans la zone centrale
+- explorer autour du village / spawn central ;
+- repérer la **Family Home** ;
+- noter les trous, murs suspects et passages bloqués ;
+- repérer les marchands / PNJ de récompense ;
+- ne pas chercher le 100% parfait trop tôt.
 
-**Pourquoi c’est important :** plusieurs récompenses se déclenchent plus tard dans une zone que tu crois déjà terminée. La maison familiale est l’un des oublis les plus fréquents pour les modules et succès.
-
-### Mini-check après la zone de départ
-
-- [ ] checkpoint central repéré
-- [ ] maison/famille repérée
-- [ ] marchand / PNJ de récompense repéré
-- [ ] passages bloqués notés pour plus tard
+Pourquoi : plusieurs modules / succès dépendent d’un retour plus tard dans une zone qui semble déjà terminée.
 
 ---
 
-## ✨ 2. Donjon 1 — Boost
+## 2. Donjon 1 — Boost
 
-Le premier donjon sert surtout de prise en main. Tu y récupères le **Boost**, qui devient immédiatement central pour :
+Source YAL : le premier pouvoir important est **Boost**. L’entrée du donjon s’ouvre via un bouton et le donjon introductif reste assez direct.
 
-- traverser des trous courts
-- esquiver proprement
-- revenir chercher des objets près du début
-- gagner du temps dans les premières courses
+À retenir :
 
-**Conseil :** ne cherche pas encore le 100% parfait. Fais plutôt une petite boucle de retour après le donjon pour tester le Boost sur les zones “presque accessibles”.
+- récupère Boost ;
+- ouvre l’entrée via le bouton ;
+- prends les quelques objets visibles du donjon ;
+- ne force pas les zones encore trop dures.
 
 ### Réflexe après Donjon 1
 
-- [ ] retester les petits gaps autour du village
-- [ ] vérifier les murs/coins suspects proches
-- [ ] acheter les upgrades confort si tu as les ressources
+- [ ] retester les petits gaps autour du village ;
+- [ ] vérifier les coins suspects proches ;
+- [ ] noter les accès encore bloqués.
 
 ---
 
-## 3. Entre Donjon 1 et Donjon 2 — premiers vrais retours
+## 3. Donjon 2 — sud, bois, bâtiment et chapelle
 
-Avant de filer tout droit :
+Source YAL : pour rejoindre la zone, pars au sud vers les bois, fais un crochet vers l’est et trouve un bâtiment. Il mène vers une zone à l’ouest, puis il faut remonter au nord.
 
-- rebalaye les alentours du village
-- vérifie les vendeurs
-- cherche les accès qui demandent juste un peu plus de mobilité
-- garde la carte ouverte dès que disponible
+À retenir :
 
-Le jeu récompense énormément les petits retours intelligents : un détour de 30 secondes peut éviter 30 minutes de recherche en fin de partie.
+- un bâtiment optionnel de cette zone contient du contenu utile ;
+- pour rejoindre l’objectif, il faut entrer dans un trou ;
+- battre une grosse tourelle ouvre un pont au sud ;
+- dans le coin sud-ouest, vérifie une statue suspecte dans un bâtiment type chapelle ;
+- dans le donjon : scarabée au nord-est derrière mur caché ; fragment de cœur au nord-ouest.
 
----
+### Point important : Wounded Heart / Cœur Blessé
 
-## 4. Donjon 2 — accès sud/est et temple suspect
-
-L’entrée demande un détour par le sud puis vers l’est.
-
-### À retenir
-
-- il y a un **bâtiment optionnel** dans la zone
-- plusieurs joueurs passent à côté d’objets utiles ici
-- le sud-ouest de la carte contient un **temple/chapelle** important
-- les murs et autels suspects méritent d’être testés
-
-### Point très important : Wounded Heart / Coeur Blessé
-
-La communauté signale souvent un objet lié à la corruption dans le **sud-ouest** : un temple avec un autel et un passage caché sur le côté droit / derrière l’autel. C’est associé au succès **Coeur Blessé** et revient souvent dans les discussions de joueurs bloqués.
+Le sud-ouest contient un temple / chapelle avec autel et passage caché à droite / derrière l’autel. C’est lié au succès **Cœur Blessé**.
 
 ### Réflexe après Donjon 2
 
-- [ ] revisiter les accès ouverts par le nouveau pouvoir
-- [ ] vérifier le temple/chapelle sud-ouest
-- [ ] nettoyer le bâtiment optionnel proche de la zone
-- [ ] parler aux PNJ/vendeurs après progression
+- [ ] vérifier la chapelle / statue suspecte ;
+- [ ] récupérer le scarabée nord-est du donjon ;
+- [ ] récupérer le fragment de cœur nord-ouest ;
+- [ ] revisiter les nouveaux accès ouverts par l’upgrade.
 
 ---
 
-## 5. Donjon 3 — grande ouverture de la carte
+## 4. Donjon 3 — est, tunnel, braziers et objets oubliables
 
-Le troisième gros palier est très important pour l’exploration.
+Source YAL : va dans la zone est, monte au nord, puis passe par un tunnel précis. Il y a une boutique : achète la carte avant de continuer si possible.
 
-### Conseils pratiques
+À faire :
 
-- prends la **carte** avant d’aller trop loin si tu peux
-- allume les objectifs/braziers méthodiquement
-- inspecte les zones proches des pistes de contre-la-montre
-- surveille les murs cachés près des salles à pouvoir
+- allumer les braziers / objectifs de la zone ;
+- acheter la carte ;
+- inspecter les pistes de contre-la-montre ;
+- vérifier les tunnels depuis la partie centrale.
 
-### Point souvent raté
+Objets facilement oubliés :
 
-Une batterie / un objet derrière un mur caché près d’une course est cité comme oubli fréquent dans les guides visuels. Le repère utile : proche d’une piste de contre-la-montre, au nord-ouest de la zone du pouvoir de la région.
+- batterie derrière un mur caché près d’une piste de time trial, au nord-ouest du piédestal du pouvoir de zone ;
+- fragment de cœur à l’est, ouvert via un bouton accessible par tunnels ;
+- deux scarabées : nord-est et ouest.
 
 ### Réflexe après Donjon 3
 
-- [ ] regarder les zones de course nouvellement accessibles
-- [ ] vérifier les tunnels autour de la zone est
-- [ ] faire un détour vers le désert optionnel si tu te sens prêt
+- [ ] batterie près de la piste de time trial ;
+- [ ] cœur à l’est ;
+- [ ] scarabées nord-est et ouest ;
+- [ ] détour vers le donjon optionnel du désert.
 
 ---
 
-## 6. Donjon optionnel du désert
+## 5. Donjon optionnel du désert
 
-Après le Donjon 3, fais un vrai détour par le **désert à l’ouest**.
+Après le Donjon 3, le guide YAL recommande un détour vers le désert à l’ouest.
 
-Pourquoi c’est important :
+À retenir :
 
-- il y a un pouvoir / objet utile
-- il y a au moins un scarabée
-- c’est le genre de zone qu’on remet à “plus tard”… puis qu’on oublie
-- son boss donne un succès/trophée dédié (**Le Gardien du désert**)
-
-Si tu vises le 100%, fais-le dès que tu es assez fort au lieu de le laisser pour la toute fin.
+- contient un pouvoir / objet utile ;
+- contient un scarabée ;
+- peut être oublié si tu suis seulement l’objectif principal ;
+- compte fortement pour un run 100% propre.
 
 ---
 
-## 7. Donjon 4 et région ouest — zone à secrets
+## 6. Donjon 4 — région ouest, bâtiment caché et égouts
 
-Cette zone est l’une des plus dangereuses pour un joueur qui suit seulement l’objectif principal.
+Source YAL : l’accès à la région se fait par l’entrée en haut de la région ouest.
 
-### À vérifier absolument
+À vérifier absolument :
 
-- le **bâtiment caché** de la région ouest
-- les égouts / souterrains
-- les boutons cachés
-- les scarabées derrière murs discrets
-- les récompenses annexes
-
-Le guide illustré communautaire montre plusieurs entrées et paires de captures utiles pour cette zone : garde-le ouvert si tu es perdu.
+- bâtiment accessible après un petit puzzle / travail ;
+- pouvoir dans ce bâtiment ;
+- bouton bien caché ;
+- scarabée bien caché ;
+- égouts / souterrains : ils servent au déplacement mais contiennent aussi plusieurs objets.
 
 ### Réflexe après Donjon 4
 
-- [ ] revisiter les égouts/souterrains
-- [ ] vérifier le bâtiment caché
-- [ ] valider les zones de scarabées
-- [ ] retourner aux vendeurs/PNJ
+- [ ] bâtiment caché fouillé ;
+- [ ] bouton caché trouvé ;
+- [ ] scarabée caché trouvé ;
+- [ ] égouts / souterrains nettoyés ;
+- [ ] retour vendeurs / PNJ.
 
 ---
 
-## 🏁 8. Courses — les garder pour quand tu es mobile
+## 7. Courses — à faire quand tu es mobile
 
-Il y a **8 courses / race spirits**. Tu peux en faire certaines en cours de route, mais si elles t’énervent, attends d’avoir plus de mobilité.
+Il y a **8 courses / race spirits**.
 
-Ce que la recherche web confirme :
+Ce que les sources confirment :
 
-- les 8 courses donnent accès à des **extras / post-game** après le boss final
-- les faire avant la fin donne aussi un **objet utile**
-- la **course #2** est la plus cachée
-- après les 8 courses, il faut récupérer une **récompense finale**
+- les 8 courses donnent accès à des extras / post-game ;
+- les faire avant la fin donne un objet utile ;
+- la course #2 est la plus cachée ;
+- après les 8 courses, il faut récupérer une récompense finale.
 
 Conseils :
 
-- réalloue temporairement des points vers **Move Speed**
-- garde le boost pour les lignes droites / sorties de virage
-- fais une reconnaissance du circuit avant de viser le temps parfait
-- si une course manque, vérifie la tour aux **3 slimes** de la course #2
+- réalloue temporairement vers Move Speed / boost ;
+- garde le boost pour les lignes droites ;
+- fais une reconnaissance de chaque circuit ;
+- si une course manque, vérifie la tour aux 3 slimes.
 
-Voir : [Courses et race spirits](courses-et-race-spirits.md) et [Recherche deep — les 8 courses](recherche-courses-deep.md)
-
----
-
-## ⚠️ 9. Avant le boss final : checklist de sécurité
-
-Avant de déclencher la fin, vérifie :
-
-- [ ] Family Home / maison familiale
-- [ ] famille sauvée/réunie
-- [ ] Wounded Heart / Coeur Blessé
-- [ ] courses déjà accessibles
-- [ ] vendeur / scarabées dorés
-- [ ] donjon optionnel du désert
-- [ ] zone ouest bien nettoyée
-- [ ] tablettes d’histoire si tu vises tous les succès
-
-Ce n’est pas dramatique si tu finis avant, mais cette checklist réduit beaucoup le nettoyage confus de fin de partie.
+Voir : [Courses et race spirits](courses-et-race-spirits.md)
 
 ---
 
-## 10. Finale
+## 8. Avant le donjon final
 
-Le donjon final demande de valider deux mini-donjons / étapes préparatoires.
+Checklist :
 
-Bonne nouvelle :
-
-- il y a un checkpoint avant le boss
-- tu peux sortir puis revenir
-- tu n’es pas obligé d’être déjà parfait à 100% pour tenter la fin
-
-Si tu sens que tu manques de puissance, fais un essai, puis repars chercher les derniers upgrades utiles.
-
----
-
-## ✅ 11. Post-game / extras
-
-Le vrai nettoyage 100% se fait souvent ici. Après la première fin, pense aussi à revisiter la zone de **Wounded Heart** : plusieurs retours indiquent que l’autel peut révéler une clé en forme de coeur nécessaire à la route post-game / vraie fin.
-
-Priorités :
-
-1. finir les **8 courses**
-2. récupérer leur **récompense**
-3. finir les **donjons bonus / arènes**
-4. rendre les **scarabées dorés** restants
-5. retourner à la **Family Home**
-6. nettoyer les **modules restants** avec la carte interactive
-7. lire les **tablettes d’histoire** restantes
+- [ ] Family Home revisitée ;
+- [ ] Wounded Heart trouvé ;
+- [ ] donjon optionnel du désert terminé ;
+- [ ] zone ouest / égouts nettoyés ;
+- [ ] scarabées rendus / vendeur revisité ;
+- [ ] courses au moins repérées ;
+- [ ] tablettes lore surveillées ;
+- [ ] difficulté non baissée si tu vises les succès de difficulté.
 
 ---
 
-## Ordre conseillé si ton but est le platine / 100%
+## 9. Donjon final
 
-1. progression principale jusqu’au Donjon 3
-2. détour désert optionnel
-3. progression vers Donjon 4
-4. nettoyage intelligent des zones déjà ouvertes
-5. boss final
-6. courses / extras / derniers modules
-7. arènes / succès restants
-8. dernier départ / **Sans regarder en arrière** seulement quand tout est prêt
+Source YAL : pour entrer dans le donjon final, il faut terminer deux mini-donjons.
+
+- un mini-donjon est ouvert ;
+- l’autre s’ouvre avec un bouton sous un tas de gravats ;
+- après les deux, tu obtiens l’objet qui ouvre le donjon final ;
+- il y a un checkpoint et une option pour sortir juste avant le boss.
+
+Donc tu peux essayer le boss, puis ressortir chercher des upgrades si tu te sens trop faible.
 
 ---
 
-## 🧠 Résumé ultra-court
+## 10. Post-game / extras / vraie fin
 
-Si tu veux jouer proprement sans stress :
+Source YAL : après avoir battu le jeu, un bonus dungeon demande l’objet obtenu après les 8 courses. Après ce bonus, un autre bonus dungeon propose des challenges et boss revisités.
 
-- avance dans l’histoire
-- fais les détours optionnels au bon moment
-- revisite les zones après chaque nouveau pouvoir
-- rends toujours les récompenses PNJ
-- garde la carte interactive ouverte pour la phase 100%
+À faire :
+
+1. finir les 8 courses ;
+2. récupérer leur récompense finale ;
+3. entrer dans le bonus dungeon ;
+4. faire le second bonus dungeon ;
+5. finir arènes / défis ;
+6. faire **Sans regarder en arrière** seulement tout à la fin.
+
+⚠️ Le guide YAL indique que l’option finale liée à **Sans regarder en arrière** peut oblitérer / supprimer la sauvegarde. Ne la fais pas avant d’être satisfait de ton 100%.
+
+---
+
+## Pages liées
+
+- [Parcours 100%](parcours-100.md)
+- [Checklist 100%](checklist-100-pourcent.md)
+- [Secrets](secrets.md)
+- [Dépannage](depannage-problemes-frequents.md)
+- [Recherche deep complète](recherche-deep-complete.md)

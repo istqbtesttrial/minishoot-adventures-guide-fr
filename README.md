@@ -15,6 +15,7 @@ Guide francophone organisé pour terminer **Minishoot' Adventures** à 100% : pr
 | Trouver les modules / skills | [🧩 Modules et skills](docs/modules-et-skills.md) |
 | Trouver les cœurs / énergie | [❤️ Cœurs et énergie](docs/coeurs-et-energie.md) |
 | Faire les courses | [🏁 Courses et race spirits](docs/courses-et-race-spirits.md) |
+| Voir la recherche deep complète | [🔎 Recherche deep complète](docs/recherche-deep-complete.md) |
 | Voir la recherche deep sur les courses | [🔎 Recherche deep — les 8 courses](docs/recherche-courses-deep.md) |
 | Trouver les scarabées | [🪲 Scarabées dorés](docs/scarabees-dores.md) |
 | Voir cartes / lore / clés | [🗺️ Cartes, lore et clés](docs/cartes-lore-et-cles.md) |
@@ -51,6 +52,7 @@ Guide francophone organisé pour terminer **Minishoot' Adventures** à 100% : pr
 
 - [📊 Données techniques et CSV](docs/donnees-techniques.md)
 - [📊 Extraction map complète](docs/map-data.md)
+- [🔎 Recherche deep complète](docs/recherche-deep-complete.md)
 - [🔎 Sources et vérification](docs/sources-et-verification.md)
 - [🎯 Pictogrammes](docs/pictogrammes.md)
 

@@ -1,57 +1,62 @@
 # 🔎 Sources et vérification
 
-> Page pour savoir d’où viennent les informations et quoi vérifier ensuite.
-
-## Sources principales
-
-| Source | Utilité |
-| --- | --- |
-| Carte interactive | positions, filtres, données extraites |
-| Repo `minishoot-map.github.io` | données brutes de la carte |
-| Discussions Steam / Reddit | problèmes fréquents et modules ratés |
-| Guides communautaires | repères visuels et parcours |
-| Discussions Steam / Reddit sur les courses | accès course #2, dernière course manquante, reward |
-| Pages succès | noms et objectifs des succès |
+> D’où viennent les informations du guide, et quel niveau de confiance leur donner.
 
 ---
 
-## Liens utiles
+## Sources principales
 
-- Carte interactive : <https://minishoot-map.github.io/>
-- Repo de la carte : <https://github.com/minishoot-map/minishoot-map.github.io>
-- Guide illustré communautaire : <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
-- Section courses du guide YAL : <https://raw.githubusercontent.com/YAL-Game-Things/Minishoot-Adventures-Guide/main/050%20Races.md>
-- Discussion Steam course #2 : <https://steamcommunity.com/app/1634860/discussions/0/4362373279646124209/>
-- Reddit dernière course manquante : <https://www.reddit.com/r/metroidvania/comments/1t5kx1p/minishoot_adventures_help_finding_last_race/>
-- GodIsAGeek — Move Speed : <https://godisageek.com/2024/04/minishoot-adventures-how-to-move-faster/>
-- Succès FR : <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees>
-- Succès EN : <https://truesteamachievements.com/game/Minishoot-Adventures/achievements>
+| Source | Lien | Utilité |
+| --- | --- | --- |
+| Carte interactive | <https://minishoot-map.github.io/> | coordonnées, filtres, objets |
+| Repo carte interactive | <https://github.com/minishoot-map/minishoot-map.github.io> | données sources de la carte |
+| Guide YAL / YellowAfterlife | <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide> | progression, captures, courses, secrets, finale |
+| Guide YAL — courses | <https://raw.githubusercontent.com/YAL-Game-Things/Minishoot-Adventures-Guide/main/050%20Races.md> | 8 courses + reward |
+| Guide YAL — finale | <https://raw.githubusercontent.com/YAL-Game-Things/Minishoot-Adventures-Guide/main/070%20Finale.md> | mini-donjons + checkpoint final |
+| Guide YAL — extras | <https://raw.githubusercontent.com/YAL-Game-Things/Minishoot-Adventures-Guide/main/080%20Extras.md> | bonus dungeon + Sans regarder en arrière |
+| NationHive FR | <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees> | liste des 34 succès FR |
+| TrueSteamAchievements | <https://truesteamachievements.com/game/Minishoot-Adventures/achievements> | succès EN |
+| Steam — course #2 | <https://steamcommunity.com/app/1634860/discussions/0/4362373279646124209/> | tour aux 3 slimes / accès souterrain |
+| Steam — modules manquants | <https://steamcommunity.com/app/1634860/discussions/0/596262791801817488/> | Family Home / module oublié |
+| Steam — Wounded Heart | <https://steamcommunity.com/app/1634860/discussions/0/4358997268252702708/> | Wounded Heart / famille |
+| Steam — carte 100% mais objet manquant | <https://steamcommunity.com/app/1634860/discussions/0/4411921622540751172/> | récompenses hors carte |
+| Reddit — dernière course | <https://www.reddit.com/r/metroidvania/comments/1t5kx1p/minishoot_adventures_help_finding_last_race/> | checkmarks / course manquante |
+| GodIsAGeek — Move Speed | <https://godisageek.com/2024/04/minishoot-adventures-how-to-move-faster/> | coût Move Speed / confort courses |
+| YouTube walkthrough | <https://www.youtube.com/watch?v=sx8w5RGAGAI> | parcours vidéo |
+| Bilibili full collect | <https://www.bilibili.com/video/BV1xM4m1X7oU/> | vidéo collecte complète |
+| Bilibili autre full collect | <https://www.bilibili.com/video/BV1GiGJePEWX/> | vidéo collecte complète |
 
 ---
 
 ## Niveau de confiance
 
-| Type d’info | Confiance | Note |
+| Information | Confiance | Pourquoi |
 | --- | --- | --- |
-| Données extraites de la carte | Haute | coordonnées et catégories fiables |
-| Nombre de modules / cœurs / scarabées | Haute | basé sur les exports |
-| Problèmes fréquents de succès | Moyenne à haute | basé sur retours joueurs |
-| Repères visuels précis | À compléter | besoin de captures annotées maison |
-| Noms FR exacts de certains objets | À compléter | certains noms internes sont EN |
+| Coordonnées brutes | Haute | extraites de la carte interactive |
+| Nombre de cœurs / scarabées / race spirits | Haute | confirmé par CSV |
+| Liste des succès FR | Haute | NationHive liste les 34 succès |
+| Courses + reward | Haute | guide YAL + données locales |
+| Course #2 / tour 3 slimes | Moyenne à haute | guide YAL + discussion Steam |
+| Family Home / chaise | Moyenne à haute | guide YAL + retours joueurs |
+| Wounded Heart | Moyenne à haute | guide YAL + discussions joueurs |
+| Noms FR exacts de tous les modules | Moyen | certains noms viennent des données internes EN |
+| Routes ultra-précises sans capture locale | Moyen | besoin de captures annotées maison |
+
+---
+
+## Pages de synthèse locales
+
+- [Recherche deep complète](recherche-deep-complete.md)
+- [Recherche deep — les 8 courses](recherche-courses-deep.md)
+- [Données techniques](donnees-techniques.md)
+- [Cartes, vidéos et ressources](cartes.md)
 
 ---
 
 ## À compléter plus tard
 
-- Captures annotées maison
-- Routes précises des courses
-- Noms FR/EN exacts de tous les modules
-- Vérification en jeu des endroits difficiles
-
----
-
-## Anciennes pages liées
-
-- [Sources](sources.md)
-- [Recherche deep](recherche-deep.md)
-- [Captures](captures.md)
+- captures annotées maison pour chaque course ;
+- routes précises des donjons avec mini-cartes ;
+- correspondance noms internes EN → noms FR en jeu ;
+- validation en jeu de chaque route difficile ;
+- captures pour Family Home, Wounded Heart, bâtiment ouest, donjon optionnel désert.

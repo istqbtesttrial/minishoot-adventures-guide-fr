@@ -1,6 +1,6 @@
 # 🛠️ Dépannage — problèmes fréquents
 
-> Page anti-frustration : quoi vérifier quand il manque un objet, un module, une course ou un succès.
+> Quoi vérifier quand il manque un objet, un module, une course ou un succès.
 
 ---
 
@@ -9,71 +9,61 @@
 Vérifie dans cet ordre :
 
 1. **Family Home / maison familiale**
-   - zone de départ / ville principale
-   - bâtiment bas-gauche près du respawn central
-   - après avoir sauvé/réuni la famille, place-toi au bon endroit pour déclencher l’interaction
-2. **Vendeur / robot des scarabées dorés**
-   - rendre les derniers scarabées
-   - acheter ou récupérer la dernière récompense
+   - sauver les trois vaisseaux / proches ;
+   - retourner dans le bâtiment familial ;
+   - s’asseoir / interagir avec la chaise ;
+   - attendre le succès / récompense.
+2. **Vendeur scarabées**
+   - rendre les scarabées ;
+   - acheter / récupérer les récompenses finales.
 3. **Récompense des 8 courses**
-   - gagner les 8 courses ne suffit pas toujours
-   - il faut récupérer l’objet final
-4. **Wounded Heart / Cœur Blessé**
-   - temple sud-ouest
-   - passage secret à droite / derrière l’autel
-5. **État non rafraîchi**
-   - changer de zone
-   - ouvrir/fermer l’inventaire
-   - combattre ou prendre un coup
-   - redémarrer si besoin
+   - les 8 courses doivent être gagnées ;
+   - l’objet final doit être récupéré ensuite.
+4. **Wounded Heart**
+   - chapelle sud-ouest ;
+   - statue / autel suspect ;
+   - passage caché à droite / derrière l’autel.
+5. **Région ouest / égouts**
+   - bâtiment caché ;
+   - bouton caché ;
+   - scarabée caché ;
+   - objets dans les souterrains.
 
 ---
 
 ## 🏁 Dernière course manquante
 
-### Méthode rapide
-
-1. Ouvre la carte interactive : <https://minishoot-map.github.io/>
+1. Ouvre la carte interactive.
 2. Active uniquement **Race spirits**.
-3. Vérifie les 8 points listés dans [Courses et race spirits](courses-et-race-spirits.md).
-4. Si une tour reste fermée, suspecte la **course #2**.
-5. Utilise les checkmarks de progression si ton upgrade les affiche.
+3. Compare avec [Courses et race spirits](courses-et-race-spirits.md).
+4. Si une course manque encore, vérifie la **course #2**.
 
-### Course #2 — le piège principal
+### Course #2 — checklist spéciale
 
-Repères :
+- [ ] Tour avec symbole de 3 slimes trouvée
+- [ ] Slime / cercle gauche vérifié
+- [ ] Slime / cercle droit vérifié
+- [ ] Troisième slime au sud-ouest vérifié
+- [ ] Token / bouton qui déplace le rocher vérifié
+- [ ] Tour ouverte
+- [ ] Zone souterraine atteinte
+- [ ] Salle au-dessus de la clé scarabée vérifiée
+- [ ] Chemin de droite / piliers ouverts
+- [ ] Piste à l’est trouvée
 
-- tour avec symbole de **3 slimes** devant
-- au nord du spawn principal / légèrement à l’est selon les retours joueurs
-- accès lié à 3 slimes / 3 cercles à déclencher dans la zone
-- mène vers une zone souterraine
-- la piste est à l’est de cette zone souterraine
-
-À vérifier :
-
-- [ ] les deux slimes proches des zones carrées dans l’herbe
-- [ ] le troisième slime plus au sud-ouest
-- [ ] le token / bouton qui déplace un rocher
-- [ ] la salle au-dessus de la clé scarabée dorée
-- [ ] le chemin à droite dans la salle avec plateforme centrale
-- [ ] les piliers ouverts par le bouton de la salle au-dessus
-
-Si un slime semble invincible ou bloqué : sauvegarde / redémarre le jeu, puis réessaie.
-
-Détail complet : [Recherche deep — course #2](recherche-courses-deep.md#course-2--acces-detaille-car-cest-la-plus-problematique)
+Si un slime devient invincible ou buggué : redémarre le jeu puis réessaie.
 
 ---
 
-## 🎁 Récompense des 8 courses oubliée
+## 🎁 Bonus / extras bloqués
 
-Symptôme : tu as gagné les courses, mais il manque encore un objet / module / extra.
+Si tu as battu le boss final mais que les extras ne s’ouvrent pas :
 
-À faire :
-
-1. vérifier que les 8 courses sont bien validées
-2. retourner chercher la récompense finale
-3. comparer avec les captures dans [Recherche deep — récompense](recherche-courses-deep.md#recompense-apres-les-8-courses)
-4. changer de zone si l’objet / succès ne se déclenche pas
+- [ ] finir les 8 courses ;
+- [ ] récupérer la récompense finale des courses ;
+- [ ] utiliser cet objet pour accéder au bonus dungeon ;
+- [ ] finir le bonus dungeon ;
+- [ ] vérifier le second bonus dungeon avec challenges / boss revisités.
 
 ---
 
@@ -81,26 +71,64 @@ Symptôme : tu as gagné les courses, mais il manque encore un objet / module / 
 
 Repères :
 
-- sud-ouest de la carte
-- temple / chapelle
-- autel visible
-- passage caché sur le côté droit ou derrière l’autel
+- sud-ouest de la carte ;
+- chapelle / temple ;
+- statue ou autel suspect ;
+- passage caché à droite / derrière l’autel.
 
-Si la zone semble finie, reviens quand même : c’est justement l’un des secrets les plus faciles à rater.
+Si la zone semble finie, reviens quand même.
 
 ---
 
 ## 🪲 Scarabée doré manquant
 
-Méthode :
+À vérifier :
 
-1. Ouvre <https://minishoot-map.github.io/>
-2. Active seulement **Scarabs**
-3. Vérifie les grottes et murs cachés autour du dernier marqueur
-4. Casse les pots dans les salles suspectes
-5. Retourne ensuite au vendeur scarabées
+- filtre **Scarabs** sur la carte interactive ;
+- scarabée nord-est du Donjon 2 derrière mur caché ;
+- scarabées nord-est et ouest du Donjon 3 ;
+- scarabée du donjon optionnel désert ;
+- scarabée caché du bâtiment zone ouest ;
+- scarabée underground via bâtiment sud-ouest, possiblement après Surf + PowerShot.
 
-Spots souvent cités : Donjon 2 nord-est, Donjon 3 nord-est/ouest, donjon optionnel désert, zone ouest/égouts, temple d’eau nord-ouest.
+---
+
+## 🔋 Batterie / cœur manquant après Donjon 3
+
+Source YAL : une batterie est souvent oubliée derrière un mur caché près d’une piste de time trial, au nord-ouest du piédestal du pouvoir de zone.
+
+Autre oubli : un cœur à l’est du donjon, ouvert via un bouton accessible par des tunnels depuis la partie centrale.
+
+---
+
+## 🏠 Trouver sa place ne se déclenche pas
+
+Vérifie :
+
+- [ ] les trois vaisseaux / proches sont sauvés ;
+- [ ] tu es revenu dans le bon bâtiment familial ;
+- [ ] tu t’es assis / placé sur la chaise ;
+- [ ] tu as attendu la scène / validation.
+
+---
+
+## 🎵 Merci de m’avoir écouté
+
+Après avoir sauvé le barde :
+
+- va à la sortie nord de la ville ;
+- reste près de lui un moment ;
+- attends le déclenchement du succès.
+
+---
+
+## 🏆 Succès de difficulté absent
+
+Cause probable : tu as baissé la difficulté à un moment.
+
+Les succès de difficulté dépendent de la plus basse difficulté utilisée sur la sauvegarde. Si tu as commencé en Exploration puis changé en Avancée, le succès Avancée ne tombera pas sur cette sauvegarde.
+
+Le mode de visée n’a pas d’impact.
 
 ---
 
@@ -108,49 +136,36 @@ Spots souvent cités : Donjon 2 nord-est, Donjon 3 nord-est/ouest, donjon option
 
 Essaie :
 
-- changer de zone
-- ouvrir / fermer l’inventaire
-- combattre un ennemi
-- prendre un coup volontairement
-- redémarrer le jeu
-- revenir au PNJ / vendeur concerné
-
-Succès concernés souvent : modules, récompenses, courses, achats / échanges.
+- changer de zone ;
+- ouvrir / fermer l’inventaire ;
+- combattre un ennemi ;
+- prendre un coup volontairement ;
+- redémarrer le jeu ;
+- revenir au PNJ / vendeur concerné.
 
 ---
 
-## 🐢 Progression / vraie fin bloquée
-
-Après la première fin, revisite :
-
-- Wounded Heart / autel
-- Family Home
-- barde / arbre / tortue selon progression
-- récompense des courses
-- zones d’arène / extras
-
----
-
-## ⚠️ Succès “Sans regarder en arrière”
+## ⚠️ Sans regarder en arrière
 
 À faire **en tout dernier**.
 
+Source YAL : l’option finale peut oblitérer / supprimer la sauvegarde.
+
 Avant :
 
-- [ ] modules
-- [ ] scarabées
-- [ ] courses
-- [ ] récompense des courses
-- [ ] lore
-- [ ] arènes
-- [ ] succès cachés
+- [ ] modules ;
+- [ ] scarabées ;
+- [ ] courses ;
+- [ ] récompense des courses ;
+- [ ] lore ;
+- [ ] arènes ;
+- [ ] succès cachés.
 
 ---
 
 ## Pages liées
 
+- [Recherche deep complète](recherche-deep-complete.md)
 - [Checklist 100%](checklist-100-pourcent.md)
-- [Modules et skills](modules-et-skills.md)
+- [Secrets](secrets.md)
 - [Courses et race spirits](courses-et-race-spirits.md)
-- [Recherche deep — les 8 courses](recherche-courses-deep.md)
-- [Scarabées dorés](scarabees-dores.md)
