@@ -2,6 +2,8 @@
 
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
+> Voir aussi : [Guide visuel rapide](guide-visuel.md) pour les pictogrammes réels de la map.
+
 > Page “chef d’orchestre”. Si tu veux finir le jeu proprement sans te perdre dans toutes les pages, suis cet ordre.
 
 ---

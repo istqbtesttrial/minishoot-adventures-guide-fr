@@ -8,8 +8,11 @@
 
 ## 🚀 Le chemin le plus simple
 
+➡ Commence par le **[Guide visuel rapide](guide-visuel.md)** si tu veux les pictos + filtres map en un seul écran.
+
 | Étape | Page | Objectif |
 | ---: | --- | --- |
+| 0 | 🎮 [Guide visuel rapide](guide-visuel.md) | repères visuels + filtres map |
 | 1 | 🧭 [Parcours 100%](parcours-100.md) | savoir quoi faire et dans quel ordre |
 | 2 | 🧭 [Soluce](soluce.md) | avancer dans l’histoire |
 | 3 | 🧱 [Secrets](secrets.md) | éviter les oublis classiques |

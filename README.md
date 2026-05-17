@@ -17,6 +17,7 @@
 | 🛠️ résoudre un blocage | [Dépannage](docs/depannage.md) | diagnostic module/scarabée/succès |
 | 🗺️ chercher un emplacement | [Carte interactive + ressources](docs/cartes.md) | liens et méthode de recherche |
 
+➡ **[Guide visuel rapide](docs/guide-visuel.md)**  
 ➡ Hub complet : **[Navigation rapide](docs/README.md)**  
 ➡ Légende : **[Pictogrammes du guide](docs/pictogrammes.md)**
 
@@ -26,6 +27,7 @@
 
 ### 1. Jouer / progresser
 
+- 🎮 [Guide visuel rapide](docs/guide-visuel.md)
 - 🧭 [Parcours 100% étape par étape](docs/parcours-100.md)
 - 🧭 [Soluce FR — progression conseillée](docs/soluce.md)
 - 🧱 [Secrets et objets faciles à rater](docs/secrets.md)
