@@ -204,7 +204,7 @@ Si tu sens que tu manques de puissance, fais un essai, puis repars chercher les 
 
 ## 11. Post-game / extras
 
-Le vrai nettoyage 100% se fait souvent ici.
+Le vrai nettoyage 100% se fait souvent ici. Après la première fin, pense aussi à revisiter la zone de **Wounded Heart** : plusieurs retours indiquent que l’autel peut révéler une clé en forme de coeur nécessaire à la route post-game / vraie fin.
 
 Priorités :
 

@@ -24,6 +24,23 @@ NationHive liste **34 succès**. Les plus importants pour un 100% propre sont :
 
 ---
 
+## Succès secondaires à ne pas oublier
+
+La liste complète EN confirme aussi plusieurs succès faciles à rater :
+
+- **Merci de m’avoir écouté / Thanks for listening** — écouter le barde 15 secondes
+- **Quelle indignité ! / Lunatic** — casser toutes les jarres dans la maison familiale
+- **Quoique... / Second Thoughts** — démonter/réduire une amélioration
+- **Je vole même pas ?! / I don’t even fly** — tomber dans l’eau
+- **Aïe / Ouch** — survivre à une chute du 5e étage
+- **Pas à moi / Not missing that** — trouver le secret dans le secret dans la forêt
+- **Vieil Ami / Ancient Friend** — réveiller la tortue géante
+- **Fini de ronfler / Stop snoring** — réveiller l’arbre grâce au barde
+
+Source EN complète : <https://truesteamachievements.com/game/Minishoot-Adventures/achievements>
+
+---
+
 ## Checklist 100% simple
 
 ### Progression

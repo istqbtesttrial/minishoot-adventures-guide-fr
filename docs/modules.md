@@ -39,6 +39,8 @@ C’est le cas le plus récurrent dans les discussions Steam.
 
 **À faire si un module manque :** retourne d’abord ici.
 
+Note de recherche : plusieurs threads décrivent ce module comme étant dans / autour de la maison familiale, parfois via une petite cave au sud-ouest du bâtiment de départ après sauvetage de toute la famille robot. La formulation exacte varie selon les joueurs, mais le diagnostic reste le même : **retour maison familiale + bon endroit d’interaction**.
+
 ---
 
 ### 2. Enchanted Heart

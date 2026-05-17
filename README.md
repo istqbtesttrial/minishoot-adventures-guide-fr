@@ -1,37 +1,44 @@
 # Minishoot' Adventures — Guide FR complet
 
-> Un vrai guide francophone, clair et pratique, pour finir **Minishoot' Adventures** à 100% : progression, modules, secrets, courses, succès et ressources utiles.
+> Guide francophone structuré pour finir **Minishoot' Adventures** à 100% : progression, modules, secrets, courses, succès, dépannage et ressources fiables.
 
 [![Repo public](https://img.shields.io/badge/GitHub-public-brightgreen)](https://github.com/istqbtesttrial/minishoot-adventures-guide-fr)
 [![Jeu](https://img.shields.io/badge/Game-Minishoot%27%20Adventures-6c5ce7)](https://store.steampowered.com/app/1634860/Minishoot_Adventures/)
 
 ---
 
-## Sommaire
+## Commencer ici
 
-- [Commencer ici](docs/soluce.md)
-- [Guide des modules](docs/modules.md)
-- [Secrets et objets faciles à rater](docs/secrets.md)
-- [Les 8 courses](docs/courses.md)
-- [Objectif 100% et succès](docs/100-percent.md)
-- [Checklist interactive](docs/checklist-interactive.html)
-- [Captures et repères visuels](docs/captures.md)
-- [Cartes, vidéos et ressources](docs/cartes.md)
+➡ **[Navigation rapide du guide](docs/README.md)**
+
+C’est le hub principal : il indique quoi lire selon ton besoin.
 
 ---
 
-## Ce que contient ce guide
+## Sommaire par usage
 
-Ce repo rassemble les meilleures infos communautaires trouvées sur le web et les organise en **français** :
+### Je découvre le jeu
 
-- **ordre conseillé** pour avancer sans rater trop de contenu
-- **modules** et cas les plus souvent manqués
-- **donjons optionnels**
-- **courses** et récompenses
-- **succès importants** comme **Suréquipément**, **Trouver sa place**, **Coeur Blessé**, **Plus rapide que vous tous !**
-- **FAQ 100%** quand la carte affiche 100% mais qu’un objet manque encore
-- **checklist interactive locale** sauvegardée dans le navigateur
-- **plan de captures annotées** pour compléter le guide visuel
+- [Soluce FR — progression conseillée](docs/soluce.md)
+- [Secrets et objets faciles à rater](docs/secrets.md)
+- [Les 8 courses](docs/courses.md)
+
+### Je vise le 100%
+
+- [Objectif 100% et succès](docs/100-percent.md)
+- [Checklist interactive](docs/checklist-interactive.html)
+- [Guide des modules](docs/modules.md)
+
+### Je suis bloqué
+
+- [Dépannage — dernier objet/module manquant](docs/depannage.md)
+- [Cartes, vidéos et ressources](docs/cartes.md)
+- [Captures et repères visuels](docs/captures.md)
+
+### Je veux vérifier les sources
+
+- [Notes de sources](docs/sources.md)
+- [Journal de recherche deep](docs/recherche-deep.md)
 
 ---
 
@@ -42,65 +49,58 @@ Ce repo rassemble les meilleures infos communautaires trouvées sur le web et le
 ➡ **https://minishoot-map.github.io/**
 
 C’est la ressource la plus utile pour :
-- modules
-- skills
+
+- modules / skills
 - scarabées dorés
-- cœurs
-- énergie
+- coeurs / énergie
 - courses
-- autres secrets
+- fragments de carte / lore
+- boutons, entrées, PNJ et objets divers
+
+La carte indique que ses données/images viennent de la **version v1.05** du jeu.
 
 ### Réglage recommandé
 
 1. Ouvre la carte
 2. Va dans **Filters**
-3. Active **Modules & Skills**
-4. Désactive le reste si tu veux nettoyer la carte zone par zone
+3. Active seulement la catégorie dont tu as besoin : **Modules & Skills**, **Scarabs**, **Race spirits**, etc.
+4. Nettoie zone par zone au lieu de courir partout
 
 ---
 
-## Les 5 vérifications les plus importantes si un module manque
+## Les 5 vérifications prioritaires si un module manque
 
-1. **Family Home** dans la zone de départ
-2. **Maison / famille réunie** après avoir sauvé tous les proches
-3. **Wounded Heart / Coeur Blessé** dans le temple au sud-ouest
-4. **Récompense des 8 courses**
-5. **Récompense du vendeur / des scarabées dorés**
+1. **Family Home** — maison familiale, bas-gauche du respawn central
+2. **Pedestal / scène familiale** — il faut parfois se tenir au bon endroit
+3. **Scarab vendor** — rendre/acheter la récompense des derniers scarabées
+4. **Récompense des 8 courses** — gagner les courses ne suffit pas toujours
+5. **Wounded Heart** — temple sud-ouest, passage secret près de l’autel
 
-Si tu es bloqué sur **Suréquipément / Find all modules**, commence toujours par ces cinq points.
-
----
-
-## Philosophie du guide
-
-Le web sur *Minishoot' Adventures* reste assez petit. Il n’existe pas encore un énorme wiki exhaustif et propre en plusieurs langues. Du coup, ce guide fait le pont entre :
-
-- la **carte interactive**
-- le **guide illustré GitHub**
-- les **discussions Steam**
-- les **retours Reddit**
-- les **vidéos full collect**
-
-L’objectif n’est pas de recopier ces ressources, mais de les **transformer en une soluce FR lisible et utile**.
+Voir : [Dépannage](docs/depannage.md)
 
 ---
 
-## Sources principales
+## Ce que contient ce guide
 
-- Carte interactive : <https://minishoot-map.github.io/>
-- Guide illustré : <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
-- Guide trophées FR : <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees>
-- Discussions Steam : <https://steamcommunity.com/app/1634860/discussions/>
-- Vidéos 100% : YouTube / Bilibili
+- ordre conseillé pour avancer sans rater trop de contenu
+- modules et cas les plus souvent manqués
+- donjons optionnels / zones à risque
+- courses et récompense finale
+- succès importants : **Suréquipément**, **Trouver sa place**, **Coeur Blessé**, **Plus rapide que vous tous !**, etc.
+- checklist interactive locale sauvegardée dans le navigateur
+- diagnostic par symptôme quand la carte affiche 100% mais qu’un objet manque encore
+- journal de recherche avec niveau de confiance et sources
 
 ---
 
 ## Statut du guide
 
-Ce guide est vivant. Il est déjà très utile pour le 100%, mais pourra encore être enrichi avec :
-- captures annotées
-- cartes par zone
-- emplacements ultra-précis des modules restants
-- mini FAQ par réussite
+Le guide est maintenant organisé en **v2 structurée** : il est utile pour finir le jeu et diagnostiquer les derniers blocages.
 
-Si tu veux contribuer, ouvre une issue ou un PR sur le repo.
+À compléter ensuite :
+
+- captures annotées maison
+- positions ultra-précises des 8 courses
+- liste exhaustive des tablettes d’histoire
+- liste des modules dans l’ordre exact de l’inventaire
+- confirmation des noms FR/EN de chaque module

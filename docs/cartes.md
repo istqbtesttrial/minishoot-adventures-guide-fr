@@ -97,6 +97,13 @@ Le web chinois est l’un des rares endroits où l’on trouve encore de vraies 
 
 ## 7. Ressources locales ajoutées
 
+### Hub local du guide
+[README du dossier docs](README.md)
+
+Point d’entrée recommandé pour choisir la bonne page selon ton blocage.
+
+
+
 ### Checklist interactive
 [checklist-interactive.html](checklist-interactive.html)
 
