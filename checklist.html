@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#07121f">
+  <title>Checklist 100% — Minishoot Guide FR</title>
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <div class="page-glow" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="logo" href="index.html"><span></span>Minishoot Guide</a>
+    <button class="menu-button" type="button" aria-label="Menu" aria-expanded="false">☰</button>
+    <nav class="site-nav">
+      <a href="index.html">Accueil</a><a href="guide.html">Guide</a><a class="active" href="checklist.html">Checklist</a><a href="collectibles.html">Collectibles</a><a href="depannage.html">Dépannage</a><a href="sources.html">Sources</a>
+    </nav>
+  </header>
+  <main>
+    <section class="page-hero reveal">
+      <p class="tag">Sauvegardée sur cet appareil</p>
+      <h1>Checklist 100%.</h1>
+      <p>Coche au fur et à mesure. La progression reste dans le navigateur du téléphone, de la tablette ou du PC.</p>
+    </section>
+
+    <section class="section reveal">
+      <div class="progress-panel">
+        <div><strong id="progressText">0%</strong><span id="progressCount">0 / 0 cochés</span></div>
+        <div class="progress"><span id="progressBar"></span></div>
+        <div class="actions"><button id="expandAll" type="button">Tout ouvrir</button><button id="resetChecklist" class="danger" type="button">Réinitialiser</button></div>
+      </div>
+      <div id="checklistRoot" class="checklist-grid"></div>
+    </section>
+  </main>
+  <footer class="site-footer"><a href="guide.html">Guide</a><a href="collectibles.html">Collectibles</a><a href="depannage.html">Dépannage</a></footer>
+  <script src="assets/site.js" defer></script>
+</body>
+</html>
