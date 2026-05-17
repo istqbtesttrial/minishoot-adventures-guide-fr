@@ -3,6 +3,8 @@
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Cette page sert de pont entre notre guide FR et les ressources visuelles existantes. Pour éviter de recopier inutilement le travail d’autres guides, les captures sont référencées avec leur source. L’étape suivante idéale sera d’ajouter nos propres captures annotées.
+>
+> 🗺️ Les captures aident à comprendre les chemins, mais la carte interactive reste la référence absolue pour les emplacements et objets placés.
 
 ---
 

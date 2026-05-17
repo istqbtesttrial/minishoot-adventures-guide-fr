@@ -1,6 +1,8 @@
 # 🗺️ Cartes, lore et clés
 
 > Page claire pour les fragments de carte, tablettes d’histoire et clés.
+>
+> 🗺️ Données issues de la carte interactive : référence absolue pour coordonnées, catégories et quantités.
 
 ## Résumé
 

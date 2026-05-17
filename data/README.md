@@ -2,6 +2,8 @@
 
 Ce dossier contient les exports structurés utilisés par le guide.
 
+> 🗺️ Les exports viennent de la carte interactive, qui est la **référence absolue** pour les emplacements, coordonnées, catégories, quantités et objets placés.
+
 ## À lire d’abord
 
 Pour une lecture humaine, n’ouvre pas les CSV directement : utilise les pages claires.

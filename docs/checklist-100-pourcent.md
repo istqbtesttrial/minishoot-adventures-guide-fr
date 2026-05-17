@@ -1,6 +1,8 @@
 # ✅ Checklist 100%
 
 > Tout ce qu’il faut vérifier avant de considérer la sauvegarde terminée.
+>
+> 🗺️ La carte interactive fait foi pour les objets placés et les quantités ; cette checklist ajoute les retours PNJ, succès et pièges qui ne se lisent pas toujours comme de simples marqueurs.
 
 ---
 

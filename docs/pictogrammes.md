@@ -1,6 +1,8 @@
 # 🎯 Pictogrammes du guide
 
 > Légende commune utilisée dans tout le guide. Le but : reconnaître immédiatement le type d’info sans relire toute la page.
+>
+> 🗺️ Quand un picto représente un objet placé, la carte interactive reste la référence absolue pour sa position réelle.
 
 ---
 

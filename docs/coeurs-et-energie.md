@@ -1,6 +1,8 @@
 # ❤️ Cœurs et énergie
 
 > Page claire pour vérifier les upgrades de vie et d’énergie.
+>
+> 🗺️ Données issues de la carte interactive : référence absolue pour coordonnées, catégories et quantités.
 
 ## Résumé
 

@@ -3,6 +3,8 @@
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Le succès/trophée **Suréquipément / Overstuffed** demande de **trouver tous les modules**. C’est l’un des objectifs les plus flous du jeu, car la carte peut afficher 100% alors qu’un module lié à un retour PNJ ou à une récompense n’a pas encore été pris.
+>
+> 🗺️ La carte interactive fait foi pour les modules placés sur la carte. Les retours PNJ / récompenses différées sont expliqués séparément car ils peuvent ne pas ressembler à un simple marqueur.
 
 ---
 

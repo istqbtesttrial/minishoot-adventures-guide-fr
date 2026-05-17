@@ -2,6 +2,8 @@
 
 > Page ancienne conservée pour compatibilité.  
 > La version principale et mise à jour est maintenant : [Courses et race spirits](courses-et-race-spirits.md).
+>
+> 🗺️ Pour les emplacements exacts, la carte interactive est la source absolue.
 
 ---
 

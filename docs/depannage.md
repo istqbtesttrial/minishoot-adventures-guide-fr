@@ -3,6 +3,8 @@
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Page anti-frustration. Elle regroupe les blocages récurrents vus dans les discussions Steam/Reddit et les classe par symptôme.
+>
+> 🗺️ La carte interactive reste la référence absolue pour les marqueurs ; ce dépannage couvre surtout les récompenses et interactions que la carte ne résout pas seule.
 
 ---
 

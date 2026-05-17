@@ -1,6 +1,8 @@
 # Icônes extraites de la carte interactive
 
 > Icônes de marqueurs extraites depuis le sprite atlas de `minishoot-map/minishoot-map.github.io` (`src/data-raw/markers/markers.png`). Usage : repères visuels pour le guide FR.
+>
+> 🗺️ Ces icônes viennent de la carte interactive, qui fait foi pour les catégories de marqueurs.
 
 | Catégorie | Icône | Label | textureI | Fichier |
 | --- | --- | --- | ---: | --- |

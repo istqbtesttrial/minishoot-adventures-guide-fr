@@ -2,6 +2,8 @@
 
 Guide francophone organisé pour terminer **Minishoot' Adventures** à 100% : progression, modules, cœurs, énergie, courses, scarabées, cartes, lore, clés, succès et données extraites.
 
+> 🗺️ **Source absolue du guide :** la carte interactive <https://minishoot-map.github.io/> fait foi pour les emplacements, coordonnées, catégories, quantités et objets placés. Les autres sources servent à expliquer les chemins, conditions, secrets et retours joueurs.
+
 ---
 
 ## 🚀 Commencer ici

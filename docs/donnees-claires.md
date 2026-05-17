@@ -1,6 +1,8 @@
 # 📚 Données claires
 
 > Ancienne page unique remplacée par plusieurs pages plus lisibles.
+>
+> 🗺️ Les données extraites de la carte interactive sont la référence absolue pour les emplacements, coordonnées, catégories, quantités et objets placés.
 
 Les données CSV sont maintenant séparées par catégorie pour que tu puisses tout voir plus facilement.
 

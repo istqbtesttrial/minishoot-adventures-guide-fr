@@ -2,7 +2,9 @@
 
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
-Ce repo s’appuie principalement sur des sources communautaires, puis les reformule en français pratique. Le but n’est pas de recopier les contenus externes, mais de croiser les indices récurrents pour aider au 100%.
+Ce repo s’appuie principalement sur la carte interactive, puis sur des sources communautaires reformulées en français pratique. Le but n’est pas de recopier les contenus externes, mais de croiser les indices récurrents pour aider au 100%.
+
+> 🗺️ Hiérarchie : carte interactive = source absolue pour emplacements/quantités/catégories ; sources communautaires = explications de chemin, conditions, secrets et pièges.
 
 ---
 

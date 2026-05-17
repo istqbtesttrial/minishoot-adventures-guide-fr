@@ -3,6 +3,8 @@
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Synthèse des sources consultées pour renforcer le guide. Cette page distingue les informations confirmées, les signaux communautaires et les zones encore incomplètes.
+>
+> 🗺️ La carte interactive est la référence absolue pour les emplacements, coordonnées, catégories, quantités et objets placés.
 
 ---
 

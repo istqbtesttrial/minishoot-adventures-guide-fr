@@ -2,6 +2,8 @@
 
 > Cette page est conservée pour compatibilité.  
 > La version principale est maintenant : [Checklist 100%](checklist-100-pourcent.md).
+>
+> 🗺️ Pour les emplacements et quantités, la carte interactive est la référence absolue.
 
 ---
 

@@ -3,6 +3,8 @@
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Données extraites depuis le repo open-source de la carte interactive : <https://github.com/minishoot-map/minishoot-map.github.io>. La carte indique que ses données/images viennent de la version **v1.05** du jeu.
+>
+> 🗺️ Ces données sont la référence absolue du guide pour les objets placés, coordonnées, catégories et quantités.
 
 ---
 

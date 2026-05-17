@@ -1,6 +1,8 @@
 # 🛠️ Dépannage — problèmes fréquents
 
 > Quoi vérifier quand il manque un objet, un module, une course ou un succès.
+>
+> 🗺️ Commence toujours par la carte interactive pour les marqueurs. Cette page complète avec les récompenses différées, interactions et cas de blocage.
 
 ---
 

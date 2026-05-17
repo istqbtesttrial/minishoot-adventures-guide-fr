@@ -1,6 +1,8 @@
 # 🧭 Parcours 100% — ordre conseillé
 
 > Page “chef d’orchestre”. Si tu veux finir le jeu proprement sans te perdre dans toutes les pages, suis cet ordre.
+>
+> 🗺️ La carte interactive est la référence absolue pour les emplacements ; ce parcours donne seulement l’ordre conseillé et les retours à ne pas oublier.
 
 ---
 

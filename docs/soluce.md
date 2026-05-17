@@ -1,6 +1,8 @@
 # 🧭 Soluce FR — progression conseillée
 
 > Chemin clair pour finir *Minishoot' Adventures* sans rater les retours importants. Cette page reste volontairement orientée joueur, avec les infos utiles extraites des sources.
+>
+> 🗺️ La carte interactive est la référence absolue pour les objets placés ; cette soluce sert à organiser la progression et les retours.
 
 ---
 

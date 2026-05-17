@@ -1,6 +1,8 @@
 # 🧩 Modules et skills
 
 > Page claire pour voir les modules, skills et upgrades importants sans ouvrir les CSV.
+>
+> 🗺️ Données issues de la carte interactive : référence absolue pour coordonnées, catégories et quantités.
 
 ## Résumé
 

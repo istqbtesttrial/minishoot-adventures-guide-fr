@@ -1,6 +1,8 @@
 # 📚 Sommaire complet — Guide Minishoot' Adventures FR
 
 > Cette page est le hub principal. Tout est rangé par besoin : progresser, collecter, finir à 100%, dépanner ou vérifier les données.
+>
+> 🗺️ **Règle de base :** la carte interactive fait foi pour les emplacements, coordonnées, catégories, quantités et objets placés. Les pages du guide expliquent ensuite comment y accéder.
 
 ---
 

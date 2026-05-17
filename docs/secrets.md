@@ -1,6 +1,8 @@
 # 🧱 Secrets et objets faciles à rater
 
 > Les infos importantes issues des guides, discussions et données carte.
+>
+> 🗺️ Quand un secret correspond à un objet placé, la carte interactive fait foi. Cette page explique surtout les conditions, interactions et accès cachés.
 
 ---
 
