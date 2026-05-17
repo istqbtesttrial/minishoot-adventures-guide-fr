@@ -14,6 +14,7 @@
 | Modules et pouvoirs | [🧩 Modules et skills](modules-et-skills.md) |
 | Vie et énergie | [❤️ Cœurs et énergie](coeurs-et-energie.md) |
 | Courses | [🏁 Courses et race spirits](courses-et-race-spirits.md) |
+| Recherche approfondie courses | [🔎 Recherche deep — les 8 courses](recherche-courses-deep.md) |
 | Scarabées | [🪲 Scarabées dorés](scarabees-dores.md) |
 | Carte, lore, clés | [🗺️ Cartes, lore et clés](cartes-lore-et-cles.md) |
 | Problème / objet manquant | [🛠️ Dépannage](depannage-problemes-frequents.md) |
@@ -40,6 +41,7 @@
 | [🧩 Modules et skills](modules-et-skills.md) | 17 modules, 4 skills, upgrades liés |
 | [❤️ Cœurs et énergie](coeurs-et-energie.md) | 28 cœurs / HP + 8 énergie |
 | [🏁 Courses et race spirits](courses-et-race-spirits.md) | 8 race spirits + timers internes |
+| [🔎 Recherche deep — les 8 courses](recherche-courses-deep.md) | infos web, course #2, reward, sources |
 | [🪲 Scarabées dorés](scarabees-dores.md) | 18 scarabées avec coordonnées |
 | [🗺️ Cartes, lore et clés](cartes-lore-et-cles.md) | fragments de carte, tablettes lore, clés |
 
