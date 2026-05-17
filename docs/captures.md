@@ -1,10 +1,12 @@
-# Captures et repères visuels
+# 📸 Captures et repères visuels
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Cette page sert de pont entre notre guide FR et les ressources visuelles existantes. Pour éviter de recopier inutilement le travail d’autres guides, les captures sont référencées avec leur source. L’étape suivante idéale sera d’ajouter nos propres captures annotées.
 
 ---
 
-## Source visuelle principale
+## 🗺️ Source visuelle principale
 
 Le meilleur guide illustré actuel est :
 
@@ -26,7 +28,7 @@ Il contient des captures pour :
 
 ---
 
-## Captures à produire pour notre guide FR
+## 📸 Captures à produire pour notre guide FR
 
 Quand on aura des screenshots maison, priorité à ces visuels :
 
@@ -62,7 +64,7 @@ Quand on aura des screenshots maison, priorité à ces visuels :
 
 ---
 
-## Convention d’annotation proposée
+## 🎯 Convention d’annotation proposée
 
 Pour rester lisible :
 
@@ -74,7 +76,7 @@ Pour rester lisible :
 
 ---
 
-## Où placer les futures images
+## 📁 Où placer les futures images
 
 Structure recommandée :
 

@@ -1,4 +1,4 @@
-# Données extraites
+# 📊 Données extraites
 
 Ce dossier contient les exports structurés utilisés par le guide.
 

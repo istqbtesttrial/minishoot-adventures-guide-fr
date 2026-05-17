@@ -1,10 +1,12 @@
-# Cartes, vidéos et ressources utiles
+# 🗺️ Cartes, vidéos et ressources utiles
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Voici les meilleures ressources trouvées pour *Minishoot' Adventures*. Le web du jeu reste relativement petit, donc ce sont vraiment celles qui reviennent le plus utilement.
 
 ---
 
-## 1. Carte interactive — ressource n°1
+## 🗺️ 1. Carte interactive — ressource n°1
 
 ### Minishoot Map
 <https://minishoot-map.github.io/>
@@ -24,7 +26,7 @@
 
 ---
 
-## 2. Guide illustré avec captures
+## 📸 2. Guide illustré avec captures
 
 ### GitHub community guide
 <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
@@ -37,7 +39,7 @@ C’est la meilleure soluce visuelle existante pour :
 
 ---
 
-## 3. Guides trophées / succès
+## 🏆 3. Guides trophées / succès
 
 ### NationHive FR
 <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees>
@@ -51,7 +53,7 @@ Utile pour :
 
 ---
 
-## 4. Discussions Steam les plus utiles
+## 💬 4. Discussions Steam les plus utiles
 
 ### Family Home / module manquant
 <https://steamcommunity.com/app/1634860/discussions/0/596262791801817488/>
@@ -80,7 +82,7 @@ Ce qu’on y apprend souvent :
 
 ---
 
-## 6. Vidéos utiles
+## 🎬 6. Vidéos utiles
 
 ### YouTube — walkthrough / all secrets
 <https://www.youtube.com/watch?v=sx8w5RGAGAI>
@@ -95,7 +97,7 @@ Le web chinois est l’un des rares endroits où l’on trouve encore de vraies 
 
 ---
 
-## 7. Ressources locales ajoutées
+## 📚 7. Ressources locales ajoutées
 
 ### Extraction locale de la carte interactive
 [map-data.md](map-data.md)
@@ -123,7 +125,7 @@ Liste les captures prioritaires à produire et les repères visuels à consulter
 
 ---
 
-## 8. Quelle source utiliser selon ton besoin ?
+## 🧠 8. Quelle source utiliser selon ton besoin ?
 
 ### Il me manque un module
 ➡ carte interactive + Steam + Reddit

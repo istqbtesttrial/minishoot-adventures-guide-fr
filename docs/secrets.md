@@ -1,10 +1,12 @@
-# Secrets et objets faciles à rater
+# 🧱 Secrets et objets faciles à rater
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Si tu veux éviter la douleur du “99% + 1 objet introuvable”, ce document est l’un des plus importants du repo.
 
 ---
 
-## Les grands pièges du jeu
+## ⚠️ Les grands pièges du jeu
 
 ### 1. La zone de départ n’est jamais vraiment “terminée” trop tôt
 
@@ -40,16 +42,16 @@ Le jeu adore les murs, autels, tables, bâtiments et coins qui ont l’air ordin
 
 ---
 
-## Secrets les plus souvent cités
+## 🧱 Secrets les plus souvent cités
 
-### Family Home
+### 🏠 Family Home
 Un grand classique.
 
 - reviens après progression
 - vérifie la maison dans la ville principale
 - regarde bien les interactions possibles liées à la famille
 
-### Wounded Heart / Coeur Blessé
+### ❤️ Wounded Heart / Coeur Blessé
 Autre classique.
 
 - temple au sud-ouest
@@ -66,7 +68,7 @@ Autre classique.
 
 ---
 
-## Succès secrets / semi-secrets à surveiller
+## 🏆 Succès secrets / semi-secrets à surveiller
 
 ### Trouver sa place
 Lié à la **famille / maison / siège** selon la progression.
@@ -93,7 +95,7 @@ Quand il te manque un seul objet :
 
 ---
 
-## Résumé pratique
+## ✅ Résumé pratique
 
 Les plus gros oublis du jeu sont rarement dans les gros donjons principaux.
 Ils sont souvent dans :

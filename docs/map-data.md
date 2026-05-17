@@ -1,10 +1,12 @@
-# Extraction de la carte interactive
+# 📊 Extraction de la carte interactive
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Données extraites depuis le repo open-source de la carte interactive : <https://github.com/minishoot-map/minishoot-map.github.io>. La carte indique que ses données/images viennent de la version **v1.05** du jeu.
 
 ---
 
-## Exports générés
+## 📁 Exports générés
 
 Les exports complets sont dans : [`data/map-extract/`](../data/map-extract/)
 
@@ -28,7 +30,7 @@ Fichiers importants :
 
 ---
 
-## Résumé global
+## 📌 Résumé global
 
 - scènes analysées : **16**
 - objets Unity analysés : **176 301**
@@ -53,7 +55,7 @@ Fichiers importants :
 
 ---
 
-## Modules + skills extraits
+## 🧩 Modules + skills extraits
 
 | Type | Nom | Scène | X | Y | Objet |
 | --- | --- | ---: | ---: | ---: | --- |
@@ -89,7 +91,7 @@ Fichiers importants :
 
 ---
 
-## Scarabées dorés extraits
+## 🪲 Scarabées dorés extraits
 
 | # | Scène | X | Y | Objet |
 | ---: | --- | ---: | ---: | --- |
@@ -114,7 +116,7 @@ Fichiers importants :
 
 ---
 
-## Race spirits extraits
+## 👻 Race spirits extraits
 
 | # | Scène | X | Y | Objet |
 | ---: | --- | ---: | ---: | --- |
@@ -129,7 +131,7 @@ Fichiers importants :
 
 ---
 
-## Catégories exportées
+## 📊 Catégories exportées
 
 | Catégorie | Nombre |
 | --- | ---: |
@@ -170,7 +172,7 @@ Fichiers importants :
 
 ---
 
-## Limites / prochaines étapes
+## ⚠️ Limites / prochaines étapes
 
 Cette extraction donne les coordonnées et catégories brutes. Elle inclut maintenant les catégories principales de marqueurs/objets visibles, y compris ennemis, cristaux, jarres, torches et pickups génériques. Elle ne donne pas encore automatiquement une phrase humaine du type “derrière le mur caché au nord-est”, parce que ça demande de relier les coordonnées aux screenshots/biomes.
 

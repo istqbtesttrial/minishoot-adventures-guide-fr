@@ -1,10 +1,12 @@
-# Soluce FR — progression conseillée
+# 🧭 Soluce FR — progression conseillée
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Objectif : te donner un chemin clair pour finir *Minishoot' Adventures* sans rater les retours importants, tout en gardant le plaisir d’explorer. Cette page évite les gros spoilers d’histoire, mais signale les lieux et récompenses qui bloquent souvent le 100%.
 
 ---
 
-## Mode d’emploi du guide
+## 🎮 Mode d’emploi du guide
 
 Pendant la découverte, lis surtout les sections **Réflexes après donjon**. Pendant le nettoyage final, utilise plutôt :
 
@@ -17,7 +19,7 @@ Pendant la découverte, lis surtout les sections **Réflexes après donjon**. Pe
 
 ---
 
-## 1. Début du jeu : sécuriser la zone de départ
+## 🧭 1. Début du jeu : sécuriser la zone de départ
 
 Au tout début, ne rush pas uniquement le marqueur principal.
 
@@ -40,7 +42,7 @@ Au tout début, ne rush pas uniquement le marqueur principal.
 
 ---
 
-## 2. Donjon 1 — Boost
+## ✨ 2. Donjon 1 — Boost
 
 Le premier donjon sert surtout de prise en main. Tu y récupères le **Boost**, qui devient immédiatement central pour :
 
@@ -157,7 +159,7 @@ Le guide illustré communautaire montre plusieurs entrées et paires de captures
 
 ---
 
-## 8. Courses — les garder pour quand tu es mobile
+## 🏁 8. Courses — les garder pour quand tu es mobile
 
 Il y a **8 courses**. Tu peux en faire certaines en cours de route, mais si elles t’énervent, attends d’avoir plus de mobilité.
 
@@ -171,7 +173,7 @@ Voir : [Les 8 courses](courses.md)
 
 ---
 
-## 9. Avant le boss final : checklist de sécurité
+## ⚠️ 9. Avant le boss final : checklist de sécurité
 
 Avant de déclencher la fin, vérifie :
 
@@ -202,7 +204,7 @@ Si tu sens que tu manques de puissance, fais un essai, puis repars chercher les 
 
 ---
 
-## 11. Post-game / extras
+## ✅ 11. Post-game / extras
 
 Le vrai nettoyage 100% se fait souvent ici. Après la première fin, pense aussi à revisiter la zone de **Wounded Heart** : plusieurs retours indiquent que l’autel peut révéler une clé en forme de coeur nécessaire à la route post-game / vraie fin.
 
@@ -231,7 +233,7 @@ Priorités :
 
 ---
 
-## Résumé ultra-court
+## 🧠 Résumé ultra-court
 
 Si tu veux jouer proprement sans stress :
 

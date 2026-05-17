@@ -1,10 +1,12 @@
-# Guide des modules
+# 🧩 Guide des modules
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Le succès/trophée **Suréquipément / Overstuffed** demande de **trouver tous les modules**. C’est l’un des objectifs les plus flous du jeu, car la carte peut afficher 100% alors qu’un module lié à un retour PNJ ou à une récompense n’a pas encore été pris.
 
 ---
 
-## Ce qu’il faut savoir avant tout
+## 🎯 Ce qu’il faut savoir avant tout
 
 Les modules sont les collectibles affichés à droite dans l’inventaire.
 
@@ -19,9 +21,9 @@ Donc si tu es bloqué : ne cherche pas seulement un point sur la carte. Vérifie
 
 ---
 
-## Les modules / cas les plus souvent ratés
+## ⚠️ Les modules / cas les plus souvent ratés
 
-### 1. Family Home / maison familiale
+### 🏠 1. Family Home / maison familiale
 
 C’est le cas le plus récurrent dans les discussions Steam.
 
@@ -58,7 +60,7 @@ Souvent lié à la progression familiale / maison principale.
 
 ---
 
-### 3. Enchanted Powers / vendeur de scarabées
+### 🪲 3. Enchanted Powers / vendeur de scarabées
 
 Plusieurs joueurs ont découvert que leur “dernier module” venait simplement d’une récompense non achetée ou non récupérée auprès du robot/marchand lié aux scarabées dorés.
 
@@ -72,7 +74,7 @@ Plusieurs joueurs ont découvert que leur “dernier module” venait simplement
 
 ---
 
-### 4. Wounded Heart / Coeur Blessé
+### ❤️ 4. Wounded Heart / Coeur Blessé
 
 Objet lié à la source de la corruption.
 
@@ -87,7 +89,7 @@ Objet lié à la source de la corruption.
 
 ---
 
-### 5. Récompense des 8 courses
+### 🏁 5. Récompense des 8 courses
 
 Après avoir gagné les **8 courses**, il reste une étape : aller récupérer la récompense finale.
 
@@ -110,7 +112,7 @@ Si tu joues “objectif principal uniquement”, tu peux finir l’histoire en a
 
 ---
 
-## Méthode fiable pour trouver tous les modules
+## 🗺️ Méthode fiable pour trouver tous les modules
 
 ### Étape 1 — Ouvre la carte interactive
 
@@ -147,7 +149,7 @@ Si tu es certain d’avoir le dernier module mais que le succès ne tombe pas :
 
 ---
 
-## Tableau de diagnostic rapide
+## 🛠️ Tableau de diagnostic rapide
 
 | Symptôme | Vérification prioritaire |
 | --- | --- |
@@ -160,7 +162,7 @@ Si tu es certain d’avoir le dernier module mais que le succès ne tombe pas :
 
 ---
 
-## Checklist modules “anti-oubli”
+## ✅ Checklist modules “anti-oubli”
 
 - [ ] Retour à la **Family Home**
 - [ ] Famille complètement réunie

@@ -1,10 +1,12 @@
-# Les 8 courses
+# 🏁 Les 8 courses
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Les courses sont l’un des gros morceaux du 100%. Elles donnent un succès dédié et mènent aussi à une récompense importante pour les extras / la vraie fin.
 
 ---
 
-## Pourquoi les faire
+## 🎯 Pourquoi les faire
 
 Terminer toutes les courses sert à :
 
@@ -17,7 +19,7 @@ La récompense des courses est assez importante pour que plusieurs joueurs conse
 
 ---
 
-## Conseil principal
+## ⚠️ Conseil principal
 
 Si une course te bloque :
 
@@ -30,7 +32,7 @@ Il n’y a aucune honte à les garder pour la fin. Elles sont beaucoup moins pé
 
 ---
 
-## Méthode recommandée pour les 8 courses
+## 🧭 Méthode recommandée pour les 8 courses
 
 Pour chaque course :
 
@@ -42,7 +44,7 @@ Pour chaque course :
 
 ---
 
-## Course #2 — la plus souvent mentionnée
+## 🏁 Course #2 — la plus souvent mentionnée
 
 La course #2 est souvent citée parce que son accès est moins naturel.
 
@@ -59,7 +61,7 @@ Une fois la course validée, pense à noter la zone : elle sert aussi de repère
 
 ---
 
-## Récompense finale des courses
+## 🎁 Récompense finale des courses
 
 Après avoir gagné les 8 courses, il faut encore aller chercher la récompense finale.
 
@@ -85,7 +87,7 @@ Très bon moment si ton objectif principal est le 100% sans te frustrer pendant 
 
 ---
 
-## Checklist courses
+## ✅ Checklist courses
 
 - [ ] Course #1 gagnée
 - [ ] Course #2 gagnée

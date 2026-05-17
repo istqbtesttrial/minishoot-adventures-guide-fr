@@ -1,11 +1,13 @@
-# Dépannage — dernier objet/module manquant
+# 🛠️ Dépannage — dernier objet/module manquant
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Page anti-frustration. Elle regroupe les blocages récurrents vus dans les discussions Steam/Reddit et les classe par symptôme.
 
 ---
 
 <a id="module-manquant-malgre-100-carte"></a>
-## Module manquant malgré 100% carte
+## 🧩 Module manquant malgré 100% carte
 
 C’est le cas le plus signalé. Ne suppose pas tout de suite que le jeu est buggué : vérifie d’abord les récompenses qui ne sont pas de simples marqueurs de carte.
 
@@ -42,7 +44,7 @@ C’est le cas le plus signalé. Ne suppose pas tout de suite que le jeu est bug
 ---
 
 <a id="succes-surequipement-overstuffed"></a>
-## Succès Suréquipément / Overstuffed ne pop pas
+## 🧩 Succès Suréquipément / Overstuffed ne pop pas
 
 Si tous les modules semblent présents :
 
@@ -58,7 +60,7 @@ Plusieurs joueurs rapportent que le succès s’est déclenché après un hit ou
 ---
 
 <a id="wounded-heart-coeur-blesse-introuvable"></a>
-## Wounded Heart / Coeur Blessé introuvable
+## ❤️ Wounded Heart / Coeur Blessé introuvable
 
 Repère confirmé par discussion Steam :
 
@@ -72,7 +74,7 @@ Repère confirmé par discussion Steam :
 
 ---
 
-## Clé en forme de coeur / route vraie fin introuvable
+## 🔑 Clé en forme de coeur / route vraie fin introuvable
 
 Après le premier boss final et les crédits, retourne dans la zone de **Wounded Heart**.
 
@@ -88,7 +90,7 @@ Cette étape semble liée à la route post-game / vraie fin / arbre avec le bard
 ---
 
 <a id="scarabee-dore-manquant"></a>
-## Scarabée doré manquant
+## 🪲 Scarabée doré manquant
 
 Méthode la plus fiable :
 
@@ -109,7 +111,7 @@ Spots souvent cités dans les guides/discussions :
 
 ---
 
-## Dernière course manquante
+## 🏁 Dernière course manquante
 
 1. active **Race spirits** sur la carte interactive
 2. vérifie la course #2 : tour avec symbole de 3 slimes, 3 cercles à toucher, accès souterrain

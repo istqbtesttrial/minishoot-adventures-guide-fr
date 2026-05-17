@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Checklist interactive — Minishoot' Adventures FR</title>
+  <title>✅ Checklist interactive — Minishoot' Adventures FR</title>
   <style>
     :root {
       --bg: #101827;
@@ -85,7 +85,7 @@
 <body>
   <main>
     <header>
-      <h1>Checklist interactive — Minishoot' Adventures</h1>
+      <h1>✅ Checklist interactive — Minishoot' Adventures</h1>
       <p class="sub">Checklist FR pour viser le 100%. Les coches sont sauvegardées localement dans ton navigateur. Tu peux l’ouvrir depuis GitHub Pages ou en local.</p>
     </header>
 
@@ -93,12 +93,12 @@
       <strong id="summary">0 / 0 validés</strong>
       <div class="progress-wrap" aria-label="Progression"><div class="progress-bar" id="bar"></div></div>
       <div class="toolbar-row">
-        <button id="checkAll">Tout cocher</button>
-        <button id="uncheckAll">Tout décocher</button>
-        <button id="reset" class="danger">Réinitialiser</button>
-        <a class="link-button" href="100-percent.md">Guide 100%</a>
-        <a class="link-button" href="modules.md">Modules</a>
-        <a class="link-button" href="https://minishoot-map.github.io/">Carte interactive</a>
+        <button id="checkAll">✅ Tout cocher</button>
+        <button id="uncheckAll">⬜ Tout décocher</button>
+        <button id="reset" class="danger">🧹 Réinitialiser</button>
+        <a class="link-button" href="100-percent.md">✅ Guide 100%</a>
+        <a class="link-button" href="modules.md">🧩 Modules</a>
+        <a class="link-button" href="https://minishoot-map.github.io/">🗺️ Carte interactive</a>
       </div>
     </div>
 
@@ -113,55 +113,55 @@
     const STORAGE_KEY = 'minishoot-guide-fr-checklist-v1';
     const groups = [
       {
-        title: 'Progression principale',
+        title: '🧭 Progression principale',
         items: [
-          ['d1', 'Donjon 1 terminé', 'Boost récupéré et zone de départ revisitée.'],
-          ['d2', 'Donjon 2 terminé', 'Détour sud/est compris, temple suspect vérifié.'],
-          ['d3', 'Donjon 3 terminé', 'Braziers/objectifs validés, batterie cachée recherchée.'],
-          ['desert', 'Donjon optionnel du désert terminé', 'Pouvoir/objet et scarabée récupérés.'],
-          ['d4', 'Donjon 4 terminé', 'Région ouest, bâtiment caché et souterrains fouillés.'],
-          ['finalBoss', 'Boss final battu', 'Checkpoint final utilisé si besoin.']
+          ['d1', '✨ Donjon 1 terminé', 'Boost récupéré et zone de départ revisitée.'],
+          ['d2', '🚪 Donjon 2 terminé', 'Détour sud/est compris, temple suspect vérifié.'],
+          ['d3', '🧭 Donjon 3 terminé', 'Braziers/objectifs validés, batterie cachée recherchée.'],
+          ['desert', '🏜️ Donjon optionnel du désert terminé', 'Pouvoir/objet et scarabée récupérés.'],
+          ['d4', '🧱 Donjon 4 terminé', 'Région ouest, bâtiment caché et souterrains fouillés.'],
+          ['finalBoss', '⚔️ Boss final battu', 'Checkpoint final utilisé si besoin.']
         ]
       },
       {
-        title: 'Modules et récompenses',
+        title: '🧩 Modules et récompenses',
         items: [
-          ['familyHome', 'Family Home vérifiée', 'Retour maison familiale après sauvetages.'],
-          ['familyScene', 'Famille réunie / scène déclenchée', 'Se placer/interagir au bon endroit.'],
-          ['woundedHeart', 'Wounded Heart / Coeur Blessé trouvé', 'Temple sud-ouest, passage près de l’autel.'],
-          ['beetleReward', 'Récompense scarabées récupérée', 'Reparler au vendeur/robot après derniers scarabées.'],
-          ['raceReward', 'Récompense des 8 courses récupérée', 'Ne pas oublier le retour final.'],
-          ['allModules', 'Tous les modules obtenus', 'Succès Suréquipément validé ou prêt à pop.']
+          ['familyHome', '🏠 Family Home vérifiée', 'Retour maison familiale après sauvetages.'],
+          ['familyScene', '🏠 Famille réunie / scène déclenchée', 'Se placer/interagir au bon endroit.'],
+          ['woundedHeart', '❤️ Wounded Heart / Coeur Blessé trouvé', 'Temple sud-ouest, passage près de l’autel.'],
+          ['beetleReward', '🪲 Récompense scarabées récupérée', 'Reparler au vendeur/robot après derniers scarabées.'],
+          ['raceReward', '🏁 Récompense des 8 courses récupérée', 'Ne pas oublier le retour final.'],
+          ['allModules', '🧩 Tous les modules obtenus', 'Succès Suréquipément validé ou prêt à pop.']
         ]
       },
       {
-        title: 'Collectibles',
+        title: '✅ Collectibles',
         items: [
-          ['allBeetles', 'Tous les scarabées dorés', 'Succès Ô Grand Primordial.'],
-          ['allRaces', 'Les 8 courses gagnées', 'Succès Plus rapide que vous tous !'],
-          ['allTablets', 'Toutes les tablettes lues', 'Succès Passion pour l’Histoire.'],
-          ['mapsBought', 'Cartes / fragments importants achetés', 'Aide au nettoyage final.'],
-          ['heartsEnergy', 'Coeurs / énergie majeurs récupérés', 'Confort pour boss et arènes.']
+          ['allBeetles', '🪲 Tous les scarabées dorés', 'Succès Ô Grand Primordial.'],
+          ['allRaces', '🏁 Les 8 courses gagnées', 'Succès Plus rapide que vous tous !'],
+          ['allTablets', '📜 Toutes les tablettes lues', 'Succès Passion pour l’Histoire.'],
+          ['mapsBought', '🗺️ Cartes / fragments importants achetés', 'Aide au nettoyage final.'],
+          ['heartsEnergy', '❤️⚡ Coeurs / énergie majeurs récupérés', 'Confort pour boss et arènes.']
         ]
       },
       {
-        title: 'Secrets et zones à risque',
+        title: '🧱 Secrets et zones à risque',
         items: [
-          ['d2Optional', 'Bâtiment optionnel zone Donjon 2', 'Zone souvent skippée.'],
-          ['d3Battery', 'Batterie cachée près course Donjon 3', 'Mur caché proche piste de contre-la-montre.'],
-          ['westBuilding', 'Bâtiment caché région ouest', 'Pouvoir, bouton et scarabée cachés.'],
-          ['sewers', 'Égouts / souterrains fouillés', 'Plusieurs objets dans les passages.'],
-          ['fallHoles', 'Trous/chutes suspects revisités', 'Certains accès dépendent du bon trou.']
+          ['d2Optional', '🚪 Bâtiment optionnel zone Donjon 2', 'Zone souvent skippée.'],
+          ['d3Battery', '⚡ Batterie cachée près course Donjon 3', 'Mur caché proche piste de contre-la-montre.'],
+          ['westBuilding', '🧱 Bâtiment caché région ouest', 'Pouvoir, bouton et scarabée cachés.'],
+          ['sewers', '🚪 Égouts / souterrains fouillés', 'Plusieurs objets dans les passages.'],
+          ['fallHoles', '🕳️ Trous/chutes suspects revisités', 'Certains accès dépendent du bon trou.']
         ]
       },
       {
-        title: 'Post-game / succès finaux',
+        title: '🏆 Post-game / succès finaux',
         items: [
-          ['bonusDungeon', 'Donjon bonus terminé', 'Accès lié à la récompense des courses.'],
-          ['arenaAll', 'Tous les niveaux d’arène terminés', 'Succès Pour la Gloire ?'],
-          ['arenaFiveHearts', 'Arènes avec au moins 5 coeurs restants', 'Succès C’est fini maintenant.'],
-          ['difficulty', 'Succès difficulté vérifiés', 'Attention à la plus basse difficulté utilisée.'],
-          ['withoutLookingBack', 'Sans regarder en arrière', 'À faire tout à la fin seulement.']
+          ['bonusDungeon', '🏆 Donjon bonus terminé', 'Accès lié à la récompense des courses.'],
+          ['arenaAll', '⚔️ Tous les niveaux d’arène terminés', 'Succès Pour la Gloire ?'],
+          ['arenaFiveHearts', '❤️ Arènes avec au moins 5 coeurs restants', 'Succès C’est fini maintenant.'],
+          ['difficulty', '🏆 Succès difficulté vérifiés', 'Attention à la plus basse difficulté utilisée.'],
+          ['withoutLookingBack', '⚠️ Sans regarder en arrière', 'À faire tout à la fin seulement.']
         ]
       }
     ];

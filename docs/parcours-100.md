@@ -1,10 +1,12 @@
-# Parcours 100% — ordre de lecture et d’action
+# 🧭 Parcours 100% — ordre de lecture et d’action
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Page “chef d’orchestre”. Si tu veux finir le jeu proprement sans te perdre dans toutes les pages, suis cet ordre.
 
 ---
 
-## Phase 1 — Avancer l’histoire sans trop nettoyer
+## 🧭 Phase 1 — Avancer l’histoire sans trop nettoyer
 
 Objectif : débloquer les mouvements majeurs et éviter les allers-retours inutiles.
 
@@ -21,7 +23,7 @@ Objectif : débloquer les mouvements majeurs et éviter les allers-retours inuti
 
 ---
 
-## Phase 2 — Après les gros skills
+## ✨ Phase 2 — Après les gros skills
 
 Objectif : commencer le nettoyage intelligent.
 
@@ -44,7 +46,7 @@ Pages utiles :
 
 ---
 
-## Phase 3 — Avant boss final
+## ⚠️ Phase 3 — Avant boss final
 
 Objectif : éviter de finir l’histoire puis devoir tout rediagnostiquer.
 
@@ -60,7 +62,7 @@ Checklist rapide :
 
 ---
 
-## Phase 4 — Post-game / vraie route / derniers succès
+## ✅ Phase 4 — Post-game / vraie route / derniers succès
 
 Objectif : finir le 100% réel, pas seulement la carte.
 
@@ -83,7 +85,7 @@ Cas fréquents :
 
 ---
 
-## Ordre conseillé des fichiers du guide
+## 📚 Ordre conseillé des fichiers du guide
 
 ### Lire / jouer
 
@@ -108,7 +110,7 @@ Cas fréquents :
 
 ---
 
-## Règle simple
+## 🧠 Règle simple
 
 Si tu ne sais pas quoi faire ensuite :
 

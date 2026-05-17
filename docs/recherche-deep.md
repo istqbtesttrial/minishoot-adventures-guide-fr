@@ -1,10 +1,12 @@
-# Journal de recherche deep
+# 🔎 Journal de recherche deep
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Synthèse des sources consultées pour renforcer le guide. Cette page distingue les informations confirmées, les signaux communautaires et les zones encore incomplètes.
 
 ---
 
-## Sources consultées et fiabilité
+## 🔎 Sources consultées et fiabilité
 
 | Source | Utilité | Fiabilité |
 | --- | --- | --- |
@@ -18,7 +20,7 @@
 
 ---
 
-## Findings confirmés
+## ✅ Findings confirmés
 
 ### Carte interactive
 
@@ -117,13 +119,13 @@ Source : <https://truesteamachievements.com/game/Minishoot-Adventures/achievemen
 
 ---
 
-## Extraction technique ajoutée
+## 📊 Extraction technique ajoutée
 
 Une extraction locale du repo `minishoot-map.github.io` a été générée dans [`data/map-extract/`](../data/map-extract/). Elle parse `objects.bp` avec le schéma de la carte et exporte les catégories principales en JSON/CSV. Voir [map-data.md](map-data.md).
 
 ---
 
-## Gaps encore ouverts
+## ⚠️ Gaps encore ouverts
 
 À creuser dans une prochaine passe ou avec screenshots in-game :
 
@@ -137,7 +139,7 @@ Une extraction locale du repo `minishoot-map.github.io` a été générée dans 
 
 ---
 
-## Décision éditoriale
+## 🧭 Décision éditoriale
 
 Pour éviter de surpromettre, le guide doit :
 

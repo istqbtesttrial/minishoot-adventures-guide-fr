@@ -1,10 +1,12 @@
-# Notes de sources
+# 🔎 Notes de sources
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 Ce repo s’appuie principalement sur des sources communautaires, puis les reformule en français pratique. Le but n’est pas de recopier les contenus externes, mais de croiser les indices récurrents pour aider au 100%.
 
 ---
 
-## Sources principales
+## 🔎 Sources principales
 
 ### Carte interactive
 
@@ -36,7 +38,7 @@ Utilisé pour les noms FR et objectifs généraux des succès/trophées. Points 
 
 ---
 
-## Discussions Steam utiles
+## 💬 Discussions Steam utiles
 
 ### Wounded Heart / Coeur Blessé
 
@@ -79,7 +81,7 @@ Exemples de recherches utiles :
 
 ---
 
-## Sources secondaires
+## 📚 Sources secondaires
 
 ### God is a Geek — coeurs
 
@@ -96,7 +98,7 @@ Utiles seulement pour contexte général, pas pour les emplacements.
 
 ---
 
-## Informations encore à vérifier précisément
+## ⚠️ Informations encore à vérifier précisément
 
 À compléter dans une prochaine passe :
 

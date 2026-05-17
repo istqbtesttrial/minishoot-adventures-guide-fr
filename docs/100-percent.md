@@ -1,10 +1,12 @@
-# Objectif 100% — checklist et succès
+# ✅ Objectif 100% — checklist et succès
+
+> Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
 > Cette page résume tout ce qu’il faut surveiller pour un run “propre” : modules, secrets, succès, retours PNJ et erreurs classiques. Pour cocher ta progression dans le navigateur, ouvre aussi la [checklist interactive](checklist-interactive.html).
 
 ---
 
-## Les succès/trophées importants
+## 🏆 Les succès/trophées importants
 
 NationHive liste **34 succès**. Les plus importants pour un 100% propre sont :
 
@@ -41,7 +43,7 @@ Source EN complète : <https://truesteamachievements.com/game/Minishoot-Adventur
 
 ---
 
-## Checklist 100% simple
+## ✅ Checklist 100% simple
 
 ### Progression
 
@@ -51,7 +53,7 @@ Source EN complète : <https://truesteamachievements.com/game/Minishoot-Adventur
 - [ ] Donjons bonus / extras terminés
 - [ ] Arènes terminées
 
-### Collecte
+### 🧩 Collecte
 
 - [ ] Tous les modules
 - [ ] Tous les scarabées dorés
@@ -60,7 +62,7 @@ Source EN complète : <https://truesteamachievements.com/game/Minishoot-Adventur
 - [ ] Toutes les anciennes tablettes lues
 - [ ] Tous les fragments de coeur / énergie utiles récupérés
 
-### Retours PNJ / récompenses
+### 🏠 Retours PNJ / récompenses
 
 - [ ] Famille libérée
 - [ ] Famille réunie
@@ -69,7 +71,7 @@ Source EN complète : <https://truesteamachievements.com/game/Minishoot-Adventur
 - [ ] Récompense des 8 courses récupérée
 - [ ] Vendeurs vidés / derniers achats faits
 
-### Secrets
+### 🧱 Secrets
 
 - [ ] Wounded Heart / Coeur Blessé trouvé
 - [ ] Bâtiment caché zone ouest fouillé
@@ -79,7 +81,7 @@ Source EN complète : <https://truesteamachievements.com/game/Minishoot-Adventur
 
 ---
 
-## Erreurs les plus fréquentes
+## ⚠️ Erreurs les plus fréquentes
 
 ### 1. Confondre 100% carte et 100% jeu
 
@@ -136,7 +138,7 @@ Conseils utiles :
 
 ---
 
-## Ressources à garder ouvertes pendant le nettoyage final
+## 🗺️ Ressources à garder ouvertes pendant le nettoyage final
 
 - carte interactive : <https://minishoot-map.github.io/>
 - checklist interactive locale : [checklist-interactive.html](checklist-interactive.html)
