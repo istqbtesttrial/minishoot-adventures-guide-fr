@@ -4,6 +4,7 @@
 
 ---
 
+<a id="module-manquant-malgre-100-carte"></a>
 ## Module manquant malgré 100% carte
 
 C’est le cas le plus signalé. Ne suppose pas tout de suite que le jeu est buggué : vérifie d’abord les récompenses qui ne sont pas de simples marqueurs de carte.
@@ -40,6 +41,7 @@ C’est le cas le plus signalé. Ne suppose pas tout de suite que le jeu est bug
 
 ---
 
+<a id="succes-surequipement-overstuffed"></a>
 ## Succès Suréquipément / Overstuffed ne pop pas
 
 Si tous les modules semblent présents :
@@ -55,6 +57,7 @@ Plusieurs joueurs rapportent que le succès s’est déclenché après un hit ou
 
 ---
 
+<a id="wounded-heart-coeur-blesse-introuvable"></a>
 ## Wounded Heart / Coeur Blessé introuvable
 
 Repère confirmé par discussion Steam :
@@ -84,6 +87,7 @@ Cette étape semble liée à la route post-game / vraie fin / arbre avec le bard
 
 ---
 
+<a id="scarabee-dore-manquant"></a>
 ## Scarabée doré manquant
 
 Méthode la plus fiable :

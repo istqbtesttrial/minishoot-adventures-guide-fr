@@ -1,80 +1,85 @@
 # Guide FR — navigation rapide
 
-> Hub de lecture du guide. Si tu reprends une partie, commence ici : les pages sont classées par usage, pas seulement par thème.
+> Hub principal. Le guide est organisé par besoin : jouer, collecter, débloquer une situation, ou vérifier les données.
 
 ---
 
-## Parcours recommandé
+## Lire dans le bon ordre
 
-### 1. Première partie / progression
+Si tu veux une route simple :
 
-Lis dans cet ordre :
+➡ [Parcours 100% étape par étape](parcours-100.md)
 
-1. [Soluce FR — progression conseillée](soluce.md)
-2. [Secrets et objets faciles à rater](secrets.md)
-3. [Les 8 courses](courses.md)
-
-### 2. Nettoyage 100%
-
-Quand tu as fini ou presque fini l’histoire :
-
-1. [Objectif 100% — checklist et succès](100-percent.md)
-2. [Checklist interactive](checklist-interactive.html)
-3. [Guide des modules](modules.md)
-4. [Dépannage — dernier objet/module manquant](depannage.md)
-
-### 3. Recherche visuelle
-
-Pour retrouver un emplacement exact :
-
-1. [Cartes, vidéos et ressources](cartes.md)
-2. [Captures et repères visuels](captures.md)
-3. Carte interactive : <https://minishoot-map.github.io/>
-
-### 4. Vérification des sources
-
-Pour savoir d’où vient chaque info :
-
-- [Notes de sources](sources.md)
-- [Journal de recherche deep](recherche-deep.md)
-- [Extraction de la carte interactive](map-data.md)
+C’est la page à garder ouverte pendant une partie.
 
 ---
 
-## Si tu es bloqué maintenant
+## 1. Jouer / progresser
 
-### “Il me manque un module alors que la carte est à 100%”
-
-Va directement à : [Dépannage](depannage.md#module-manquant-malgre-100-carte)
-
-Priorité :
-
-1. Family Home / maison familiale
-2. vendeur de scarabées dorés
-3. récompense des 8 courses
-4. Wounded Heart
-5. bug d’achat / redémarrage
-
-### “Il me manque une course”
-
-Va à : [Les 8 courses](courses.md)
-
-Puis filtre **Race spirits** sur la carte interactive.
-
-### “Il me manque un scarabée”
-
-Va à : [Dépannage](depannage.md#scarabee-dore-manquant)
-
-Puis filtre **Scarabs** sur la carte interactive.
-
-### “Il me manque un succès”
-
-Va à : [Objectif 100%](100-percent.md#les-succestrophees-importants)
+| Besoin | Page | Quand l’ouvrir |
+| --- | --- | --- |
+| Avancer dans l’histoire | [Soluce FR](soluce.md) | Dès le début ou quand tu ne sais plus où aller |
+| Ne pas rater les secrets importants | [Secrets](secrets.md) | Après chaque nouveau pouvoir |
+| Comprendre l’ordre général | [Parcours 100%](parcours-100.md) | Tout le temps |
 
 ---
 
-## Niveau de confiance du guide
+## 2. Collecter / viser 100%
 
-- **Très fiable** : carte interactive, liste des succès, Family Home, vendeur scarabées, Wounded Heart, récompense courses.
-- **Fiable mais à préciser avec captures** : accès exact de certains souterrains, dernier scarabée selon zone, routes de chaque course.
-- **À compléter** : liste exhaustive des modules dans l’ordre exact de l’inventaire et tablettes d’histoire avec positions.
+| Besoin | Page | Utilité |
+| --- | --- | --- |
+| Tout cocher | [Objectif 100%](100-percent.md) | Checklist texte + succès |
+| Cocher dans le navigateur | [Checklist interactive](checklist-interactive.html) | Sauvegarde locale |
+| Trouver les modules | [Modules](modules.md) | Cas manquants et diagnostic |
+| Finir les courses | [Courses](courses.md) | 8 courses + récompense |
+| Exploiter les coordonnées de la map | [Extraction map](map-data.md) | Données JSON/CSV expliquées |
+
+---
+
+## 3. Débloquer une situation
+
+| Problème | Aller directement à |
+| --- | --- |
+| Module manquant malgré 100% carte | [Dépannage — module manquant](depannage.md#module-manquant-malgre-100-carte) |
+| Succès Suréquipément / Overstuffed bloqué | [Dépannage — Overstuffed](depannage.md#succes-surequipement-overstuffed) |
+| Wounded Heart introuvable | [Dépannage — Wounded Heart](depannage.md#wounded-heart--coeur-blesse-introuvable) |
+| Scarabée doré manquant | [Dépannage — scarabée](depannage.md#scarabee-dore-manquant) |
+| Course manquante | [Courses](courses.md) |
+| Besoin d’une vidéo ou image | [Cartes et ressources](cartes.md) |
+
+---
+
+## 4. Vérifier les sources / données
+
+| Page | Contenu |
+| --- | --- |
+| [Sources](sources.md) | Sources principales et discussions utiles |
+| [Recherche deep](recherche-deep.md) | Notes de fiabilité, confirmations, gaps |
+| [Extraction map](map-data.md) | Résumé humain des exports de la carte |
+| [Données brutes](../data/README.md) | CSV/JSON générés |
+| [Captures](captures.md) | Plan des captures à produire/annoter |
+
+---
+
+## Ressource externe à garder ouverte
+
+Carte interactive : <https://minishoot-map.github.io/>
+
+Méthode recommandée : activer **un seul filtre à la fois**.
+
+Ordre conseillé :
+
+1. Modules & Skills
+2. Scarabs
+3. Race spirits
+4. Heart crystals
+5. Energy upgrades
+6. Map & Lore fragments
+
+---
+
+## Niveau de confiance
+
+- **Très fiable** : extraction de la carte interactive, succès, Family Home, vendeur scarabées, Wounded Heart, récompense courses.
+- **Fiable mais à illustrer** : routes exactes de certaines caves/courses.
+- **À compléter** : captures annotées maison et noms FR/EN exacts de tous les objets.

@@ -9,37 +9,60 @@
 
 ## Commencer ici
 
-➡ **[Navigation rapide du guide](docs/README.md)**
+➡ **[Navigation rapide du guide](docs/README.md)**  
+➡ **[Parcours 100% étape par étape](docs/parcours-100.md)**
 
-C’est le hub principal : il indique quoi lire selon ton besoin.
+Le premier est le hub. Le second donne l’ordre exact de lecture/action si tu veux finir le jeu proprement.
 
 ---
 
 ## Sommaire par usage
 
-### Je découvre le jeu
+### 1. Jouer / progresser
 
+- [Parcours 100% étape par étape](docs/parcours-100.md)
 - [Soluce FR — progression conseillée](docs/soluce.md)
 - [Secrets et objets faciles à rater](docs/secrets.md)
-- [Les 8 courses](docs/courses.md)
 
-### Je vise le 100%
+### 2. Collecter / terminer
 
 - [Objectif 100% et succès](docs/100-percent.md)
-- [Checklist interactive](docs/checklist-interactive.html)
 - [Guide des modules](docs/modules.md)
+- [Les 8 courses](docs/courses.md)
+- [Checklist interactive](docs/checklist-interactive.html)
 
-### Je suis bloqué
+### 3. Diagnostiquer / retrouver
 
 - [Dépannage — dernier objet/module manquant](docs/depannage.md)
 - [Cartes, vidéos et ressources](docs/cartes.md)
+- [Extraction de la carte interactive](docs/map-data.md)
 - [Captures et repères visuels](docs/captures.md)
 
-### Je veux vérifier les sources
+### 4. Vérifier / maintenir
 
 - [Notes de sources](docs/sources.md)
 - [Journal de recherche deep](docs/recherche-deep.md)
-- [Extraction de la carte interactive](docs/map-data.md)
+- [Données extraites](data/README.md)
+
+---
+
+## Structure du repo
+
+```text
+README.md                 # accueil rapide
+docs/README.md            # hub principal
+docs/parcours-100.md      # ordre de lecture/action
+docs/soluce.md            # progression histoire
+docs/secrets.md           # secrets faciles à rater
+docs/modules.md           # modules et cas manquants
+docs/courses.md           # 8 courses
+docs/100-percent.md       # checklist 100% / succès
+docs/depannage.md         # diagnostic des blocages
+docs/cartes.md            # cartes, vidéos, ressources
+docs/map-data.md          # résumé de l’extraction map
+data/map-extract/         # exports JSON/CSV bruts
+scripts/extract-map-data.mjs # régénération des exports
+```
 
 ---
 
@@ -96,7 +119,7 @@ Voir : [Dépannage](docs/depannage.md)
 
 ## Statut du guide
 
-Le guide est maintenant organisé en **v2 structurée** : il est utile pour finir le jeu et diagnostiquer les derniers blocages.
+Le guide est organisé autour de 4 usages : **progresser**, **collecter**, **diagnostiquer**, **vérifier les sources**.
 
 À compléter ensuite :
 
