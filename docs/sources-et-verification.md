@@ -55,7 +55,7 @@
 
 ---
 
-## Pages de synthèse locales
+## Pages liées
 
 - [Recherche deep complète](recherche-deep-complete.md)
 - [Recherche deep — les 8 courses](recherche-courses-deep.md)
@@ -64,7 +64,7 @@
 
 ---
 
-## À compléter plus tard
+## Captures et validations utiles
 
 - captures annotées maison pour chaque course ;
 - routes précises des donjons avec mini-cartes ;

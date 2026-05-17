@@ -1,6 +1,6 @@
 # 🪲 Scarabées dorés
 
-> Page claire pour retrouver les 18 scarabées dorés.
+> Les 18 scarabées dorés, avec zones, coordonnées et objets internes.
 >
 > 🗺️ Données issues de la carte interactive : référence absolue pour coordonnées, catégories et quantités.
 

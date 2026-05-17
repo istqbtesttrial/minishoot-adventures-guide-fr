@@ -127,23 +127,19 @@ Une extraction locale du repo `minishoot-map.github.io` a été générée dans 
 
 ---
 
-## ⚠️ Gaps encore ouverts
+## ⚠️ Points à confirmer avec captures maison
 
-À creuser dans une prochaine passe ou avec screenshots in-game :
-
-1. liste exhaustive des modules dans l’ordre exact de l’inventaire
+1. ordre exact des modules dans l’inventaire
 2. nom FR exact de chaque module si disponible en jeu
-3. position exacte de chaque race #1 à #8 avec capture annotée
-4. liste complète des tablettes d’histoire
-5. nombre exact de scarabées dorés et découpage par zone
-6. vérification de la récompense finale des courses avec nom exact FR/EN
-7. capture maison de la Family Home, du pedestal et du temple Wounded Heart
+3. captures annotées de chaque race #1 à #8
+4. captures annotées des tablettes d’histoire
+5. captures annotées des scarabées dorés difficiles
+6. récompense finale des courses avec nom exact FR/EN
+7. captures de la Family Home, du pedestal et du temple Wounded Heart
 
 ---
 
-## 🧭 Décision éditoriale
-
-Pour éviter de surpromettre, le guide doit :
+## 🧭 Règles de fiabilité
 
 - dire “confirmé” seulement quand une source solide ou plusieurs retours convergent
 - garder les emplacements ultra-précis dans la carte interactive tant qu’on n’a pas nos propres captures

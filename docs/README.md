@@ -1,86 +1,85 @@
-# 📚 Sommaire complet — Guide Minishoot' Adventures FR
+# 📚 Guide Minishoot' Adventures FR
 
-> Cette page est le hub principal. Tout est rangé par besoin : progresser, collecter, finir à 100%, dépanner ou vérifier les données.
->
-> 🗺️ **Règle de base :** la carte interactive fait foi pour les emplacements, coordonnées, catégories, quantités et objets placés. Les pages du guide expliquent ensuite comment y accéder.
+> 🗺️ **Règle de base :** la carte interactive fait foi pour les emplacements, coordonnées, catégories, quantités et objets placés. Les pages du guide expliquent les chemins, conditions, secrets et retours importants.
 
 ---
 
-## 🚀 Lecture rapide
+## 🚀 Accès rapide
 
 | Besoin | Page |
 | --- | --- |
-| Route complète pour finir le jeu | [🧭 Parcours 100%](parcours-100.md) |
+| Route complète | [🧭 Parcours 100%](parcours-100.md) |
 | Progression histoire | [🧭 Soluce progression](soluce.md) |
-| Tout cocher | [✅ Checklist 100%](checklist-100-pourcent.md) |
+| Checklist finale | [✅ Checklist 100%](checklist-100-pourcent.md) |
 | Modules et pouvoirs | [🧩 Modules et skills](modules-et-skills.md) |
 | Vie et énergie | [❤️ Cœurs et énergie](coeurs-et-energie.md) |
 | Courses | [🏁 Courses et race spirits](courses-et-race-spirits.md) |
-| Recherche approfondie générale | [🔎 Recherche deep complète](recherche-deep-complete.md) |
-| Recherche approfondie courses | [🔎 Recherche deep — les 8 courses](recherche-courses-deep.md) |
 | Scarabées | [🪲 Scarabées dorés](scarabees-dores.md) |
 | Carte, lore, clés | [🗺️ Cartes, lore et clés](cartes-lore-et-cles.md) |
-| Problème / objet manquant | [🛠️ Dépannage](depannage-problemes-frequents.md) |
+| Secrets | [🧱 Secrets](secrets.md) |
+| Objet manquant / succès bloqué | [🛠️ Dépannage](depannage-problemes-frequents.md) |
+| Sources | [🔎 Sources et vérification](sources-et-verification.md) |
 | Données CSV | [📊 Données techniques](donnees-techniques.md) |
 
 ---
 
-## 1. Jouer / progresser
+## 🧭 Progression
 
-| Page | Utilité |
+| Page | Contenu |
 | --- | --- |
-| [🎮 Guide visuel rapide](guide-visuel.md) | pictos + filtres importants |
+| [🎮 Guide visuel rapide](guide-visuel.md) | filtres de carte, pictos, ressources utiles |
 | [🧭 Parcours 100%](parcours-100.md) | ordre conseillé du début au post-game |
-| [🧭 Soluce progression](soluce.md) | avancer dans l’histoire |
-| [🧱 Secrets faciles à rater](secrets.md) | éviter les oublis classiques |
-| [🗺️ Cartes et ressources](cartes.md) | cartes, vidéos, liens utiles |
+| [🧭 Soluce progression](soluce.md) | histoire, donjons, retours importants |
+| [🧱 Secrets](secrets.md) | Family Home, Wounded Heart, barde, vraie fin |
+| [🗺️ Cartes et ressources](cartes.md) | cartes, vidéos, liens externes |
 
 ---
 
-## 2. Collectibles / objets
+## 🧩 Collectibles
 
-| Page claire | Contenu |
+| Page | Contenu |
 | --- | --- |
 | [🧩 Modules et skills](modules-et-skills.md) | 17 modules, 4 skills, upgrades liés |
 | [❤️ Cœurs et énergie](coeurs-et-energie.md) | 28 cœurs / HP + 8 énergie |
-| [🏁 Courses et race spirits](courses-et-race-spirits.md) | 8 race spirits + timers internes |
-| [🔎 Recherche deep — les 8 courses](recherche-courses-deep.md) | infos web, course #2, reward, sources |
+| [🏁 Courses et race spirits](courses-et-race-spirits.md) | 8 race spirits + récompense finale |
 | [🪲 Scarabées dorés](scarabees-dores.md) | 18 scarabées avec coordonnées |
 | [🗺️ Cartes, lore et clés](cartes-lore-et-cles.md) | fragments de carte, tablettes lore, clés |
 
 ---
 
-## 3. 100% / succès
+## ✅ 100% et succès
 
 | Page | Contenu |
 | --- | --- |
-| [✅ Checklist 100%](checklist-100-pourcent.md) | checklist texte complète |
-| [✅ Checklist interactive](checklist-interactive.html) | checklist locale navigateur |
-| [🛠️ Dépannage](depannage-problemes-frequents.md) | modules manquants, succès bloqués, scarabées, courses |
+| [✅ Checklist 100%](checklist-100-pourcent.md) | objectifs, succès, collectibles, post-game |
+| [✅ Objectif 100%](100-percent.md) | vue courte des dernières vérifications |
+| [✅ Checklist interactive](checklist-interactive.html) | checklist navigateur locale |
+| [🛠️ Dépannage](depannage-problemes-frequents.md) | modules manquants, courses, succès, scarabées |
 
 ---
 
-## 4. Données / sources
+## 🔎 Recherche et sources
 
 | Page | Contenu |
 | --- | --- |
-| [📊 Données techniques](donnees-techniques.md) | explication claire des CSV |
-| [📊 Extraction map complète](map-data.md) | gros résumé technique de l’extraction |
+| [🔎 Recherche complète](recherche-deep-complete.md) | synthèse globale des sources |
+| [🔎 Recherche courses](recherche-courses-deep.md) | course #2, 8 races, récompense finale |
+| [🔎 Journal de recherche](recherche-deep.md) | notes détaillées de validation |
+| [🔎 Sources et vérification](sources-et-verification.md) | liens, hiérarchie des sources, fiabilité |
+| [🔎 Notes de sources](sources.md) | sources communautaires et cas utiles |
+
+---
+
+## 📊 Données
+
+| Page | Contenu |
+| --- | --- |
+| [📊 Données techniques](donnees-techniques.md) | explication des CSV et compteurs |
+| [📊 Extraction map complète](map-data.md) | extraction détaillée de la carte |
+| [📊 Données par catégorie](donnees-claires.md) | accès rapide aux catégories d’objets |
 | [📊 Données brutes](../data/README.md) | dossier CSV/JSON |
-| [🔎 Recherche deep complète](recherche-deep-complete.md) | synthèse globale de toutes les sources |
-| [🔎 Sources et vérification](sources-et-verification.md) | liens, confiance, choses à vérifier |
 | [🎯 Pictogrammes](pictogrammes.md) | légende des icônes |
-| [🖼️ Icônes extraites](assets/map-icons/README.md) | index des images de la map |
-
----
-
-## 🧠 Règle simple
-
-- Tu veux avancer → [Soluce progression](soluce.md)
-- Tu veux finir proprement → [Parcours 100%](parcours-100.md)
-- Tu veux vérifier les objets → pages de la section **Collectibles**
-- Tu es bloqué → [Dépannage](depannage-problemes-frequents.md)
-- Tu veux les coordonnées brutes → [Données techniques](donnees-techniques.md)
+| [🖼️ Icônes extraites](assets/map-icons/README.md) | index des icônes de la carte |
 
 ---
 
@@ -88,11 +87,11 @@
 
 1. Ouvre <https://minishoot-map.github.io/>
 2. Active un seul filtre
-3. Ouvre la page claire correspondante :
+3. Va sur la page correspondante :
    - Modules → [Modules et skills](modules-et-skills.md)
    - Cœurs / énergie → [Cœurs et énergie](coeurs-et-energie.md)
    - Courses → [Courses et race spirits](courses-et-race-spirits.md)
    - Scarabées → [Scarabées dorés](scarabees-dores.md)
    - Carte / lore / clés → [Cartes, lore et clés](cartes-lore-et-cles.md)
 4. Nettoie zone par zone
-5. Coche dans [Checklist 100%](checklist-100-pourcent.md)
+5. Termine avec [Checklist 100%](checklist-100-pourcent.md)

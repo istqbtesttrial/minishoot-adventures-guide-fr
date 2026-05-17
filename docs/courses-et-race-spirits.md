@@ -1,6 +1,6 @@
 # 🏁 Courses et race spirits
 
-> Page claire pour voir les 8 courses et les données liées.  
+> Les 8 courses et les race spirits, avec données, pièges et récompense finale.  
 > Recherche approfondie : [🔎 Recherche deep — les 8 courses](recherche-courses-deep.md)
 >
 > 🗺️ La carte interactive fait foi pour les 8 race spirits et leurs emplacements ; les sources web expliquent surtout l’accès et les pièges.

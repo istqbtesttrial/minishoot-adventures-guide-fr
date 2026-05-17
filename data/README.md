@@ -6,9 +6,9 @@ Ce dossier contient les exports structurés utilisés par le guide.
 
 ## À lire d’abord
 
-Pour une lecture humaine, n’ouvre pas les CSV directement : utilise les pages claires.
+Pour une lecture humaine, n’ouvre pas les CSV directement : utilise les pages du guide.
 
-| Besoin | Page claire |
+| Besoin | Page |
 | --- | --- |
 | Modules / skills | [`../docs/modules-et-skills.md`](../docs/modules-et-skills.md) |
 | Cœurs / énergie | [`../docs/coeurs-et-energie.md`](../docs/coeurs-et-energie.md) |
@@ -40,4 +40,4 @@ Fichiers les plus utiles :
 - `regular_keys.csv` — clés normales
 - `entrances.csv` — entrées/transitions
 
-Ces fichiers sont bruts : ils donnent les coordonnées et objets internes. Les explications humaines sont dans les pages `docs/`.
+Ces fichiers donnent les coordonnées et objets internes. Les explications de progression, conditions et retours joueurs sont dans les pages `docs/`.

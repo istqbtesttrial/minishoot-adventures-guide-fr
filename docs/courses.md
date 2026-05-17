@@ -1,25 +1,24 @@
 # 🏁 Les 8 courses
 
-> Page ancienne conservée pour compatibilité.  
-> La version principale et mise à jour est maintenant : [Courses et race spirits](courses-et-race-spirits.md).
+> Accès rapide aux informations sur les courses et les race spirits.
 >
 > 🗺️ Pour les emplacements exacts, la carte interactive est la source absolue.
 
 ---
 
-## À lire maintenant
+## Pages utiles
 
-- [🏁 Courses et race spirits](courses-et-race-spirits.md) — page claire joueur
-- [🔎 Recherche deep — les 8 courses](recherche-courses-deep.md) — toutes les sources et détails
+- [🏁 Courses et race spirits](courses-et-race-spirits.md) — emplacements, données et checklist
+- [🔎 Recherche courses](recherche-courses-deep.md) — sources, course #2, récompense finale
 - [🛠️ Dépannage courses](depannage-problemes-frequents.md#derniere-course-manquante)
 
 ---
 
-## Résumé rapide
+## Résumé
 
 - Il y a **8 courses / race spirits**.
 - La **course #2** est la plus cachée : tour avec symbole de **3 slimes**.
-- Les courses deviennent plus simples avec Move Speed / boost / réallocation des points.
+- Move Speed, boost et réallocation des points aident beaucoup.
 - Après les 8 courses, il faut récupérer la **récompense finale**.
 - Cette récompense est liée aux extras / post-game.
 

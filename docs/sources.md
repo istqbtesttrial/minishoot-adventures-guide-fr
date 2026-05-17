@@ -2,7 +2,7 @@
 
 > Légende des pictos : [Pictogrammes du guide](pictogrammes.md)
 
-Ce repo s’appuie principalement sur la carte interactive, puis sur des sources communautaires reformulées en français pratique. Le but n’est pas de recopier les contenus externes, mais de croiser les indices récurrents pour aider au 100%.
+Le guide s’appuie principalement sur la carte interactive, puis sur des sources communautaires reformulées en français pratique. Le but n’est pas de recopier les contenus externes, mais de croiser les indices récurrents pour aider au 100%.
 
 > 🗺️ Hiérarchie : carte interactive = source absolue pour emplacements/quantités/catégories ; sources communautaires = explications de chemin, conditions, secrets et pièges.
 
@@ -14,7 +14,7 @@ Ce repo s’appuie principalement sur la carte interactive, puis sur des sources
 
 - <https://minishoot-map.github.io/>
 
-Utilisée pour orienter la méthode de nettoyage : modules/skills, scarabées, courses, coeurs, énergie, points d’intérêt.
+Référence absolue pour les emplacements, coordonnées, catégories, quantités et objets placés : modules/skills, scarabées, courses, cœurs, énergie, points d’intérêt.
 
 ### Guide illustré communautaire
 
@@ -100,13 +100,11 @@ Utiles seulement pour contexte général, pas pour les emplacements.
 
 ---
 
-## ⚠️ Informations encore à vérifier précisément
+## ⚠️ Points à confirmer avec captures maison
 
-À compléter dans une prochaine passe :
-
-- liste exhaustive des modules avec ordre exact dans l’inventaire
-- position exacte de chaque course en coordonnées/carte
-- liste complète des tablettes d’histoire
-- nombre exact et position des scarabées dorés
-- confirmation exacte de la récompense des 8 courses selon langue/version
-- captures maison annotées pour Family Home, Wounded Heart et récompense courses
+- ordre exact des modules dans l’inventaire
+- captures annotées de chaque course
+- captures annotées des tablettes d’histoire
+- captures annotées des scarabées dorés difficiles
+- nom exact FR/EN de la récompense des 8 courses selon version
+- captures maison pour Family Home, Wounded Heart et récompense courses

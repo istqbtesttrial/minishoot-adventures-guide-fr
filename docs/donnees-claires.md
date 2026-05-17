@@ -1,16 +1,14 @@
-# 📚 Données claires
+# 📚 Données par catégorie
 
-> Ancienne page unique remplacée par plusieurs pages plus lisibles.
+> Accès rapide aux exports de la carte interactive.
 >
 > 🗺️ Les données extraites de la carte interactive sont la référence absolue pour les emplacements, coordonnées, catégories, quantités et objets placés.
 
-Les données CSV sont maintenant séparées par catégorie pour que tu puisses tout voir plus facilement.
-
 ---
 
-## Pages claires par catégorie
+## Catégories principales
 
-| Catégorie | Page claire | CSV principal |
+| Catégorie | Page | CSV principal |
 | --- | --- | --- |
 | 🧩 Modules et skills | [Modules et skills](modules-et-skills.md) | `modules_and_skills.csv` |
 | ❤️ Cœurs / HP | [Cœurs et énergie](coeurs-et-energie.md) | `heart_crystals.csv` |
@@ -22,7 +20,7 @@ Les données CSV sont maintenant séparées par catégorie pour que tu puisses t
 
 ---
 
-## Résumé rapide
+## Compteurs rapides
 
 | Catégorie | Nombre |
 | --- | ---: |
@@ -39,6 +37,8 @@ Les données CSV sont maintenant séparées par catégorie pour que tu puisses t
 
 ---
 
-## Sommaire complet
+## Navigation
 
-Retour au [sommaire du guide](README.md).
+- [Sommaire du guide](README.md)
+- [Données techniques](donnees-techniques.md)
+- [Extraction map complète](map-data.md)
