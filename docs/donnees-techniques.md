@@ -1,6 +1,8 @@
 # 📊 Données techniques et CSV
 
 > Page pour comprendre les fichiers bruts générés depuis la carte interactive.
+>
+> Pour les emplacements, catégories, quantités et objets placés, ces données sont la **référence absolue** du guide.
 
 ## Source
 

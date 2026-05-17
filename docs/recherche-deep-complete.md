@@ -9,7 +9,7 @@
 | Source | Informations récupérées |
 | --- | --- |
 | Guide YAL / YellowAfterlife | progression donjons, cartes, courses, secrets, finale, extras |
-| Carte interactive `minishoot-map.github.io` | coordonnées et catégories brutes |
+| Carte interactive `minishoot-map.github.io` | référence absolue : coordonnées, catégories, quantités, objets placés |
 | NationHive FR | liste des 34 succès FR |
 | TrueSteamAchievements | noms EN / liste succès |
 | Steam discussions | modules manquants, Family Home, Wounded Heart, course #2 |
@@ -25,7 +25,8 @@
 - Les succès de difficulté dépendent de la **plus basse difficulté utilisée sur la sauvegarde**.
 - Le mode de visée / aiming mode n’affecte pas les succès.
 - Les courses donnent un objet utile avant la fin et un accès important aux extras après le boss final.
-- La carte interactive est la meilleure source pour les coordonnées, mais elle ne remplace pas les retours PNJ / récompenses différées.
+- La carte interactive est la **référence absolue** pour les objets placés, coordonnées, catégories et quantités.
+- Les guides, discussions et vidéos servent à expliquer le chemin, les conditions, les retours PNJ, les récompenses différées et les pièges, mais ne doivent pas contredire la carte interactive.
 
 ---
 

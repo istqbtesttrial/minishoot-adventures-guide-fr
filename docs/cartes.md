@@ -4,9 +4,11 @@
 
 ---
 
-## 🗺️ Carte interactive — ressource n°1
+## 🗺️ Carte interactive — référence absolue
 
 <https://minishoot-map.github.io/>
+
+C’est la source qui fait foi pour : coordonnées, catégories, quantités et objets placés.
 
 Sert à trouver : modules, skills, cœurs, énergie, scarabées, race spirits, cartes, lore, entrées, tunnels, etc.
 
@@ -102,7 +104,7 @@ GodIsAGeek — Move Speed : <https://godisageek.com/2024/04/minishoot-adventures
 
 Si tu ne dois garder que 5 onglets ouverts :
 
-1. <https://minishoot-map.github.io/>
+1. <https://minishoot-map.github.io/> — source absolue
 2. [Checklist 100%](checklist-100-pourcent.md)
 3. [Soluce](soluce.md)
 4. [Dépannage](depannage-problemes-frequents.md)

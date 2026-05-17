@@ -1,6 +1,8 @@
 # 🎮 Guide visuel rapide — Minishoot' Adventures
 
 > Quoi chercher, avec quel filtre, et quelle page ouvrir.
+>
+> La carte interactive est la **référence absolue** pour les emplacements, coordonnées, catégories et quantités.
 
 🗺️ Carte interactive : <https://minishoot-map.github.io/>  
 📚 Sommaire : [README](README.md)

@@ -28,17 +28,28 @@
 
 ---
 
+## Hiérarchie des sources
+
+| Niveau | Source | Règle d’utilisation |
+| --- | --- | --- |
+| 1 — référence absolue | Carte interactive + données extraites de la carte | fait foi pour les objets placés, coordonnées, catégories et quantités |
+| 2 — source de progression | Guide YAL / YellowAfterlife | utilisé pour expliquer le chemin, les retours et les secrets, sans contredire la carte |
+| 3 — compléments joueurs | Steam / Reddit / vidéos | utilisé pour les pièges, bugs, objets souvent oubliés et explications pratiques |
+| 4 — succès | NationHive / TrueSteamAchievements | utilisé pour les noms et objectifs de succès |
+
 ## Niveau de confiance
 
 | Information | Confiance | Pourquoi |
 | --- | --- | --- |
-| Coordonnées brutes | Haute | extraites de la carte interactive |
-| Nombre de cœurs / scarabées / race spirits | Haute | confirmé par CSV |
+| Coordonnées brutes | Absolue | carte interactive / données carte |
+| Catégories d’objets | Absolue | carte interactive / données carte |
+| Nombre de cœurs / scarabées / race spirits | Absolue | carte interactive + CSV extraits |
+| Liste des objets placés sur carte | Absolue | carte interactive |
 | Liste des succès FR | Haute | NationHive liste les 34 succès |
-| Courses + reward | Haute | guide YAL + données locales |
-| Course #2 / tour 3 slimes | Moyenne à haute | guide YAL + discussion Steam |
-| Family Home / chaise | Moyenne à haute | guide YAL + retours joueurs |
-| Wounded Heart | Moyenne à haute | guide YAL + discussions joueurs |
+| Courses + reward | Haute | carte + guide YAL + retours joueurs |
+| Course #2 / tour 3 slimes | Moyenne à haute | carte pour l’emplacement, sources joueurs pour l’accès détaillé |
+| Family Home / chaise | Moyenne à haute | guide YAL + retours joueurs ; événement hors simple point de carte |
+| Wounded Heart | Moyenne à haute | carte pour le lieu, sources joueurs pour l’accès / interaction |
 | Noms FR exacts de tous les modules | Moyen | certains noms viennent des données internes EN |
 | Routes ultra-précises sans capture locale | Moyen | besoin de captures annotées maison |
 
