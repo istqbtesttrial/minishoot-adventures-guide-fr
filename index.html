@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#07111f">
+  <meta name="description" content="Guide FR interactif pour terminer Minishoot' Adventures à 100% : checklist, modules, courses, scarabées, secrets et dépannage.">
+  <title>Minishoot' Adventures — Guide FR 100%</title>
+  <link rel="preconnect" href="https://minishoot-map.github.io">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <div class="orb orb-a"></div>
+  <div class="orb orb-b"></div>
+  <div class="stars" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#home" aria-label="Accueil">
+      <span class="ship-mark">◆</span>
+      <span>Minishoot FR</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-label="Ouvrir le menu" aria-expanded="false">☰</button>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#route">Parcours</a>
+      <a href="#checklist">Checklist</a>
+      <a href="#collectibles">Collectibles</a>
+      <a href="#blocage">Blocage</a>
+      <a href="#sources">Sources</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="home" class="hero section reveal">
+      <div class="hero-copy">
+        <p class="eyebrow">Guide interactif 100%</p>
+        <h1>Explore, coche, retrouve ce qui manque.</h1>
+        <p class="lead">Un petit site responsive pour suivre la progression, retrouver les collectibles et résoudre les blocages fréquents dans <strong>Minishoot' Adventures</strong>.</p>
+        <div class="hero-actions">
+          <a class="btn primary" href="#checklist">✅ Ouvrir la checklist</a>
+          <a class="btn" href="https://minishoot-map.github.io/" target="_blank" rel="noreferrer">🗺️ Carte interactive</a>
+        </div>
+        <p class="source-note">La carte interactive fait foi pour les emplacements, coordonnées, catégories, quantités et objets placés.</p>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="radar">
+          <span class="ping p1"></span>
+          <span class="ping p2"></span>
+          <span class="ping p3"></span>
+          <div class="mini-ship">▲</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="stats section reveal" aria-label="Compteurs du guide">
+      <article><strong data-count="17">0</strong><span>Modules</span></article>
+      <article><strong data-count="4">0</strong><span>Skills</span></article>
+      <article><strong data-count="28">0</strong><span>Cœurs</span></article>
+      <article><strong data-count="8">0</strong><span>Courses</span></article>
+      <article><strong data-count="18">0</strong><span>Scarabées</span></article>
+      <article><strong data-count="5">0</strong><span>Lore</span></article>
+    </section>
+
+    <section id="route" class="section reveal">
+      <div class="section-head">
+        <p class="eyebrow">Chemin conseillé</p>
+        <h2>Parcours 100%</h2>
+        <a href="docs/parcours-100.md">Lire la page complète →</a>
+      </div>
+      <div class="timeline">
+        <article><span>01</span><h3>Départ</h3><p>Explorer la zone centrale, repérer la Family Home, les murs suspects et les accès bloqués.</p></article>
+        <article><span>02</span><h3>Donjons 1–2</h3><p>Récupérer Boost, avancer vers les bois, vérifier la chapelle et Wounded Heart.</p></article>
+        <article><span>03</span><h3>Donjons 3–4</h3><p>Nettoyer tunnels, batterie cachée, désert optionnel, région ouest et égouts.</p></article>
+        <article><span>04</span><h3>Nettoyage</h3><p>Modules, cœurs, énergie, scarabées, lore, courses et récompenses PNJ.</p></article>
+        <article><span>05</span><h3>Post-game</h3><p>Bonus dungeons, arènes, vraie fin, puis Sans regarder en arrière en dernier.</p></article>
+      </div>
+    </section>
+
+    <section id="checklist" class="section reveal">
+      <div class="section-head">
+        <p class="eyebrow">Sauvegardée sur cet appareil</p>
+        <h2>Checklist interactive</h2>
+        <a href="docs/checklist-100-pourcent.md">Checklist texte →</a>
+      </div>
+      <div class="progress-card">
+        <div class="progress-meta"><strong id="progressText">0%</strong><span id="progressCount">0 / 0 cochés</span></div>
+        <div class="progress"><span id="progressBar"></span></div>
+        <div class="check-actions">
+          <button type="button" id="expandAll">Tout ouvrir</button>
+          <button type="button" id="resetChecklist" class="ghost-danger">Réinitialiser</button>
+        </div>
+      </div>
+      <div id="checklistRoot" class="checklist-grid"></div>
+    </section>
+
+    <section id="collectibles" class="section reveal">
+      <div class="section-head">
+        <p class="eyebrow">Navigation rapide</p>
+        <h2>Collectibles et pages utiles</h2>
+      </div>
+      <div class="card-grid feature-grid">
+        <a class="feature-card" href="docs/modules-et-skills.md"><span>🧩</span><h3>Modules & skills</h3><p>17 modules, 4 skills et upgrades liés.</p></a>
+        <a class="feature-card" href="docs/coeurs-et-energie.md"><span>❤️</span><h3>Cœurs & énergie</h3><p>Vie, énergie et coordonnées par zone.</p></a>
+        <a class="feature-card" href="docs/courses-et-race-spirits.md"><span>🏁</span><h3>Courses</h3><p>8 race spirits, course #2 et récompense finale.</p></a>
+        <a class="feature-card" href="docs/scarabees-dores.md"><span>🪲</span><h3>Scarabées</h3><p>18 scarabées dorés à vérifier.</p></a>
+        <a class="feature-card" href="docs/cartes-lore-et-cles.md"><span>🗺️</span><h3>Cartes, lore, clés</h3><p>Fragments, tablettes, clés normales et spéciales.</p></a>
+        <a class="feature-card" href="docs/secrets.md"><span>🧱</span><h3>Secrets</h3><p>Family Home, Wounded Heart, barde, vraie fin.</p></a>
+      </div>
+    </section>
+
+    <section id="blocage" class="section reveal">
+      <div class="section-head">
+        <p class="eyebrow">Diagnostic rapide</p>
+        <h2>Je suis bloqué</h2>
+        <a href="docs/depannage-problemes-frequents.md">Dépannage complet →</a>
+      </div>
+      <div class="search-box">
+        <label for="quickSearch">Chercher un problème</label>
+        <input id="quickSearch" type="search" placeholder="Ex. Wounded Heart, Family Home, course #2, scarabée...">
+      </div>
+      <div id="searchResults" class="results"></div>
+      <div class="quick-grid">
+        <a href="docs/depannage-problemes-frequents.md#module-manquant-malgre-100-carte">Il me manque un module</a>
+        <a href="docs/depannage-problemes-frequents.md#derniere-course-manquante">Il me manque une course</a>
+        <a href="docs/secrets.md#family-home--trouver-sa-place">Family Home</a>
+        <a href="docs/secrets.md#wounded-heart--coeur-blesse">Wounded Heart</a>
+        <a href="docs/secrets.md#sans-regarder-en-arriere">Vraie fin</a>
+        <a href="docs/checklist-100-pourcent.md#avant-de-commencer--succes-de-difficulte">Succès difficulté</a>
+      </div>
+    </section>
+
+    <section id="sources" class="section reveal">
+      <div class="section-head">
+        <p class="eyebrow">Référence</p>
+        <h2>Carte, sources et données</h2>
+      </div>
+      <div class="source-layout">
+        <article class="source-card primary-source">
+          <h3>🗺️ Carte interactive</h3>
+          <p>Source absolue pour les objets placés, coordonnées, catégories et quantités.</p>
+          <a class="btn primary" href="https://minishoot-map.github.io/" target="_blank" rel="noreferrer">Ouvrir la carte</a>
+        </article>
+        <article class="source-card">
+          <h3>🔎 Sources</h3>
+          <p>Hiérarchie des sources, liens utiles et niveau de confiance.</p>
+          <a href="docs/sources-et-verification.md">Voir les sources →</a>
+        </article>
+        <article class="source-card">
+          <h3>📊 Données</h3>
+          <p>Exports CSV/JSON de la carte interactive et compteurs techniques.</p>
+          <a href="docs/donnees-techniques.md">Voir les données →</a>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Guide FR non officiel — conçu pour GitHub Pages. Les coches restent dans le navigateur de l’appareil.</p>
+  </footer>
+
+  <script src="assets/site.js" defer></script>
+</body>
+</html>
