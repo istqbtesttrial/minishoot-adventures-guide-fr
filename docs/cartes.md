@@ -95,7 +95,21 @@ Le web chinois est l’un des rares endroits où l’on trouve encore de vraies 
 
 ---
 
-## 7. Quelle source utiliser selon ton besoin ?
+## 7. Ressources locales ajoutées
+
+### Checklist interactive
+[checklist-interactive.html](checklist-interactive.html)
+
+Utile pour suivre ton 100% sans refaire mentalement toute la liste à chaque session. Les coches restent sauvegardées dans le navigateur.
+
+### Captures et repères visuels
+[captures.md](captures.md)
+
+Liste les captures prioritaires à produire et les repères visuels à consulter dans le guide communautaire.
+
+---
+
+## 8. Quelle source utiliser selon ton besoin ?
 
 ### Il me manque un module
 ➡ carte interactive + Steam + Reddit
@@ -116,5 +130,6 @@ Le web chinois est l’un des rares endroits où l’on trouve encore de vraies 
 Si tu ne dois garder que **3 onglets ouverts** :
 
 1. <https://minishoot-map.github.io/>
-2. <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
-3. <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees>
+2. [checklist-interactive.html](checklist-interactive.html)
+3. <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>
+4. <https://www.nationhive.com/fr/jeux/minishoot-adventures/guide/trophees>

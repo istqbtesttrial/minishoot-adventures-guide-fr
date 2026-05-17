@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Checklist interactive — Minishoot' Adventures FR</title>
+  <style>
+    :root {
+      --bg: #101827;
+      --panel: #172238;
+      --panel-2: #1f2d48;
+      --text: #eef5ff;
+      --muted: #aebbd0;
+      --accent: #78f0c4;
+      --accent-2: #7aa8ff;
+      --danger: #ff8c8c;
+      --border: rgba(255,255,255,.12);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top left, #243b67, var(--bg) 45%);
+      color: var(--text);
+      line-height: 1.45;
+    }
+    main { max-width: 980px; margin: 0 auto; padding: 28px 16px 48px; }
+    header { margin-bottom: 20px; }
+    h1 { margin: 0 0 8px; font-size: clamp(1.8rem, 4vw, 3rem); }
+    h2 { margin: 0; font-size: 1.2rem; }
+    a { color: var(--accent); }
+    .sub { color: var(--muted); max-width: 760px; }
+    .toolbar, section {
+      background: rgba(23,34,56,.88);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      box-shadow: 0 20px 60px rgba(0,0,0,.25);
+    }
+    .toolbar { padding: 16px; margin: 18px 0; position: sticky; top: 0; z-index: 3; backdrop-filter: blur(10px); }
+    .progress-wrap { height: 14px; background: #0b1220; border-radius: 99px; overflow: hidden; border: 1px solid var(--border); }
+    .progress-bar { height: 100%; width: 0%; background: linear-gradient(90deg, var(--accent), var(--accent-2)); transition: width .2s ease; }
+    .toolbar-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 12px; }
+    button, .link-button {
+      border: 1px solid var(--border);
+      background: var(--panel-2);
+      color: var(--text);
+      padding: 10px 12px;
+      border-radius: 12px;
+      cursor: pointer;
+      font-weight: 700;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    button:hover, .link-button:hover { border-color: var(--accent); }
+    button.danger { color: #341010; background: var(--danger); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+    section { padding: 16px; }
+    section h2 { display: flex; justify-content: space-between; gap: 10px; align-items: baseline; margin-bottom: 10px; }
+    .count { color: var(--muted); font-size: .9rem; }
+    label {
+      display: grid;
+      grid-template-columns: 24px 1fr;
+      gap: 10px;
+      padding: 10px;
+      border-radius: 12px;
+      border: 1px solid transparent;
+    }
+    label:hover { background: rgba(255,255,255,.04); border-color: var(--border); }
+    input[type="checkbox"] { width: 18px; height: 18px; margin-top: 2px; accent-color: var(--accent); }
+    .item-title { font-weight: 700; }
+    .item-note { color: var(--muted); font-size: .9rem; margin-top: 2px; }
+    .done .item-title { text-decoration: line-through; color: var(--muted); }
+    footer { color: var(--muted); margin-top: 22px; font-size: .95rem; }
+    @media print {
+      body { background: white; color: black; }
+      .toolbar { position: static; }
+      button, .link-button { display: none; }
+      section, .toolbar { box-shadow: none; border-color: #ccc; }
+      .sub, .item-note, footer, .count { color: #444; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Checklist interactive — Minishoot' Adventures</h1>
+      <p class="sub">Checklist FR pour viser le 100%. Les coches sont sauvegardées localement dans ton navigateur. Tu peux l’ouvrir depuis GitHub Pages ou en local.</p>
+    </header>
+
+    <div class="toolbar" aria-live="polite">
+      <strong id="summary">0 / 0 validés</strong>
+      <div class="progress-wrap" aria-label="Progression"><div class="progress-bar" id="bar"></div></div>
+      <div class="toolbar-row">
+        <button id="checkAll">Tout cocher</button>
+        <button id="uncheckAll">Tout décocher</button>
+        <button id="reset" class="danger">Réinitialiser</button>
+        <a class="link-button" href="100-percent.md">Guide 100%</a>
+        <a class="link-button" href="modules.md">Modules</a>
+        <a class="link-button" href="https://minishoot-map.github.io/">Carte interactive</a>
+      </div>
+    </div>
+
+    <div class="grid" id="checklist"></div>
+
+    <footer>
+      Sources croisées : carte interactive, guide illustré communautaire, NationHive, discussions Steam/Reddit. Voir <a href="sources.md">sources.md</a>.
+    </footer>
+  </main>
+
+  <script>
+    const STORAGE_KEY = 'minishoot-guide-fr-checklist-v1';
+    const groups = [
+      {
+        title: 'Progression principale',
+        items: [
+          ['d1', 'Donjon 1 terminé', 'Boost récupéré et zone de départ revisitée.'],
+          ['d2', 'Donjon 2 terminé', 'Détour sud/est compris, temple suspect vérifié.'],
+          ['d3', 'Donjon 3 terminé', 'Braziers/objectifs validés, batterie cachée recherchée.'],
+          ['desert', 'Donjon optionnel du désert terminé', 'Pouvoir/objet et scarabée récupérés.'],
+          ['d4', 'Donjon 4 terminé', 'Région ouest, bâtiment caché et souterrains fouillés.'],
+          ['finalBoss', 'Boss final battu', 'Checkpoint final utilisé si besoin.']
+        ]
+      },
+      {
+        title: 'Modules et récompenses',
+        items: [
+          ['familyHome', 'Family Home vérifiée', 'Retour maison familiale après sauvetages.'],
+          ['familyScene', 'Famille réunie / scène déclenchée', 'Se placer/interagir au bon endroit.'],
+          ['woundedHeart', 'Wounded Heart / Coeur Blessé trouvé', 'Temple sud-ouest, passage près de l’autel.'],
+          ['beetleReward', 'Récompense scarabées récupérée', 'Reparler au vendeur/robot après derniers scarabées.'],
+          ['raceReward', 'Récompense des 8 courses récupérée', 'Ne pas oublier le retour final.'],
+          ['allModules', 'Tous les modules obtenus', 'Succès Suréquipément validé ou prêt à pop.']
+        ]
+      },
+      {
+        title: 'Collectibles',
+        items: [
+          ['allBeetles', 'Tous les scarabées dorés', 'Succès Ô Grand Primordial.'],
+          ['allRaces', 'Les 8 courses gagnées', 'Succès Plus rapide que vous tous !'],
+          ['allTablets', 'Toutes les tablettes lues', 'Succès Passion pour l’Histoire.'],
+          ['mapsBought', 'Cartes / fragments importants achetés', 'Aide au nettoyage final.'],
+          ['heartsEnergy', 'Coeurs / énergie majeurs récupérés', 'Confort pour boss et arènes.']
+        ]
+      },
+      {
+        title: 'Secrets et zones à risque',
+        items: [
+          ['d2Optional', 'Bâtiment optionnel zone Donjon 2', 'Zone souvent skippée.'],
+          ['d3Battery', 'Batterie cachée près course Donjon 3', 'Mur caché proche piste de contre-la-montre.'],
+          ['westBuilding', 'Bâtiment caché région ouest', 'Pouvoir, bouton et scarabée cachés.'],
+          ['sewers', 'Égouts / souterrains fouillés', 'Plusieurs objets dans les passages.'],
+          ['fallHoles', 'Trous/chutes suspects revisités', 'Certains accès dépendent du bon trou.']
+        ]
+      },
+      {
+        title: 'Post-game / succès finaux',
+        items: [
+          ['bonusDungeon', 'Donjon bonus terminé', 'Accès lié à la récompense des courses.'],
+          ['arenaAll', 'Tous les niveaux d’arène terminés', 'Succès Pour la Gloire ?'],
+          ['arenaFiveHearts', 'Arènes avec au moins 5 coeurs restants', 'Succès C’est fini maintenant.'],
+          ['difficulty', 'Succès difficulté vérifiés', 'Attention à la plus basse difficulté utilisée.'],
+          ['withoutLookingBack', 'Sans regarder en arrière', 'À faire tout à la fin seulement.']
+        ]
+      }
+    ];
+
+    const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+    const root = document.getElementById('checklist');
+
+    function render() {
+      root.innerHTML = '';
+      for (const group of groups) {
+        const section = document.createElement('section');
+        const checkedCount = group.items.filter(([id]) => saved[id]).length;
+        section.innerHTML = `<h2><span>${group.title}</span><span class="count">${checkedCount}/${group.items.length}</span></h2>`;
+        for (const [id, title, note] of group.items) {
+          const label = document.createElement('label');
+          if (saved[id]) label.classList.add('done');
+          label.innerHTML = `
+            <input type="checkbox" data-id="${id}" ${saved[id] ? 'checked' : ''}>
+            <span><span class="item-title">${title}</span><span class="item-note">${note}</span></span>
+          `;
+          section.appendChild(label);
+        }
+        root.appendChild(section);
+      }
+      updateProgress();
+    }
+
+    function updateProgress() {
+      const total = groups.flatMap(g => g.items).length;
+      const done = groups.flatMap(g => g.items).filter(([id]) => saved[id]).length;
+      const pct = total ? Math.round(done / total * 100) : 0;
+      document.getElementById('summary').textContent = `${done} / ${total} validés — ${pct}%`;
+      document.getElementById('bar').style.width = pct + '%';
+    }
+
+    root.addEventListener('change', (event) => {
+      const id = event.target.dataset.id;
+      if (!id) return;
+      saved[id] = event.target.checked;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+      render();
+    });
+
+    document.getElementById('checkAll').addEventListener('click', () => {
+      for (const [id] of groups.flatMap(g => g.items)) saved[id] = true;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+      render();
+    });
+    document.getElementById('uncheckAll').addEventListener('click', () => {
+      for (const [id] of groups.flatMap(g => g.items)) saved[id] = false;
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(saved));
+      render();
+    });
+    document.getElementById('reset').addEventListener('click', () => {
+      if (!confirm('Réinitialiser toute la checklist ?')) return;
+      localStorage.removeItem(STORAGE_KEY);
+      for (const key of Object.keys(saved)) delete saved[key];
+      render();
+    });
+
+    render();
+  </script>
+</body>
+</html>

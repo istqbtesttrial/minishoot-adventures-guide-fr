@@ -1,166 +1,160 @@
 # Guide des modules
 
-> Le succès/trophée **Suréquipément / Overstuffed** demande de **trouver tous les modules**. C’est aussi l’un des objectifs les plus flous du jeu, car la communauté emploie parfois des noms différents selon la langue ou la plateforme.
-
-Ce document sépare donc deux choses :
-
-1. les **modules / cas confirmés par la communauté**
-2. la **méthode la plus fiable** pour ne rien rater
+> Le succès/trophée **Suréquipément / Overstuffed** demande de **trouver tous les modules**. C’est l’un des objectifs les plus flous du jeu, car la carte peut afficher 100% alors qu’un module lié à un retour PNJ ou à une récompense n’a pas encore été pris.
 
 ---
 
 ## Ce qu’il faut savoir avant tout
 
-Les modules sont les **collectibles affichés à droite dans l’inventaire**.
+Les modules sont les collectibles affichés à droite dans l’inventaire.
 
-D’après des retours communautaires, il arrive que :
-- le jeu semble à **100% sur la carte**, mais qu’un module manque encore
-- le succès n’apparaisse pas immédiatement
-- un module soit lié à une **condition de retour** (famille, scarabées, course, etc.)
+D’après les retours communautaires :
 
-Donc : **100% carte ≠ 100% modules garanti**.
+- **100% carte ≠ 100% modules garanti**
+- certains modules viennent d’un retour à la maison/famille
+- certains viennent d’une récompense après scarabées ou courses
+- le succès peut parfois se déclencher après changement d’écran, combat, coup reçu ou actualisation d’état
 
----
-
-## Modules / cas confirmés par la communauté
-
-### 1. Enchanted Heart
-
-C’est l’un des modules les plus souvent manqués.
-
-**Comment l’obtenir :**
-- réunis / sauve toute la famille
-- retourne à la **maison principale** dans la zone de départ / ville principale
-- interagis avec la scène familiale / la table selon ta progression
-
-**Pourquoi il est souvent raté :**
-- beaucoup de joueurs pensent avoir déjà fini la zone
-- l’événement dépend d’un retour après progression
-
-Des joueurs Reddit/Steam le citent comme **leur dernier module manquant**.
+Donc si tu es bloqué : ne cherche pas seulement un point sur la carte. Vérifie aussi les **récompenses non réclamées**.
 
 ---
 
-### 2. Enchanted Powers
+## Les modules / cas les plus souvent ratés
 
-Module cité par la communauté comme venant du **vendeur de scarabées** dans la ville principale.
+### 1. Family Home / maison familiale
 
-**À vérifier :**
-- rends tous les scarabées demandés
-- reparle au vendeur / PNJ de récompense
-
-**Pourquoi il est souvent raté :**
-- on termine les derniers scarabées mais on oublie de revenir réclamer la récompense
-
----
-
-### 3. Wounded Heart / Coeur Blessé
-
-Lié à la zone de corruption.
-
-**Emplacement communautaire décrit :**
-- sud-ouest de la carte
-- dans un temple
-- passage caché **à droite / derrière l’autel**
-
-**Pourquoi il est souvent raté :**
-- mur ou passage peu visible
-- certains joueurs pensent que la zone est déjà nettoyée
-
----
-
-### 4. Module de la Family Home
-
-Souvent confondu avec Enchanted Heart, mais dans la pratique, beaucoup de joueurs disent simplement :
-> “retourne à la maison dans la ville principale”
+C’est le cas le plus récurrent dans les discussions Steam.
 
 **Repère :**
-- maison dans la zone de départ / ville principale
-- souvent décrite comme **en bas à gauche du checkpoint central**
 
-**Pourquoi il est souvent raté :**
-- la map peut paraître déjà finie
-- l’interaction utile n’est pas toujours évidente au premier passage
+- zone de départ / ville principale
+- maison en bas à gauche du checkpoint central selon plusieurs joueurs
+- après avoir sauvé/réuni la famille, il faut entrer et se placer/interagir correctement près du siège/pédestal/table
+
+**Pourquoi il est raté :**
+
+- l’entrée ressemble à une zone déjà connue
+- la carte peut être à 100%
+- il ne suffit pas toujours d’entrer : il faut se tenir au bon endroit / déclencher la scène
+
+**À faire si un module manque :** retourne d’abord ici.
+
+---
+
+### 2. Enchanted Heart
+
+Souvent lié à la progression familiale / maison principale.
+
+**Méthode :**
+
+1. sauver les proches / amis nécessaires
+2. retourner à la maison familiale
+3. interagir avec la scène familiale
+4. vérifier l’inventaire après l’animation ou le dialogue
+
+**Symptôme typique :** “j’ai 100% carte, mais il me manque un module entre deux modules déjà connus”.
+
+---
+
+### 3. Enchanted Powers / vendeur de scarabées
+
+Plusieurs joueurs ont découvert que leur “dernier module” venait simplement d’une récompense non achetée ou non récupérée auprès du robot/marchand lié aux scarabées dorés.
+
+**À vérifier :**
+
+- as-tu rendu les derniers scarabées ?
+- as-tu acheté toutes les améliorations du vendeur ?
+- as-tu reparlé au PNJ après le dernier lot ?
+
+**Erreur classique :** avoir tous les scarabées dans la progression, mais oublier le dernier échange.
+
+---
+
+### 4. Wounded Heart / Coeur Blessé
+
+Objet lié à la source de la corruption.
+
+**Repère communautaire :**
+
+- sud-ouest de la carte
+- temple / chapelle
+- autel visible
+- passage caché sur le côté droit / derrière l’autel
+
+**Pourquoi il est raté :** le mur secret n’est pas évident, et la zone peut paraître déjà nettoyée.
 
 ---
 
 ### 5. Récompense des 8 courses
 
-Après avoir terminé les **8 courses**, il faut encore **aller récupérer la récompense**.
+Après avoir gagné les **8 courses**, il reste une étape : aller récupérer la récompense finale.
 
-**Erreur classique :**
-- finir toutes les courses
-- penser que tout est validé
-- oublier le retour final pour l’objet/module associé
+**Repère général :** grande zone / temple au sud selon les retours communautaires.
 
----
-
-### 6. Récompense liée aux scarabées dorés
-
-Plusieurs retours indiquent que le “dernier module manquant” venait tout simplement d’un retour au PNJ/robot lié aux scarabées.
-
-**Réflexe :**
-- une fois les derniers scarabées obtenus, retourne parler au bon donneur de récompense
+**Erreur classique :** finir les courses une par une, voir le succès de course, puis oublier le retour final qui donne l’objet/module associé.
 
 ---
 
-## Méthode sûre pour trouver tous les modules
+### 6. Donjons optionnels / bâtiments cachés
+
+Certains modules ou pouvoirs ne sont pas sur la ligne principale :
+
+- bâtiment optionnel après la zone du Donjon 2
+- désert optionnel après Donjon 3
+- bâtiment caché de la région ouest / Donjon 4
+- égouts/souterrains de la région ouest
+
+Si tu joues “objectif principal uniquement”, tu peux finir l’histoire en ayant laissé ces lieux derrière toi.
+
+---
+
+## Méthode fiable pour trouver tous les modules
 
 ### Étape 1 — Ouvre la carte interactive
 
 ➡ <https://minishoot-map.github.io/>
 
-### Étape 2 — Active le bon filtre
+### Étape 2 — Active le filtre utile
 
 - **Modules & Skills**
 
-### Étape 3 — Nettoie la carte zone par zone
+Puis nettoie zone par zone plutôt que point par point au hasard.
 
-Le plus efficace n’est pas de courir partout, mais de procéder par blocs :
+### Étape 3 — Fais la boucle anti-oubli
 
-- zone de départ / ville
-- forêt / sud-ouest
-- désert optionnel
-- zone est
-- zone ouest / Donjon 4
-- post-game / extras
+Dans cet ordre :
 
-### Étape 4 — Vérifie les retours à déclenchement
+1. **Family Home**
+2. famille réunie / siège / scène
+3. vendeur de scarabées dorés
+4. récompense des 8 courses
+5. Wounded Heart / temple sud-ouest
+6. désert optionnel
+7. bâtiment caché zone ouest
+8. égouts / souterrains
 
-Si la carte semble vide mais qu’il manque un module :
+### Étape 4 — Force l’actualisation du succès si besoin
 
-- retourne à la **Family Home**
-- vérifie la **famille réunie**
-- vérifie **le vendeur de scarabées**
-- vérifie la **récompense des 8 courses**
-- vérifie **Wounded Heart**
+Si tu es certain d’avoir le dernier module mais que le succès ne tombe pas :
+
+- change de zone
+- ouvre/ferme l’inventaire
+- combats un ennemi
+- prends un coup si nécessaire
+- vérifie que tu n’as pas un mode spécial qui bloque une condition
 
 ---
 
-## FAQ — succès Suréquipément / Overstuffed
+## Tableau de diagnostic rapide
 
-### “J’ai tout, mais le succès ne tombe pas”
-
-Retours communautaires fréquents :
-- prendre un coup / subir un projectile a parfois déclenché le succès
-- certains effets actifs doivent se réinitialiser
-- désactiver un mode spécial comme l’invincibilité peut aider si tu l’utilisais
-
-En clair :
-- termine bien l’obtention du dernier module
-- change d’écran ou va combattre un ennemi
-- prends un hit si besoin pour forcer l’actualisation
-
-### “Ma carte est à 100%, mais je n’ai pas tous les modules”
-
-C’est un cas **réellement signalé par plusieurs joueurs**.
-
-Vérifie en priorité :
-1. **Enchanted Heart**
-2. **Enchanted Powers**
-3. **Wounded Heart**
-4. **récompense des 8 courses**
-5. **récompense scarabées dorés**
+| Symptôme | Vérification prioritaire |
+| --- | --- |
+| Carte à 100%, un module manque | Family Home + vendeur scarabées |
+| Module près d’Enchanted Heart manquant | maison familiale / siège / scène |
+| Module près d’Enchanted Powers manquant | dernier achat/récompense scarabées |
+| Wounded Heart manquant | temple sud-ouest, passage à droite de l’autel |
+| Module bas/droite manquant | finir les 8 courses + récupérer la récompense |
+| Succès ne pop pas | changer d’écran / combattre / prendre un hit |
 
 ---
 
@@ -174,7 +168,9 @@ Vérifie en priorité :
 - [ ] Récompense du **vendeur de scarabées** récupérée
 - [ ] Les **8 courses** gagnées
 - [ ] Récompense des courses récupérée
-- [ ] Donjons optionnels vérifiés
+- [ ] Donjon optionnel du désert terminé
+- [ ] Bâtiment caché zone ouest vérifié
+- [ ] Égouts / souterrains vérifiés
 - [ ] Nettoyage complet via la carte interactive
 
 ---
@@ -182,6 +178,6 @@ Vérifie en priorité :
 ## Sources utilisées pour ce document
 
 - Carte interactive : <https://minishoot-map.github.io/>
-- Discussions Steam : <https://steamcommunity.com/app/1634860/discussions/>
-- Retours Reddit sur les modules et Overstuffed
+- Discussions Steam sur modules manquants : voir [Sources](sources.md)
+- Retours Reddit sur modules / Overstuffed
 - Guide illustré GitHub : <https://github.com/YAL-Game-Things/Minishoot-Adventures-Guide>

@@ -14,6 +14,8 @@
 - [Secrets et objets faciles à rater](docs/secrets.md)
 - [Les 8 courses](docs/courses.md)
 - [Objectif 100% et succès](docs/100-percent.md)
+- [Checklist interactive](docs/checklist-interactive.html)
+- [Captures et repères visuels](docs/captures.md)
 - [Cartes, vidéos et ressources](docs/cartes.md)
 
 ---
@@ -28,6 +30,8 @@ Ce repo rassemble les meilleures infos communautaires trouvées sur le web et le
 - **courses** et récompenses
 - **succès importants** comme **Suréquipément**, **Trouver sa place**, **Coeur Blessé**, **Plus rapide que vous tous !**
 - **FAQ 100%** quand la carte affiche 100% mais qu’un objet manque encore
+- **checklist interactive locale** sauvegardée dans le navigateur
+- **plan de captures annotées** pour compléter le guide visuel
 
 ---
 
