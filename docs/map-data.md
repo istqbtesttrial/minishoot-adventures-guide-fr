@@ -6,6 +6,21 @@
 
 ---
 
+## 🖼️ Pictogrammes map extraits
+
+Les icônes utiles ont été extraites du sprite atlas de la carte interactive et placées dans [`assets/map-icons/`](assets/map-icons/).
+
+| Catégorie | Icône | Export associé |
+| --- | --- | --- |
+| Modules & Skills | <img src="assets/map-icons/module.png" width="30" alt="Module"> <img src="assets/map-icons/skill.png" width="30" alt="Skill"> | `modules_and_skills.csv` |
+| Scarabées dorés | <img src="assets/map-icons/golden-scarab.png" width="30" alt="Golden scarab"> | `scarabs.csv` |
+| Race spirits | <img src="assets/map-icons/race-spirit.png" width="30" alt="Race spirit"> | `race_spirits.csv` |
+| Coeurs / énergie | <img src="assets/map-icons/heart-crystal.png" width="30" alt="Heart"> <img src="assets/map-icons/energy-upgrade.png" width="30" alt="Energy"> | `heart_crystals.csv`, `energy_upgrades.csv` |
+| Carte / lore | <img src="assets/map-icons/map-piece.png" width="30" alt="Map"> <img src="assets/map-icons/lore-tablet.png" width="30" alt="Lore"> | `map_and_lore.csv` |
+| Clés | <img src="assets/map-icons/regular-key.png" width="30" alt="Key"> <img src="assets/map-icons/boss-key.png" width="30" alt="Boss key"> | `regular_keys.csv`, `boss_keys.csv`, `unique_keys.csv` |
+
+---
+
 ## 📁 Exports générés
 
 Les exports complets sont dans : [`data/map-extract/`](../data/map-extract/)

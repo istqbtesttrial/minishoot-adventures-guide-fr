@@ -100,6 +100,16 @@ Filtres les plus utiles :
 
 ---
 
+## 🧩 Icônes map utiles
+
+| Module | Skill | Coeur | Énergie | Scarabée | Course | Carte | Lore |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="assets/map-icons/module.png" width="30" alt="Module"> | <img src="assets/map-icons/skill.png" width="30" alt="Skill"> | <img src="assets/map-icons/heart-crystal.png" width="30" alt="Heart"> | <img src="assets/map-icons/energy-upgrade.png" width="30" alt="Energy"> | <img src="assets/map-icons/golden-scarab.png" width="30" alt="Scarab"> | <img src="assets/map-icons/race-spirit.png" width="30" alt="Race spirit"> | <img src="assets/map-icons/map-piece.png" width="30" alt="Map"> | <img src="assets/map-icons/lore-tablet.png" width="30" alt="Lore"> |
+
+Voir : [Pictogrammes](pictogrammes.md) et [index des icônes map](assets/map-icons/README.md).
+
+---
+
 ## 🧪 Niveau de confiance
 
 - ✅ **Très fiable** : extraction de la carte interactive, succès, Family Home, vendeur scarabées, Wounded Heart, récompense courses.

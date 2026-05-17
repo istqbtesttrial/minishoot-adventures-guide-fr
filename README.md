@@ -70,6 +70,16 @@
 
 ---
 
+## 🗺️ Icônes extraites de la map
+
+| 🧩 Module | ✨ Skill | ❤️ Coeur | ⚡ Énergie | 🪲 Scarabée | 👻 Course | 🗺️ Carte | 📜 Lore |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| <img src="docs/assets/map-icons/module.png" width="30" alt="Module"> | <img src="docs/assets/map-icons/skill.png" width="30" alt="Skill"> | <img src="docs/assets/map-icons/heart-crystal.png" width="30" alt="Heart"> | <img src="docs/assets/map-icons/energy-upgrade.png" width="30" alt="Energy"> | <img src="docs/assets/map-icons/golden-scarab.png" width="30" alt="Scarab"> | <img src="docs/assets/map-icons/race-spirit.png" width="30" alt="Race spirit"> | <img src="docs/assets/map-icons/map-piece.png" width="30" alt="Map"> | <img src="docs/assets/map-icons/lore-tablet.png" width="30" alt="Lore"> |
+
+Index complet : [docs/assets/map-icons/README.md](docs/assets/map-icons/README.md)
+
+---
+
 ## 🗺️ Ressource n°1 : carte interactive
 
 ➡ **https://minishoot-map.github.io/**

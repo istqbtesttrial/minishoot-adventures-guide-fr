@@ -112,6 +112,41 @@ Si tu joues “objectif principal uniquement”, tu peux finir l’histoire en a
 
 ---
 
+## 🖼️ Icônes des modules depuis la carte interactive
+
+Ces images sont les pictogrammes réels utilisés par la map interactive pour les modules/pouvoirs nécessaires.
+
+### 🧩 Modules
+
+| Icône | Module |
+| --- | --- |
+| <img src="assets/map-icons/modules-retaliation.png" width="30" alt="Retaliation"> | Retaliation |
+| <img src="assets/map-icons/modules-teleport.png" width="30" alt="Teleport"> | Teleport |
+| <img src="assets/map-icons/modules-compass.png" width="30" alt="Compass"> | Compass |
+| <img src="assets/map-icons/modules-collectablescan.png" width="30" alt="CollectableScan"> | CollectableScan |
+| <img src="assets/map-icons/modules-overcharge.png" width="30" alt="Overcharge"> | Overcharge |
+| <img src="assets/map-icons/modules-idolally.png" width="30" alt="IdolAlly"> | IdolAlly |
+| <img src="assets/map-icons/modules-idolbomb.png" width="30" alt="IdolBomb"> | IdolBomb |
+| <img src="assets/map-icons/modules-idolslow.png" width="30" alt="IdolSlow"> | IdolSlow |
+| <img src="assets/map-icons/modules-freepower.png" width="30" alt="FreePower"> | FreePower |
+| <img src="assets/map-icons/modules-boostcost.png" width="30" alt="BoostCost"> | BoostCost |
+| <img src="assets/map-icons/modules-xpgain.png" width="30" alt="XpGain"> | XpGain |
+| <img src="assets/map-icons/modules-hpdrop.png" width="30" alt="HpDrop"> | HpDrop |
+| <img src="assets/map-icons/modules-hearthcrystal.png" width="30" alt="HearthCrystal"> | HearthCrystal |
+| <img src="assets/map-icons/modules-primordialcrystal.png" width="30" alt="PrimordialCrystal"> | PrimordialCrystal |
+| <img src="assets/map-icons/modules-bluebullet.png" width="30" alt="BlueBullet"> | BlueBullet |
+| <img src="assets/map-icons/modules-rage.png" width="30" alt="Rage"> | Rage |
+| <img src="assets/map-icons/modules-spiritdash.png" width="30" alt="SpiritDash"> | SpiritDash |
+
+### ✨ Skills
+
+| Icône | Skill |
+| --- | --- |
+| <img src="assets/map-icons/skills-boost.png" width="30" alt="Boost"> | Boost |
+| <img src="assets/map-icons/skills-dash.png" width="30" alt="Dash"> | Dash |
+| <img src="assets/map-icons/skills-supershot.png" width="30" alt="Supershot"> | Supershot |
+| <img src="assets/map-icons/skills-hover.png" width="30" alt="Hover"> | Hover |
+
 ## 🗺️ Méthode fiable pour trouver tous les modules
 
 ### Étape 1 — Ouvre la carte interactive

@@ -43,6 +43,20 @@ Source EN complète : <https://truesteamachievements.com/game/Minishoot-Adventur
 
 ---
 
+
+## 🖼️ Repères visuels des collectibles
+
+| Collectible | Picto map | Page utile |
+| --- | --- | --- |
+| 🧩 Modules | <img src="assets/map-icons/module.png" width="30" alt="Module"> | [Modules](modules.md) |
+| ✨ Skills | <img src="assets/map-icons/skill.png" width="30" alt="Skill"> | [Parcours 100%](parcours-100.md) |
+| 🪲 Scarabées | <img src="assets/map-icons/golden-scarab.png" width="30" alt="Scarabée"> | [Dépannage](depannage.md#scarabee-dore-manquant) |
+| 👻 Race spirits | <img src="assets/map-icons/race-spirit.png" width="30" alt="Race spirit"> | [Courses](courses.md) |
+| ❤️ Coeurs | <img src="assets/map-icons/heart-crystal.png" width="30" alt="Coeur"> | [Extraction map](map-data.md) |
+| ⚡ Énergie | <img src="assets/map-icons/energy-upgrade.png" width="30" alt="Énergie"> | [Extraction map](map-data.md) |
+| 🗺️ Carte | <img src="assets/map-icons/map-piece.png" width="30" alt="Carte"> | [Extraction map](map-data.md) |
+| 📜 Lore | <img src="assets/map-icons/lore-tablet.png" width="30" alt="Lore"> | [Extraction map](map-data.md) |
+
 ## ✅ Checklist 100% simple
 
 ### Progression
