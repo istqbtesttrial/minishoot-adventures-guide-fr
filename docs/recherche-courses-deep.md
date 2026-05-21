@@ -1,6 +1,6 @@
 # 🔎 Recherche deep — les 8 courses
 
-> Synthèse des informations trouvées en ligne + données extraites de la carte interactive.  
+> Synthèse des informations trouvées en ligne + données extraites de la carte interactive.<br>
 > Objectif : comprendre où sont les 8 courses, comment les retrouver, quoi faire si une course manque, et quelle récompense est liée.
 >
 > 🗺️ Pour les emplacements et le nombre de courses, la carte interactive est la référence absolue. Les autres sources servent à expliquer l’accès, les conditions et les pièges.

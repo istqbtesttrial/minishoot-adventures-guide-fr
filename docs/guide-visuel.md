@@ -4,7 +4,7 @@
 >
 > La carte interactive est la **référence absolue** pour les emplacements, coordonnées, catégories et quantités.
 
-🗺️ Carte interactive : <https://minishoot-map.github.io/>  
+🗺️ Carte interactive : <https://minishoot-map.github.io/><br>
 📚 Sommaire : [README](README.md)
 
 ---

@@ -8,7 +8,7 @@
 
 ## 🎮 Mode d’emploi
 
-Pendant l’histoire : lis surtout les sections **réflexe après donjon**.  
+Pendant l’histoire : lis surtout les sections **réflexe après donjon**.<br>
 Pendant le nettoyage final : utilise [Checklist 100%](checklist-100-pourcent.md), [Dépannage](depannage-problemes-frequents.md) et la carte interactive.
 
 Règle d’or : après chaque nouveau pouvoir, revisite mentalement les passages vus plus tôt : trous, murs suspects, rails de course, petits temples, maisons, autels, PNJ et bâtiments fermés.

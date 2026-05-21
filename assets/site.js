@@ -6,7 +6,9 @@ const checklist = [
     ["Donjon optionnel du désert", "Pouvoir, boss et scarabée"],
     ["Donjon 4 terminé", "Bâtiment caché, bouton et égouts"],
     ["Boss final battu", "Checkpoint final utilisé si besoin"],
-    ["Bonus dungeons terminés", "Post-game et challenges"]
+    ["Bonus dungeons terminés", "Post-game et challenges"],
+    ["Carte interactive utilisée", "Un seul filtre actif à la fois"],
+    ["Vendeurs revisités", "Après chaque gros pouvoir"]
   ]},
   { title: "Collectibles", icon: "🧩", items: [
     ["Tous les modules", "17 modules"],
@@ -16,7 +18,9 @@ const checklist = [
     ["Tous les scarabées", "18 scarabées dorés"],
     ["Fragments de carte", "8 fragments"],
     ["Tablettes lore", "5 tablettes"],
-    ["Clés importantes", "clés normales, boss keys, clés uniques"]
+    ["Clés importantes", "clés normales, boss keys, clés uniques"],
+    ["Reward courses récupéré", "Après les 8 races"],
+    ["Reward scarabées récupéré", "Après les 18 scarabées"]
   ]},
   { title: "Courses", icon: "🏁", items: [
     ["Course #1", "Passage sable / canyon rocheux"],
@@ -37,7 +41,9 @@ const checklist = [
     ["Arbre réveillé", "Fini de ronfler"],
     ["Scarabée Primordial", "Rencontre de l’entité"],
     ["Trous / chutes utiles", "Accès cachés"],
-    ["Jarres maison familiale", "Succès lié aux jarres"]
+    ["Jarres maison familiale", "Succès lié aux jarres"],
+    ["Barde écouté assez longtemps", "Ne pas partir trop vite"],
+    ["Wounded Heart revalidé", "Autel / passage caché"]
   ]},
   { title: "Final", icon: "✅", items: [
     ["Succès de difficulté", "Ne pas baisser la difficulté"],
@@ -52,9 +58,15 @@ const checklist = [
 const searchIndex = [
   ["Module manquant", "Vérifie Family Home, vendeur scarabées, récompense des courses et Wounded Heart.", "depannage.html#module"],
   ["Course #2", "Tour aux 3 slimes, accès souterrain, piste à l’est.", "depannage.html#course"],
+  ["Dernière course", "Utilise les checkmarks de la carte et compare la tour aux 3 slimes en priorité.", "depannage.html#course"],
   ["Family Home", "Retour maison après avoir sauvé les proches, interaction avec la chaise.", "depannage.html#family"],
   ["Wounded Heart", "Chapelle sud-ouest, autel, passage caché.", "depannage.html#wounded"],
   ["Scarabée manquant", "Comparer les 18 scarabées avec la carte interactive.", "depannage.html#scarabee"],
+  ["Batterie cachée", "Près d’une piste de time trial après le Donjon 3.", "depannage.html"],
+  ["Donjon désert", "Zone optionnelle à ne pas oublier avant le cleanup final.", "guide.html"],
+  ["Récompense des courses", "Après les 8 courses, il faut encore récupérer l’objet final.", "collectibles.html#courses"],
+  ["Guide Steam", "Guide écrit illustré conseillé pour comparer visuellement un doute.", "sources.html"],
+  ["Walkthrough vidéo", "Run complet utile pour confirmer un accès ou une zone de fin.", "sources.html"],
   ["Succès difficulté", "La plus basse difficulté utilisée détermine les succès.", "checklist.html"],
   ["Sans regarder en arrière", "Action finale à faire seulement à la fin.", "depannage.html#final"],
   ["Carte interactive", "Source absolue pour coordonnées et objets placés.", "https://minishoot-map.github.io/"]
